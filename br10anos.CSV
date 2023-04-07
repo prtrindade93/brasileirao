@@ -1,0 +1,4181 @@
+Temporada;Data;Mandante;Visitante;GF;GC;Resultado;SG
+2012;19/05/2012;Palmeiras;Portuguesa;1;1;D;0
+2012;19/05/2012;Sport;Flamengo;1;1;D;0
+2012;20/05/2012;Figueirense;Nautico;2;1;H;1
+2012;20/05/2012;Botafogo;Sao Paulo;4;2;H;2
+2012;20/05/2012;Corinthians;Fluminense;0;1;A;-1
+2012;20/05/2012;Internacional;Coritiba;2;0;H;2
+2012;20/05/2012;Ponte Preta;Atletico MG;0;1;A;-1
+2012;20/05/2012;Bahia;Santos;0;0;D;0
+2012;20/05/2012;Cruzeiro;Atletico GO;0;0;D;0
+2012;20/05/2012;Vasco;Gremio;2;1;H;1
+2012;26/05/2012;Atletico GO;Ponte Preta;1;1;D;0
+2012;26/05/2012;Flamengo;Internacional;3;3;D;0
+2012;26/05/2012;Portuguesa;Vasco;0;1;A;-1
+2012;27/05/2012;Nautico;Cruzeiro;0;0;D;0
+2012;27/05/2012;Atletico MG;Corinthians;1;0;H;1
+2012;27/05/2012;Coritiba;Botafogo;2;3;A;-1
+2012;27/05/2012;Santos;Sport;0;0;D;0
+2012;27/05/2012;Sao Paulo;Bahia;1;0;H;1
+2012;27/05/2012;Fluminense;Figueirense;2;2;D;0
+2012;27/05/2012;Gremio;Palmeiras;1;0;H;1
+2012;06/06/2012;Atletico GO;Gremio;0;1;A;-1
+2012;06/06/2012;Sport;Palmeiras;2;1;H;1
+2012;07/06/2012;Atletico MG;Bahia;1;1;D;0
+2012;07/06/2012;Coritiba;Portuguesa;2;0;H;2
+2012;07/06/2012;Vasco;Nautico;4;2;H;2
+2012;07/06/2012;Internacional;Sao Paulo;1;0;H;1
+2012;07/06/2012;Ponte Preta;Flamengo;2;2;D;0
+2012;07/06/2012;Santos;Fluminense;1;1;D;0
+2012;08/06/2012;Botafogo;Cruzeiro;2;3;A;-1
+2012;08/06/2012;Corinthians;Figueirense;1;1;D;0
+2012;09/06/2012;Flamengo;Coritiba;3;1;H;2
+2012;10/06/2012;Palmeiras;Atletico MG;0;1;A;-1
+2012;10/06/2012;Portuguesa;Atletico GO;2;0;H;2
+2012;10/06/2012;Bahia;Vasco;1;2;A;-1
+2012;10/06/2012;Fluminense;Internacional;0;0;D;0
+2012;10/06/2012;Gremio;Corinthians;2;0;H;2
+2012;10/06/2012;Cruzeiro;Sport;1;0;H;1
+2012;10/06/2012;Figueirense;Ponte Preta;0;0;D;0
+2012;10/06/2012;Nautico;Botafogo;3;2;H;1
+2012;10/06/2012;Sao Paulo;Santos;1;0;H;1
+2012;16/06/2012;Cruzeiro;Figueirense;1;0;H;1
+2012;16/06/2012;Internacional;Botafogo;1;2;A;-1
+2012;17/06/2012;Fluminense;Portuguesa;4;1;H;3
+2012;17/06/2012;Bahia;Sport;2;1;H;1
+2012;17/06/2012;Flamengo;Santos;1;0;H;1
+2012;17/06/2012;Palmeiras;Vasco;1;1;D;0
+2012;17/06/2012;Sao Paulo;Atletico MG;1;0;H;1
+2012;17/06/2012;Coritiba;Atletico GO;3;0;H;3
+2012;17/06/2012;Nautico;Gremio;1;0;H;1
+2012;17/06/2012;Ponte Preta;Corinthians;1;0;H;1
+2012;23/06/2012;Portuguesa;Sao Paulo;1;0;H;1
+2012;23/06/2012;Vasco;Cruzeiro;1;3;A;-2
+2012;24/06/2012;Atletico MG;Nautico;5;1;H;4
+2012;24/06/2012;Corinthians;Palmeiras;2;1;H;1
+2012;24/06/2012;Figueirense;Bahia;1;1;D;0
+2012;24/06/2012;Gremio;Flamengo;2;0;H;2
+2012;24/06/2012;Atletico GO;Fluminense;1;4;A;-3
+2012;24/06/2012;Botafogo;Ponte Preta;1;2;A;-1
+2012;24/06/2012;Santos;Coritiba;2;2;D;0
+2012;24/06/2012;Sport;Internacional;0;2;A;-2
+2012;30/06/2012;Cruzeiro;Sao Paulo;2;3;A;-1
+2012;30/06/2012;Nautico;Fluminense;0;2;A;-2
+2012;30/06/2012;Vasco;Ponte Preta;3;2;H;1
+2012;01/07/2012;Bahia;Internacional;1;1;D;0
+2012;01/07/2012;Coritiba;Sport;2;3;A;-1
+2012;01/07/2012;Portuguesa;Santos;0;0;D;0
+2012;01/07/2012;Flamengo;Atletico GO;3;2;H;1
+2012;01/07/2012;Gremio;Atletico MG;0;1;A;-1
+2012;01/07/2012;Palmeiras;Figueirense;3;1;H;2
+2012;07/07/2012;Botafogo;Bahia;3;0;H;3
+2012;07/07/2012;Internacional;Cruzeiro;2;1;H;1
+2012;08/07/2012;Atletico GO;Nautico;0;1;A;-1
+2012;08/07/2012;Figueirense;Vasco;1;1;D;0
+2012;08/07/2012;Fluminense;Flamengo;1;0;H;1
+2012;08/07/2012;Santos;Gremio;4;2;H;2
+2012;08/07/2012;Sao Paulo;Coritiba;3;1;H;2
+2012;08/07/2012;Atletico MG;Portuguesa;2;0;H;2
+2012;08/07/2012;Ponte Preta;Palmeiras;1;0;H;1
+2012;08/07/2012;Sport;Corinthians;1;1;D;0
+2012;11/07/2012;Corinthians;Botafogo;1;3;A;-2
+2012;14/07/2012;Corinthians;Nautico;2;1;H;1
+2012;14/07/2012;Figueirense;Atletico MG;3;4;A;-1
+2012;15/07/2012;Ponte Preta;Coritiba;4;1;H;3
+2012;15/07/2012;Bahia;Flamengo;1;2;A;-1
+2012;15/07/2012;Botafogo;Fluminense;1;1;D;0
+2012;15/07/2012;Cruzeiro;Gremio;1;3;A;-2
+2012;15/07/2012;Internacional;Santos;0;0;D;0
+2012;15/07/2012;Palmeiras;Sao Paulo;1;1;D;0
+2012;15/07/2012;Sport;Portuguesa;2;1;H;1
+2012;15/07/2012;Vasco;Atletico GO;1;0;H;1
+2012;18/07/2012;Gremio;Sport;3;1;H;2
+2012;18/07/2012;Santos;Botafogo;0;0;D;0
+2012;19/07/2012;Nautico;Ponte Preta;3;0;H;3
+2012;19/07/2012;Portuguesa;Cruzeiro;0;2;A;-2
+2012;19/07/2012;Atletico MG;Internacional;3;1;H;2
+2012;19/07/2012;Flamengo;Corinthians;0;3;A;-3
+2012;19/07/2012;Sao Paulo;Vasco;0;1;A;-1
+2012;20/07/2012;Atletico GO;Figueirense;3;2;H;1
+2012;20/07/2012;Coritiba;Palmeiras;1;1;D;0
+2012;20/07/2012;Fluminense;Bahia;4;0;H;4
+2012;21/07/2012;Sport;Atletico MG;1;4;A;-3
+2012;21/07/2012;Vasco;Santos;2;0;H;2
+2012;22/07/2012;Corinthians;Portuguesa;1;1;D;0
+2012;22/07/2012;Cruzeiro;Flamengo;1;0;H;1
+2012;22/07/2012;Figueirense;Sao Paulo;0;2;A;-2
+2012;22/07/2012;Internacional;Atletico GO;4;1;H;3
+2012;22/07/2012;Palmeiras;Nautico;3;0;H;3
+2012;22/07/2012;Bahia;Coritiba;2;2;D;0
+2012;22/07/2012;Botafogo;Gremio;0;1;A;-1
+2012;22/07/2012;Ponte Preta;Fluminense;1;2;A;-1
+2012;25/07/2012;Figueirense;Internacional;0;1;A;-1
+2012;25/07/2012;Ponte Preta;Sport;1;1;D;0
+2012;26/07/2012;Nautico;Coritiba;3;4;A;-1
+2012;26/07/2012;Vasco;Botafogo;1;0;H;1
+2012;26/07/2012;Atletico GO;Sao Paulo;4;3;H;1
+2012;26/07/2012;Corinthians;Cruzeiro;2;0;H;2
+2012;26/07/2012;Gremio;Fluminense;1;0;H;1
+2012;27/07/2012;Atletico MG;Santos;2;0;H;2
+2012;27/07/2012;Flamengo;Portuguesa;0;0;D;0
+2012;27/07/2012;Palmeiras;Bahia;0;2;A;-2
+2012;28/07/2012;Coritiba;Gremio;2;1;H;1
+2012;28/07/2012;Internacional;Vasco;0;0;D;0
+2012;29/07/2012;Botafogo;Figueirense;1;0;H;1
+2012;29/07/2012;Bahia;Corinthians;0;0;D;0
+2012;29/07/2012;Fluminense;Atletico MG;0;0;D;0
+2012;29/07/2012;Sao Paulo;Flamengo;4;1;H;3
+2012;29/07/2012;Sport;Atletico GO;0;0;D;0
+2012;29/07/2012;Cruzeiro;Palmeiras;2;1;H;1
+2012;29/07/2012;Portuguesa;Nautico;3;1;H;2
+2012;29/07/2012;Santos;Ponte Preta;2;1;H;1
+2012;04/08/2012;Atletico GO;Botafogo;1;2;A;-1
+2012;04/08/2012;Palmeiras;Internacional;0;1;A;-1
+2012;05/08/2012;Portuguesa;Figueirense;2;0;H;2
+2012;05/08/2012;Coritiba;Fluminense;0;2;A;-2
+2012;05/08/2012;Gremio;Bahia;3;1;H;2
+2012;05/08/2012;Sao Paulo;Sport;1;0;H;1
+2012;05/08/2012;Vasco;Corinthians;0;0;D;0
+2012;05/08/2012;Cruzeiro;Ponte Preta;1;2;A;-1
+2012;05/08/2012;Nautico;Santos;3;0;H;3
+2012;08/08/2012;Internacional;Nautico;0;0;D;0
+2012;08/08/2012;Sport;Vasco;0;2;A;-2
+2012;09/08/2012;Bahia;Portuguesa;0;0;D;0
+2012;09/08/2012;Corinthians;Atletico GO;1;1;D;0
+2012;09/08/2012;Botafogo;Palmeiras;1;2;A;-1
+2012;09/08/2012;Figueirense;Flamengo;0;2;A;-2
+2012;09/08/2012;Santos;Cruzeiro;4;2;H;2
+2012;10/08/2012;Atletico MG;Coritiba;1;0;H;1
+2012;10/08/2012;Fluminense;Sao Paulo;2;1;H;1
+2012;10/08/2012;Ponte Preta;Gremio;0;0;D;0
+2012;11/08/2012;Bahia;Cruzeiro;0;1;A;-1
+2012;11/08/2012;Santos;Atletico GO;2;2;D;0
+2012;11/08/2012;Sport;Figueirense;0;1;A;-1
+2012;12/08/2012;Flamengo;Nautico;2;0;H;2
+2012;12/08/2012;Atletico MG;Vasco;1;0;H;1
+2012;12/08/2012;Coritiba;Corinthians;1;2;A;-1
+2012;12/08/2012;Internacional;Ponte Preta;2;1;H;1
+2012;12/08/2012;Sao Paulo;Gremio;1;2;A;-1
+2012;12/08/2012;Fluminense;Palmeiras;1;0;H;1
+2012;12/08/2012;Portuguesa;Botafogo;1;1;D;0
+2012;15/08/2012;Cruzeiro;Fluminense;1;1;D;0
+2012;15/08/2012;Gremio;Portuguesa;1;2;A;-1
+2012;16/08/2012;Atletico GO;Atletico MG;1;1;D;0
+2012;16/08/2012;Ponte Preta;Bahia;0;2;A;-2
+2012;16/08/2012;Botafogo;Sport;2;0;H;2
+2012;16/08/2012;Nautico;Sao Paulo;3;0;H;3
+2012;16/08/2012;Palmeiras;Flamengo;1;0;H;1
+2012;17/08/2012;Corinthians;Internacional;1;0;H;1
+2012;17/08/2012;Figueirense;Santos;1;3;A;-2
+2012;17/08/2012;Vasco;Coritiba;2;2;D;0
+2012;18/08/2012;Fluminense;Sport;1;0;H;1
+2012;18/08/2012;Nautico;Bahia;1;0;H;1
+2012;19/08/2012;Sao Paulo;Ponte Preta;3;0;H;3
+2012;19/08/2012;Atletico MG;Botafogo;3;2;H;1
+2012;19/08/2012;Coritiba;Cruzeiro;4;0;H;4
+2012;19/08/2012;Gremio;Figueirense;4;0;H;4
+2012;19/08/2012;Santos;Corinthians;3;2;H;1
+2012;19/08/2012;Atletico GO;Palmeiras;2;1;H;1
+2012;19/08/2012;Flamengo;Vasco;1;0;H;1
+2012;19/08/2012;Portuguesa;Internacional;1;1;D;0
+2012;25/08/2012;Palmeiras;Santos;1;2;A;-1
+2012;25/08/2012;Vasco;Fluminense;1;2;A;-1
+2012;26/08/2012;Ponte Preta;Portuguesa;2;1;H;1
+2012;26/08/2012;Botafogo;Flamengo;0;0;D;0
+2012;26/08/2012;Corinthians;Sao Paulo;1;2;A;-1
+2012;26/08/2012;Figueirense;Coritiba;3;1;H;2
+2012;26/08/2012;Internacional;Gremio;0;1;A;-1
+2012;26/08/2012;Bahia;Atletico GO;1;1;D;0
+2012;26/08/2012;Cruzeiro;Atletico MG;2;2;D;0
+2012;26/08/2012;Sport;Nautico;0;0;D;0
+2012;29/08/2012;Coritiba;Internacional;1;0;H;1
+2012;29/08/2012;Santos;Bahia;1;3;A;-2
+2012;30/08/2012;Atletico MG;Ponte Preta;2;2;D;0
+2012;30/08/2012;Nautico;Figueirense;3;2;H;1
+2012;30/08/2012;Portuguesa;Palmeiras;3;0;H;3
+2012;30/08/2012;Atletico GO;Cruzeiro;0;2;A;-2
+2012;30/08/2012;Fluminense;Corinthians;1;1;D;0
+2012;30/08/2012;Gremio;Vasco;2;0;H;2
+2012;31/08/2012;Flamengo;Sport;1;1;D;0
+2012;31/08/2012;Sao Paulo;Botafogo;4;0;H;4
+2012;01/09/2012;Figueirense;Fluminense;2;2;D;0
+2012;01/09/2012;Palmeiras;Gremio;0;0;D;0
+2012;02/09/2012;Vasco;Portuguesa;2;0;H;2
+2012;02/09/2012;Bahia;Sao Paulo;1;0;H;1
+2012;02/09/2012;Corinthians;Atletico MG;1;0;H;1
+2012;02/09/2012;Internacional;Flamengo;4;1;H;3
+2012;02/09/2012;Sport;Santos;2;1;H;1
+2012;02/09/2012;Botafogo;Coritiba;2;0;H;2
+2012;02/09/2012;Cruzeiro;Nautico;3;0;H;3
+2012;02/09/2012;Ponte Preta;Atletico GO;3;1;H;2
+2012;05/09/2012;Bahia;Atletico MG;0;0;D;0
+2012;05/09/2012;Flamengo;Ponte Preta;0;1;A;-1
+2012;05/09/2012;Nautico;Vasco;1;1;D;0
+2012;05/09/2012;Portuguesa;Coritiba;3;0;H;3
+2012;06/09/2012;Gremio;Atletico GO;2;1;H;1
+2012;06/09/2012;Cruzeiro;Botafogo;1;3;A;-2
+2012;06/09/2012;Figueirense;Corinthians;1;0;H;1
+2012;06/09/2012;Sao Paulo;Internacional;1;1;D;0
+2012;07/09/2012;Fluminense;Santos;3;1;H;2
+2012;07/09/2012;Palmeiras;Sport;3;1;H;2
+2012;08/09/2012;Coritiba;Flamengo;3;0;H;3
+2012;08/09/2012;Ponte Preta;Figueirense;2;2;D;0
+2012;09/09/2012;Corinthians;Gremio;3;1;H;2
+2012;09/09/2012;Botafogo;Nautico;3;1;H;2
+2012;09/09/2012;Internacional;Fluminense;0;1;A;-1
+2012;09/09/2012;Santos;Sao Paulo;0;0;D;0
+2012;09/09/2012;Atletico GO;Portuguesa;1;1;D;0
+2012;09/09/2012;Atletico MG;Palmeiras;3;0;H;3
+2012;09/09/2012;Sport;Cruzeiro;2;1;H;1
+2012;09/09/2012;Vasco;Bahia;0;4;A;-4
+2012;12/09/2012;Corinthians;Ponte Preta;1;1;D;0
+2012;12/09/2012;Figueirense;Cruzeiro;2;0;H;2
+2012;12/09/2012;Portuguesa;Fluminense;0;2;A;-2
+2012;13/09/2012;Atletico GO;Coritiba;1;2;A;-1
+2012;13/09/2012;Sport;Bahia;1;1;D;0
+2012;13/09/2012;Atletico MG;Sao Paulo;1;0;H;1
+2012;13/09/2012;Santos;Flamengo;2;0;H;2
+2012;13/09/2012;Vasco;Palmeiras;3;1;H;2
+2012;14/09/2012;Botafogo;Internacional;1;1;D;0
+2012;14/09/2012;Gremio;Nautico;2;0;H;2
+2012;15/09/2012;Sao Paulo;Portuguesa;3;1;H;2
+2012;15/09/2012;Fluminense;Atletico GO;1;2;A;-1
+2012;16/09/2012;Bahia;Figueirense;2;1;H;1
+2012;16/09/2012;Coritiba;Santos;1;2;A;-1
+2012;16/09/2012;Cruzeiro;Vasco;1;1;D;0
+2012;16/09/2012;Nautico;Atletico MG;1;0;H;1
+2012;16/09/2012;Palmeiras;Corinthians;0;2;A;-2
+2012;16/09/2012;Flamengo;Gremio;1;1;D;0
+2012;16/09/2012;Internacional;Sport;2;2;D;0
+2012;16/09/2012;Ponte Preta;Botafogo;0;0;D;0
+2012;22/09/2012;Figueirense;Palmeiras;1;3;A;-2
+2012;22/09/2012;Fluminense;Nautico;2;1;H;1
+2012;23/09/2012;Santos;Portuguesa;1;3;A;-2
+2012;23/09/2012;Atletico GO;Flamengo;1;2;A;-1
+2012;23/09/2012;Botafogo;Corinthians;2;2;D;0
+2012;23/09/2012;Ponte Preta;Vasco;0;0;D;0
+2012;23/09/2012;Sao Paulo;Cruzeiro;1;0;H;1
+2012;23/09/2012;Atletico MG;Gremio;0;0;D;0
+2012;23/09/2012;Internacional;Bahia;3;1;H;2
+2012;23/09/2012;Sport;Coritiba;1;0;H;1
+2012;27/09/2012;Flamengo;Atletico MG;2;1;H;1
+2012;29/09/2012;Cruzeiro;Internacional;0;0;D;0
+2012;29/09/2012;Nautico;Atletico GO;2;0;H;2
+2012;29/09/2012;Portuguesa;Atletico MG;1;1;D;0
+2012;29/09/2012;Vasco;Figueirense;3;1;H;2
+2012;30/09/2012;Palmeiras;Ponte Preta;3;0;H;3
+2012;30/09/2012;Bahia;Botafogo;2;0;H;2
+2012;30/09/2012;Corinthians;Sport;3;0;H;3
+2012;30/09/2012;Coritiba;Sao Paulo;1;1;D;0
+2012;30/09/2012;Flamengo;Fluminense;0;1;A;-1
+2012;30/09/2012;Gremio;Santos;1;1;D;0
+2012;05/10/2012;Coritiba;Ponte Preta;1;0;H;1
+2012;05/10/2012;Flamengo;Bahia;0;0;D;0
+2012;05/10/2012;Portuguesa;Sport;5;1;H;4
+2012;06/10/2012;Sao Paulo;Palmeiras;3;0;H;3
+2012;06/10/2012;Atletico GO;Vasco;0;1;A;-1
+2012;06/10/2012;Nautico;Corinthians;2;1;H;1
+2012;06/10/2012;Santos;Internacional;1;1;D;0
+2012;06/10/2012;Atletico MG;Figueirense;6;0;H;6
+2012;06/10/2012;Fluminense;Botafogo;1;0;H;1
+2012;06/10/2012;Gremio;Cruzeiro;2;1;H;1
+2012;10/10/2012;Bahia;Fluminense;0;2;A;-2
+2012;10/10/2012;Botafogo;Santos;0;2;A;-2
+2012;10/10/2012;Cruzeiro;Portuguesa;2;0;H;2
+2012;10/10/2012;Figueirense;Atletico GO;3;1;H;2
+2012;10/10/2012;Ponte Preta;Nautico;2;1;H;1
+2012;11/10/2012;Corinthians;Flamengo;3;2;H;1
+2012;11/10/2012;Internacional;Atletico MG;3;0;H;3
+2012;11/10/2012;Vasco;Sao Paulo;0;2;A;-2
+2012;12/10/2012;Palmeiras;Coritiba;0;1;A;-1
+2012;12/10/2012;Sport;Gremio;1;3;A;-2
+2012;13/10/2012;Atletico GO;Internacional;3;1;H;2
+2012;13/10/2012;Flamengo;Cruzeiro;1;1;D;0
+2012;14/10/2012;Portuguesa;Corinthians;1;1;D;0
+2012;14/10/2012;Atletico MG;Sport;2;1;H;1
+2012;14/10/2012;Coritiba;Bahia;2;1;H;1
+2012;14/10/2012;Nautico;Palmeiras;1;0;H;1
+2012;14/10/2012;Santos;Vasco;2;0;H;2
+2012;14/10/2012;Sao Paulo;Figueirense;2;0;H;2
+2012;14/10/2012;Fluminense;Ponte Preta;2;1;H;1
+2012;14/10/2012;Gremio;Botafogo;1;1;D;0
+2012;17/10/2012;Bahia;Palmeiras;0;1;A;-1
+2012;17/10/2012;Coritiba;Nautico;2;1;H;1
+2012;17/10/2012;Fluminense;Gremio;2;2;D;0
+2012;17/10/2012;Internacional;Figueirense;2;3;A;-1
+2012;18/10/2012;Cruzeiro;Corinthians;2;0;H;2
+2012;18/10/2012;Portuguesa;Flamengo;0;0;D;0
+2012;18/10/2012;Santos;Atletico MG;2;2;D;0
+2012;19/10/2012;Botafogo;Vasco;3;2;H;1
+2012;19/10/2012;Sao Paulo;Atletico GO;2;0;H;2
+2012;19/10/2012;Sport;Ponte Preta;3;1;H;2
+2012;20/10/2012;Corinthians;Bahia;1;1;D;0
+2012;20/10/2012;Gremio;Coritiba;0;0;D;0
+2012;20/10/2012;Palmeiras;Cruzeiro;2;0;H;2
+2012;21/10/2012;Atletico MG;Fluminense;3;2;H;1
+2012;21/10/2012;Flamengo;Sao Paulo;1;0;H;1
+2012;21/10/2012;Nautico;Portuguesa;0;0;D;0
+2012;21/10/2012;Atletico GO;Sport;0;1;A;-1
+2012;21/10/2012;Ponte Preta;Santos;1;0;H;1
+2012;24/10/2012;Vasco;Internacional;1;2;A;-1
+2012;25/10/2012;Figueirense;Botafogo;0;2;A;-2
+2012;26/10/2012;Fluminense;Coritiba;2;1;H;1
+2012;26/10/2012;Ponte Preta;Cruzeiro;1;0;H;1
+2012;26/10/2012;Santos;Nautico;0;0;D;0
+2012;27/10/2012;Corinthians;Vasco;1;0;H;1
+2012;27/10/2012;Internacional;Palmeiras;2;1;H;1
+2012;27/10/2012;Bahia;Gremio;1;1;D;0
+2012;27/10/2012;Botafogo;Atletico GO;4;0;H;4
+2012;27/10/2012;Figueirense;Portuguesa;0;0;D;0
+2012;27/10/2012;Sport;Sao Paulo;2;4;A;-2
+2012;31/10/2012;Atletico MG;Flamengo;1;1;D;0
+2012;03/11/2012;Cruzeiro;Santos;0;4;A;-4
+2012;03/11/2012;Gremio;Ponte Preta;1;0;H;1
+2012;03/11/2012;Flamengo;Figueirense;1;0;H;1
+2012;04/11/2012;Atletico GO;Corinthians;0;2;A;-2
+2012;04/11/2012;Palmeiras;Botafogo;2;2;D;0
+2012;04/11/2012;Sao Paulo;Fluminense;1;1;D;0
+2012;04/11/2012;Vasco;Sport;0;3;A;-3
+2012;04/11/2012;Coritiba;Atletico MG;1;0;H;1
+2012;04/11/2012;Nautico;Internacional;3;0;H;3
+2012;04/11/2012;Portuguesa;Bahia;0;1;A;-1
+2012;10/11/2012;Atletico GO;Santos;2;1;H;1
+2012;10/11/2012;Botafogo;Portuguesa;3;0;H;3
+2012;10/11/2012;Corinthians;Coritiba;5;1;H;4
+2012;11/11/2012;Gremio;Sao Paulo;2;1;H;1
+2012;11/11/2012;Palmeiras;Fluminense;2;3;A;-1
+2012;11/11/2012;Vasco;Atletico MG;1;1;D;0
+2012;11/11/2012;Cruzeiro;Bahia;3;1;H;2
+2012;11/11/2012;Figueirense;Sport;1;1;D;0
+2012;11/11/2012;Nautico;Flamengo;0;1;A;-1
+2012;11/11/2012;Ponte Preta;Internacional;1;0;H;1
+2012;17/11/2012;Coritiba;Vasco;1;2;A;-1
+2012;17/11/2012;Santos;Figueirense;2;0;H;2
+2012;18/11/2012;Atletico MG;Atletico GO;2;2;D;0
+2012;18/11/2012;Bahia;Ponte Preta;1;0;H;1
+2012;18/11/2012;Flamengo;Palmeiras;1;1;D;0
+2012;18/11/2012;Fluminense;Cruzeiro;0;2;A;-2
+2012;18/11/2012;Sao Paulo;Nautico;2;1;H;1
+2012;18/11/2012;Internacional;Corinthians;0;2;A;-2
+2012;18/11/2012;Portuguesa;Gremio;2;2;D;0
+2012;18/11/2012;Sport;Botafogo;2;0;H;2
+2012;24/11/2012;Corinthians;Santos;1;1;D;0
+2012;24/11/2012;Vasco;Flamengo;1;1;D;0
+2012;25/11/2012;Bahia;Nautico;1;1;D;0
+2012;25/11/2012;Botafogo;Atletico MG;2;3;A;-1
+2012;25/11/2012;Cruzeiro;Coritiba;2;1;H;1
+2012;25/11/2012;Figueirense;Gremio;2;4;A;-2
+2012;25/11/2012;Internacional;Portuguesa;0;2;A;-2
+2012;25/11/2012;Palmeiras;Atletico GO;1;2;A;-1
+2012;25/11/2012;Ponte Preta;Sao Paulo;0;0;D;0
+2012;25/11/2012;Sport;Fluminense;1;1;D;0
+2012;01/12/2012;Flamengo;Botafogo;2;2;D;0
+2012;01/12/2012;Santos;Palmeiras;3;1;H;2
+2012;02/12/2012;Atletico GO;Bahia;0;1;A;-1
+2012;02/12/2012;Atletico MG;Cruzeiro;3;2;H;1
+2012;02/12/2012;Coritiba;Figueirense;3;0;H;3
+2012;02/12/2012;Fluminense;Vasco;1;2;A;-1
+2012;02/12/2012;Gremio;Internacional;0;0;D;0
+2012;02/12/2012;Nautico;Sport;1;0;H;1
+2012;02/12/2012;Portuguesa;Ponte Preta;0;0;D;0
+2012;02/12/2012;Sao Paulo;Corinthians;3;1;H;2
+2013;25/05/2013;Vasco;Portuguesa;1;0;H;1
+2013;25/05/2013;Vitoria;Internacional;2;2;D;0
+2013;26/05/2013;Corinthians;Botafogo;1;1;D;0
+2013;26/05/2013;Criciuma;Bahia;3;1;H;2
+2013;26/05/2013;Gremio;Nautico;2;0;H;2
+2013;26/05/2013;Ponte Preta;Sao Paulo;0;2;A;-2
+2013;26/05/2013;Santos;Flamengo;0;0;D;0
+2013;26/05/2013;Coritiba;Atletico MG;2;1;H;1
+2013;26/05/2013;Cruzeiro;Goias;5;0;H;5
+2013;26/05/2013;Fluminense;Athletico PR;2;1;H;1
+2013;29/05/2013;Athletico PR;Cruzeiro;2;2;D;0
+2013;29/05/2013;Botafogo;Santos;2;1;H;1
+2013;29/05/2013;Sao Paulo;Vasco;5;1;H;4
+2013;30/05/2013;Bahia;Coritiba;0;0;D;0
+2013;30/05/2013;Flamengo;Ponte Preta;0;2;A;-2
+2013;30/05/2013;Nautico;Vitoria;0;3;A;-3
+2013;30/05/2013;Goias;Corinthians;1;1;D;0
+2013;30/05/2013;Internacional;Criciuma;2;0;H;2
+2013;01/06/2013;Athletico PR;Flamengo;2;2;D;0
+2013;01/06/2013;Botafogo;Cruzeiro;2;1;H;1
+2013;01/06/2013;Santos;Gremio;1;1;D;0
+2013;01/06/2013;Goias;Coritiba;1;1;D;0
+2013;01/06/2013;Vitoria;Vasco;2;0;H;2
+2013;02/06/2013;Corinthians;Ponte Preta;1;0;H;1
+2013;02/06/2013;Atletico MG;Sao Paulo;0;0;D;0
+2013;02/06/2013;Fluminense;Criciuma;3;0;H;3
+2013;02/06/2013;Internacional;Bahia;1;2;A;-1
+2013;02/06/2013;Nautico;Portuguesa;2;2;D;0
+2013;05/06/2013;Criciuma;Santos;3;1;H;2
+2013;05/06/2013;Portuguesa;Internacional;1;1;D;0
+2013;05/06/2013;Sao Paulo;Goias;0;1;A;-1
+2013;06/06/2013;Gremio;Vitoria;1;0;H;1
+2013;06/06/2013;Ponte Preta;Athletico PR;3;4;A;-1
+2013;06/06/2013;Vasco;Atletico MG;2;0;H;2
+2013;06/06/2013;Bahia;Botafogo;2;1;H;1
+2013;06/06/2013;Cruzeiro;Corinthians;1;0;H;1
+2013;06/06/2013;Flamengo;Nautico;0;1;A;-1
+2013;07/06/2013;Coritiba;Fluminense;2;1;H;1
+2013;08/06/2013;Criciuma;Flamengo;0;3;A;-3
+2013;08/06/2013;Cruzeiro;Internacional;2;2;D;0
+2013;08/06/2013;Corinthians;Portuguesa;0;0;D;0
+2013;08/06/2013;Vasco;Bahia;1;1;D;0
+2013;09/06/2013;Ponte Preta;Botafogo;0;2;A;-2
+2013;09/06/2013;Atletico MG;Gremio;2;0;H;2
+2013;09/06/2013;Coritiba;Nautico;1;0;H;1
+2013;09/06/2013;Fluminense;Goias;2;1;H;1
+2013;09/06/2013;Vitoria;Athletico PR;3;2;H;1
+2013;12/06/2013;Santos;Atletico MG;1;0;H;1
+2013;13/06/2013;Gremio;Sao Paulo;1;1;D;0
+2013;13/06/2013;Portuguesa;Fluminense;2;1;H;1
+2013;06/07/2013;Athletico PR;Gremio;1;1;D;0
+2013;06/07/2013;Flamengo;Coritiba;2;2;D;0
+2013;06/07/2013;Nautico;Ponte Preta;1;3;A;-2
+2013;07/07/2013;Portuguesa;Cruzeiro;1;1;D;0
+2013;07/07/2013;Bahia;Corinthians;0;2;A;-2
+2013;07/07/2013;Goias;Vitoria;1;0;H;1
+2013;07/07/2013;Internacional;Vasco;5;3;H;2
+2013;07/07/2013;Sao Paulo;Santos;0;2;A;-2
+2013;07/07/2013;Atletico MG;Criciuma;3;2;H;1
+2013;07/07/2013;Botafogo;Fluminense;1;0;H;1
+2013;11/07/2013;Sao Paulo;Bahia;1;2;A;-1
+2013;13/07/2013;Fluminense;Internacional;2;3;A;-1
+2013;13/07/2013;Santos;Portuguesa;4;1;H;3
+2013;14/07/2013;Ponte Preta;Bahia;0;0;D;0
+2013;14/07/2013;Corinthians;Atletico MG;0;1;A;-1
+2013;14/07/2013;Coritiba;Athletico PR;1;0;H;1
+2013;14/07/2013;Gremio;Botafogo;2;1;H;1
+2013;14/07/2013;Vitoria;Sao Paulo;3;2;H;1
+2013;14/07/2013;Criciuma;Goias;0;0;D;0
+2013;14/07/2013;Cruzeiro;Nautico;3;0;H;3
+2013;14/07/2013;Vasco;Flamengo;0;1;A;-1
+2013;20/07/2013;Botafogo;Nautico;2;0;H;2
+2013;20/07/2013;Criciuma;Gremio;2;1;H;1
+2013;20/07/2013;Sao Paulo;Cruzeiro;0;3;A;-3
+2013;21/07/2013;Athletico PR;Corinthians;1;1;D;0
+2013;21/07/2013;Internacional;Flamengo;1;0;H;1
+2013;21/07/2013;Santos;Coritiba;2;2;D;0
+2013;21/07/2013;Vitoria;Bahia;0;0;D;0
+2013;21/07/2013;Fluminense;Vasco;1;3;A;-2
+2013;21/07/2013;Goias;Portuguesa;2;1;H;1
+2013;25/07/2013;Sao Paulo;Internacional;0;1;A;-1
+2013;27/07/2013;Portuguesa;Athletico PR;2;3;A;-1
+2013;27/07/2013;Vasco;Criciuma;3;2;H;1
+2013;28/07/2013;Ponte Preta;Santos;1;0;H;1
+2013;28/07/2013;Corinthians;Sao Paulo;0;0;D;0
+2013;28/07/2013;Cruzeiro;Atletico MG;4;1;H;3
+2013;28/07/2013;Gremio;Fluminense;2;0;H;2
+2013;28/07/2013;Nautico;Internacional;3;0;H;3
+2013;28/07/2013;Bahia;Goias;2;1;H;1
+2013;28/07/2013;Coritiba;Vitoria;1;1;D;0
+2013;28/07/2013;Flamengo;Botafogo;1;1;D;0
+2013;31/07/2013;Atletico MG;Athletico PR;1;2;A;-1
+2013;31/07/2013;Fluminense;Cruzeiro;1;0;H;1
+2013;31/07/2013;Portuguesa;Criciuma;1;1;D;0
+2013;01/08/2013;Coritiba;Ponte Preta;5;3;H;2
+2013;01/08/2013;Bahia;Flamengo;3;0;H;3
+2013;01/08/2013;Corinthians;Gremio;2;0;H;2
+2013;01/08/2013;Botafogo;Vitoria;2;0;H;2
+2013;02/08/2013;Goias;Vasco;1;1;D;0
+2013;03/08/2013;Cruzeiro;Coritiba;1;0;H;1
+2013;04/08/2013;Athletico PR;Goias;2;0;H;2
+2013;04/08/2013;Criciuma;Corinthians;0;2;A;-2
+2013;04/08/2013;Flamengo;Atletico MG;3;0;H;3
+2013;04/08/2013;Gremio;Internacional;1;1;D;0
+2013;04/08/2013;Ponte Preta;Fluminense;1;1;D;0
+2013;04/08/2013;Vasco;Botafogo;2;3;A;-1
+2013;04/08/2013;Vitoria;Portuguesa;2;1;H;1
+2013;07/08/2013;Criciuma;Cruzeiro;1;2;A;-1
+2013;07/08/2013;Vitoria;Fluminense;1;1;D;0
+2013;08/08/2013;Athletico PR;Bahia;1;0;H;1
+2013;08/08/2013;Flamengo;Portuguesa;1;1;D;0
+2013;08/08/2013;Atletico MG;Botafogo;2;2;D;0
+2013;08/08/2013;Goias;Nautico;2;1;H;1
+2013;08/08/2013;Santos;Corinthians;1;1;D;0
+2013;09/08/2013;Gremio;Coritiba;0;1;A;-1
+2013;09/08/2013;Vasco;Ponte Preta;1;1;D;0
+2013;10/08/2013;Botafogo;Goias;1;1;D;0
+2013;10/08/2013;Nautico;Atletico MG;0;0;D;0
+2013;11/08/2013;Corinthians;Vitoria;2;0;H;2
+2013;11/08/2013;Coritiba;Vasco;0;1;A;-1
+2013;11/08/2013;Cruzeiro;Santos;0;0;D;0
+2013;11/08/2013;Fluminense;Flamengo;2;3;A;-1
+2013;11/08/2013;Bahia;Gremio;0;3;A;-3
+2013;11/08/2013;Internacional;Athletico PR;2;2;D;0
+2013;11/08/2013;Ponte Preta;Criciuma;3;1;H;2
+2013;11/08/2013;Portuguesa;Sao Paulo;2;1;H;1
+2013;14/08/2013;Atletico MG;Bahia;2;0;H;2
+2013;14/08/2013;Criciuma;Nautico;3;0;H;3
+2013;14/08/2013;Santos;Vasco;1;1;D;0
+2013;15/08/2013;Coritiba;Portuguesa;1;1;D;0
+2013;15/08/2013;Vitoria;Ponte Preta;3;1;H;2
+2013;15/08/2013;Fluminense;Corinthians;0;0;D;0
+2013;15/08/2013;Goias;Flamengo;1;1;D;0
+2013;15/08/2013;Gremio;Cruzeiro;3;1;H;2
+2013;15/08/2013;Sao Paulo;Athletico PR;1;1;D;0
+2013;16/08/2013;Botafogo;Internacional;3;3;D;0
+2013;17/08/2013;Cruzeiro;Vitoria;5;1;H;4
+2013;17/08/2013;Nautico;Fluminense;0;1;A;-1
+2013;18/08/2013;Vasco;Gremio;2;3;A;-1
+2013;18/08/2013;Corinthians;Coritiba;1;0;H;1
+2013;18/08/2013;Flamengo;Sao Paulo;0;0;D;0
+2013;18/08/2013;Ponte Preta;Goias;0;1;A;-1
+2013;18/08/2013;Portuguesa;Botafogo;1;3;A;-2
+2013;18/08/2013;Athletico PR;Criciuma;2;1;H;1
+2013;18/08/2013;Bahia;Santos;0;0;D;0
+2013;18/08/2013;Internacional;Atletico MG;0;0;D;0
+2013;24/08/2013;Flamengo;Gremio;0;1;A;-1
+2013;24/08/2013;Ponte Preta;Cruzeiro;0;2;A;-2
+2013;24/08/2013;Santos;Vitoria;2;0;H;2
+2013;25/08/2013;Criciuma;Coritiba;2;1;H;1
+2013;25/08/2013;Atletico MG;Portuguesa;2;1;H;1
+2013;25/08/2013;Bahia;Nautico;2;0;H;2
+2013;25/08/2013;Sao Paulo;Fluminense;2;1;H;1
+2013;25/08/2013;Vasco;Corinthians;1;1;D;0
+2013;25/08/2013;Athletico PR;Botafogo;2;0;H;2
+2013;25/08/2013;Internacional;Goias;3;3;D;0
+2013;31/08/2013;Goias;Atletico MG;0;0;D;0
+2013;31/08/2013;Gremio;Ponte Preta;1;0;H;1
+2013;31/08/2013;Nautico;Athletico PR;1;4;A;-3
+2013;31/08/2013;Portuguesa;Bahia;4;2;H;2
+2013;01/09/2013;Fluminense;Santos;0;2;A;-2
+2013;01/09/2013;Botafogo;Sao Paulo;0;0;D;0
+2013;01/09/2013;Corinthians;Flamengo;4;0;H;4
+2013;01/09/2013;Coritiba;Internacional;0;0;D;0
+2013;01/09/2013;Vitoria;Criciuma;0;1;A;-1
+2013;01/09/2013;Cruzeiro;Vasco;5;3;H;2
+2013;03/09/2013;Goias;Gremio;2;0;H;2
+2013;04/09/2013;Nautico;Sao Paulo;0;1;A;-1
+2013;04/09/2013;Athletico PR;Santos;2;1;H;1
+2013;04/09/2013;Flamengo;Vitoria;2;1;H;1
+2013;05/09/2013;Portuguesa;Ponte Preta;2;1;H;1
+2013;05/09/2013;Atletico MG;Fluminense;2;2;D;0
+2013;05/09/2013;Bahia;Cruzeiro;1;3;A;-2
+2013;05/09/2013;Internacional;Corinthians;1;0;H;1
+2013;05/09/2013;Botafogo;Coritiba;3;1;H;2
+2013;06/09/2013;Nautico;Vasco;0;3;A;-3
+2013;06/09/2013;Sao Paulo;Criciuma;1;2;A;-1
+2013;07/09/2013;Fluminense;Bahia;1;0;H;1
+2013;07/09/2013;Ponte Preta;Internacional;1;3;A;-2
+2013;07/09/2013;Santos;Goias;1;0;H;1
+2013;07/09/2013;Vitoria;Atletico MG;1;1;D;0
+2013;08/09/2013;Gremio;Portuguesa;3;2;H;1
+2013;08/09/2013;Corinthians;Nautico;0;0;D;0
+2013;08/09/2013;Coritiba;Sao Paulo;2;0;H;2
+2013;08/09/2013;Cruzeiro;Flamengo;1;0;H;1
+2013;08/09/2013;Criciuma;Botafogo;1;2;A;-1
+2013;08/09/2013;Vasco;Athletico PR;0;0;D;0
+2013;10/09/2013;Internacional;Santos;1;2;A;-1
+2013;11/09/2013;Athletico PR;Fluminense;1;1;D;0
+2013;12/09/2013;Bahia;Criciuma;2;2;D;0
+2013;12/09/2013;Goias;Cruzeiro;1;2;A;-1
+2013;12/09/2013;Botafogo;Corinthians;1;0;H;1
+2013;12/09/2013;Nautico;Gremio;0;2;A;-2
+2013;12/09/2013;Portuguesa;Vasco;2;0;H;2
+2013;12/09/2013;Internacional;Vitoria;2;2;D;0
+2013;13/09/2013;Atletico MG;Coritiba;3;0;H;3
+2013;13/09/2013;Flamengo;Santos;2;1;H;1
+2013;13/09/2013;Sao Paulo;Ponte Preta;1;0;H;1
+2013;14/09/2013;Cruzeiro;Athletico PR;1;0;H;1
+2013;15/09/2013;Fluminense;Portuguesa;2;1;H;1
+2013;15/09/2013;Corinthians;Goias;1;2;A;-1
+2013;15/09/2013;Coritiba;Bahia;2;2;D;0
+2013;15/09/2013;Criciuma;Internacional;0;1;A;-1
+2013;15/09/2013;Ponte Preta;Flamengo;1;1;D;0
+2013;15/09/2013;Vasco;Sao Paulo;0;2;A;-2
+2013;15/09/2013;Gremio;Atletico MG;0;1;A;-1
+2013;15/09/2013;Santos;Botafogo;1;2;A;-1
+2013;15/09/2013;Vitoria;Nautico;2;1;H;1
+2013;18/09/2013;Gremio;Santos;1;1;D;0
+2013;18/09/2013;Vasco;Vitoria;1;2;A;-1
+2013;19/09/2013;Coritiba;Goias;2;2;D;0
+2013;19/09/2013;Criciuma;Fluminense;1;2;A;-1
+2013;19/09/2013;Cruzeiro;Botafogo;3;0;H;3
+2013;19/09/2013;Ponte Preta;Corinthians;2;0;H;2
+2013;19/09/2013;Sao Paulo;Atletico MG;1;0;H;1
+2013;19/09/2013;Flamengo;Athletico PR;2;4;A;-2
+2013;20/09/2013;Bahia;Internacional;2;0;H;2
+2013;20/09/2013;Portuguesa;Nautico;3;0;H;3
+2013;21/09/2013;Fluminense;Coritiba;1;1;D;0
+2013;22/09/2013;Vitoria;Gremio;0;0;D;0
+2013;22/09/2013;Botafogo;Bahia;1;2;A;-1
+2013;22/09/2013;Corinthians;Cruzeiro;0;0;D;0
+2013;22/09/2013;Goias;Sao Paulo;1;0;H;1
+2013;22/09/2013;Internacional;Portuguesa;0;1;A;-1
+2013;22/09/2013;Nautico;Flamengo;0;0;D;0
+2013;22/09/2013;Atletico MG;Vasco;2;1;H;1
+2013;22/09/2013;Athletico PR;Ponte Preta;1;0;H;1
+2013;22/09/2013;Santos;Criciuma;2;1;H;1
+2013;25/09/2013;Criciuma;Atletico MG;1;1;D;0
+2013;26/09/2013;Santos;Nautico;1;1;D;0
+2013;28/09/2013;Goias;Fluminense;1;2;A;-1
+2013;28/09/2013;Nautico;Coritiba;3;0;H;3
+2013;29/09/2013;Botafogo;Ponte Preta;0;1;A;-1
+2013;29/09/2013;Bahia;Vasco;0;0;D;0
+2013;29/09/2013;Flamengo;Criciuma;4;1;H;3
+2013;29/09/2013;Portuguesa;Corinthians;4;0;H;4
+2013;29/09/2013;Sao Paulo;Gremio;0;1;A;-1
+2013;29/09/2013;Atletico MG;Santos;3;1;H;2
+2013;29/09/2013;Athletico PR;Vitoria;3;5;A;-2
+2013;29/09/2013;Internacional;Cruzeiro;1;2;A;-1
+2013;01/10/2013;Ponte Preta;Nautico;1;2;A;-1
+2013;02/10/2013;Cruzeiro;Portuguesa;4;0;H;4
+2013;02/10/2013;Gremio;Athletico PR;1;0;H;1
+2013;03/10/2013;Fluminense;Botafogo;1;1;D;0
+2013;03/10/2013;Vitoria;Goias;2;1;H;1
+2013;03/10/2013;Corinthians;Bahia;2;0;H;2
+2013;03/10/2013;Coritiba;Flamengo;0;2;A;-2
+2013;03/10/2013;Santos;Sao Paulo;3;0;H;3
+2013;03/10/2013;Atletico MG;Ponte Preta;4;0;H;4
+2013;04/10/2013;Vasco;Internacional;3;1;H;2
+2013;05/10/2013;Botafogo;Gremio;0;1;A;-1
+2013;06/10/2013;Sao Paulo;Vitoria;3;2;H;1
+2013;06/10/2013;Atletico MG;Corinthians;0;0;D;0
+2013;06/10/2013;Athletico PR;Coritiba;2;1;H;1
+2013;06/10/2013;Flamengo;Vasco;1;1;D;0
+2013;06/10/2013;Internacional;Fluminense;1;0;H;1
+2013;06/10/2013;Nautico;Cruzeiro;1;4;A;-3
+2013;06/10/2013;Bahia;Ponte Preta;1;1;D;0
+2013;06/10/2013;Goias;Criciuma;1;1;D;0
+2013;06/10/2013;Portuguesa;Santos;3;0;H;3
+2013;09/10/2013;Coritiba;Santos;1;0;H;1
+2013;09/10/2013;Gremio;Criciuma;1;2;A;-1
+2013;10/10/2013;Bahia;Vitoria;2;0;H;2
+2013;10/10/2013;Ponte Preta;Atletico MG;2;0;H;2
+2013;10/10/2013;Corinthians;Athletico PR;0;0;D;0
+2013;10/10/2013;Cruzeiro;Sao Paulo;0;2;A;-2
+2013;10/10/2013;Nautico;Botafogo;1;3;A;-2
+2013;10/10/2013;Vasco;Fluminense;1;0;H;1
+2013;10/10/2013;Portuguesa;Goias;1;2;A;-1
+2013;11/10/2013;Flamengo;Internacional;2;1;H;1
+2013;12/10/2013;Fluminense;Gremio;1;1;D;0
+2013;12/10/2013;Vitoria;Coritiba;2;1;H;1
+2013;13/10/2013;Santos;Ponte Preta;2;1;H;1
+2013;13/10/2013;Atletico MG;Cruzeiro;1;0;H;1
+2013;13/10/2013;Criciuma;Vasco;3;2;H;1
+2013;13/10/2013;Internacional;Nautico;4;1;H;3
+2013;13/10/2013;Sao Paulo;Corinthians;0;0;D;0
+2013;13/10/2013;Athletico PR;Portuguesa;1;0;H;1
+2013;13/10/2013;Botafogo;Flamengo;2;1;H;1
+2013;13/10/2013;Goias;Bahia;3;1;H;2
+2013;16/10/2013;Cruzeiro;Fluminense;1;0;H;1
+2013;16/10/2013;Santos;Internacional;0;0;D;0
+2013;17/10/2013;Criciuma;Portuguesa;1;3;A;-2
+2013;17/10/2013;Ponte Preta;Coritiba;1;0;H;1
+2013;17/10/2013;Sao Paulo;Nautico;3;0;H;3
+2013;17/10/2013;Athletico PR;Atletico MG;1;0;H;1
+2013;17/10/2013;Flamengo;Bahia;2;1;H;1
+2013;17/10/2013;Gremio;Corinthians;1;0;H;1
+2013;17/10/2013;Vasco;Goias;0;2;A;-2
+2013;18/10/2013;Vitoria;Botafogo;1;0;H;1
+2013;19/10/2013;Fluminense;Ponte Preta;1;1;D;0
+2013;19/10/2013;Nautico;Santos;1;5;A;-4
+2013;20/10/2013;Corinthians;Criciuma;1;0;H;1
+2013;20/10/2013;Atletico MG;Flamengo;1;0;H;1
+2013;20/10/2013;Bahia;Sao Paulo;0;1;A;-1
+2013;20/10/2013;Goias;Athletico PR;3;0;H;3
+2013;20/10/2013;Internacional;Gremio;2;2;D;0
+2013;20/10/2013;Botafogo;Vasco;2;2;D;0
+2013;20/10/2013;Coritiba;Cruzeiro;2;1;H;1
+2013;20/10/2013;Portuguesa;Vitoria;1;1;D;0
+2013;26/10/2013;Botafogo;Atletico MG;1;0;H;1
+2013;26/10/2013;Cruzeiro;Criciuma;5;3;H;2
+2013;27/10/2013;Bahia;Athletico PR;1;1;D;0
+2013;27/10/2013;Corinthians;Santos;1;1;D;0
+2013;27/10/2013;Internacional;Sao Paulo;2;3;A;-1
+2013;27/10/2013;Ponte Preta;Vasco;2;1;H;1
+2013;27/10/2013;Portuguesa;Flamengo;0;0;D;0
+2013;27/10/2013;Coritiba;Gremio;4;0;H;4
+2013;27/10/2013;Fluminense;Vitoria;2;3;A;-1
+2013;27/10/2013;Nautico;Goias;0;2;A;-2
+2013;02/11/2013;Sao Paulo;Portuguesa;2;1;H;1
+2013;02/11/2013;Vasco;Coritiba;2;1;H;1
+2013;02/11/2013;Atletico MG;Nautico;5;0;H;5
+2013;03/11/2013;Goias;Botafogo;1;0;H;1
+2013;03/11/2013;Gremio;Bahia;0;0;D;0
+2013;03/11/2013;Santos;Cruzeiro;0;1;A;-1
+2013;03/11/2013;Vitoria;Corinthians;1;1;D;0
+2013;03/11/2013;Athletico PR;Internacional;1;0;H;1
+2013;03/11/2013;Criciuma;Ponte Preta;1;1;D;0
+2013;03/11/2013;Flamengo;Fluminense;1;0;H;1
+2013;09/11/2013;Bahia;Atletico MG;0;0;D;0
+2013;09/11/2013;Portuguesa;Coritiba;0;0;D;0
+2013;09/11/2013;Flamengo;Goias;1;1;D;0
+2013;10/11/2013;Athletico PR;Sao Paulo;3;0;H;3
+2013;10/11/2013;Cruzeiro;Gremio;3;0;H;3
+2013;10/11/2013;Internacional;Botafogo;2;1;H;1
+2013;10/11/2013;Ponte Preta;Vitoria;0;3;A;-3
+2013;10/11/2013;Corinthians;Fluminense;1;0;H;1
+2013;10/11/2013;Nautico;Criciuma;0;1;A;-1
+2013;10/11/2013;Vasco;Santos;2;2;D;0
+2013;13/11/2013;Goias;Ponte Preta;2;0;H;2
+2013;13/11/2013;Gremio;Vasco;1;0;H;1
+2013;13/11/2013;Botafogo;Portuguesa;0;0;D;0
+2013;13/11/2013;Criciuma;Athletico PR;2;1;H;1
+2013;13/11/2013;Coritiba;Corinthians;0;1;A;-1
+2013;13/11/2013;Sao Paulo;Flamengo;2;0;H;2
+2013;13/11/2013;Vitoria;Cruzeiro;1;3;A;-2
+2013;14/11/2013;Santos;Bahia;3;0;H;3
+2013;14/11/2013;Atletico MG;Internacional;2;1;H;1
+2013;14/11/2013;Fluminense;Nautico;2;0;H;2
+2013;16/11/2013;Botafogo;Athletico PR;4;0;H;4
+2013;16/11/2013;Coritiba;Criciuma;1;2;A;-1
+2013;17/11/2013;Corinthians;Vasco;0;0;D;0
+2013;17/11/2013;Cruzeiro;Ponte Preta;2;2;D;0
+2013;17/11/2013;Fluminense;Sao Paulo;2;1;H;1
+2013;17/11/2013;Vitoria;Santos;2;0;H;2
+2013;17/11/2013;Goias;Internacional;3;1;H;2
+2013;17/11/2013;Gremio;Flamengo;2;1;H;1
+2013;17/11/2013;Nautico;Bahia;0;1;A;-1
+2013;17/11/2013;Portuguesa;Atletico MG;2;0;H;2
+2013;23/11/2013;Criciuma;Vitoria;1;1;D;0
+2013;23/11/2013;Vasco;Cruzeiro;2;1;H;1
+2013;23/11/2013;Atletico MG;Goias;4;1;H;3
+2013;24/11/2013;Athletico PR;Nautico;6;1;H;5
+2013;24/11/2013;Flamengo;Corinthians;1;0;H;1
+2013;24/11/2013;Ponte Preta;Gremio;1;1;D;0
+2013;24/11/2013;Santos;Fluminense;1;0;H;1
+2013;24/11/2013;Bahia;Portuguesa;1;0;H;1
+2013;24/11/2013;Internacional;Coritiba;0;0;D;0
+2013;24/11/2013;Sao Paulo;Botafogo;1;1;D;0
+2013;30/11/2013;Fluminense;Atletico MG;2;2;D;0
+2013;30/11/2013;Corinthians;Internacional;0;0;D;0
+2013;01/12/2013;Coritiba;Botafogo;2;1;H;1
+2013;01/12/2013;Criciuma;Sao Paulo;1;0;H;1
+2013;01/12/2013;Cruzeiro;Bahia;1;2;A;-1
+2013;01/12/2013;Ponte Preta;Portuguesa;0;2;A;-2
+2013;01/12/2013;Vasco;Nautico;2;0;H;2
+2013;01/12/2013;Vitoria;Flamengo;4;2;H;2
+2013;01/12/2013;Gremio;Goias;1;0;H;1
+2013;01/12/2013;Santos;Athletico PR;2;1;H;1
+2013;07/12/2013;Flamengo;Cruzeiro;1;1;D;0
+2013;07/12/2013;Nautico;Corinthians;1;0;H;1
+2013;08/12/2013;Atletico MG;Vitoria;2;2;D;0
+2013;08/12/2013;Athletico PR;Vasco;5;1;H;4
+2013;08/12/2013;Bahia;Fluminense;1;2;A;-1
+2013;08/12/2013;Botafogo;Criciuma;3;0;H;3
+2013;08/12/2013;Goias;Santos;0;3;A;-3
+2013;08/12/2013;Internacional;Ponte Preta;0;0;D;0
+2013;08/12/2013;Portuguesa;Gremio;0;0;D;0
+2013;08/12/2013;Sao Paulo;Coritiba;0;1;A;-1
+2014;19/04/2014;Fluminense;Figueirense;3;0;H;3
+2014;19/04/2014;Internacional;Vitoria;1;0;H;1
+2014;20/04/2014;Chapecoense;Coritiba;0;0;D;0
+2014;20/04/2014;Atletico MG;Corinthians;0;0;D;0
+2014;20/04/2014;Athletico PR;Gremio;1;0;H;1
+2014;20/04/2014;Bahia;Cruzeiro;1;2;A;-1
+2014;20/04/2014;Sao Paulo;Botafogo;3;0;H;3
+2014;20/04/2014;Criciuma;Palmeiras;1;2;A;-1
+2014;20/04/2014;Flamengo;Goias;0;0;D;0
+2014;20/04/2014;Santos;Sport;1;1;D;0
+2014;26/04/2014;Coritiba;Santos;0;0;D;0
+2014;27/04/2014;Palmeiras;Fluminense;0;1;A;-1
+2014;27/04/2014;Botafogo;Internacional;2;2;D;0
+2014;27/04/2014;Corinthians;Flamengo;2;0;H;2
+2014;27/04/2014;Cruzeiro;Sao Paulo;1;1;D;0
+2014;27/04/2014;Vitoria;Athletico PR;2;2;D;0
+2014;27/04/2014;Figueirense;Bahia;0;2;A;-2
+2014;27/04/2014;Goias;Criciuma;1;0;H;1
+2014;27/04/2014;Gremio;Atletico MG;2;1;H;1
+2014;27/04/2014;Sport;Chapecoense;2;1;H;1
+2014;03/05/2014;Athletico PR;Cruzeiro;2;3;A;-1
+2014;03/05/2014;Santos;Gremio;0;0;D;0
+2014;03/05/2014;Sao Paulo;Coritiba;2;2;D;0
+2014;04/05/2014;Fluminense;Vitoria;1;2;A;-1
+2014;04/05/2014;Bahia;Botafogo;1;0;H;1
+2014;04/05/2014;Criciuma;Figueirense;1;0;H;1
+2014;04/05/2014;Flamengo;Palmeiras;4;2;H;2
+2014;04/05/2014;Internacional;Sport;2;1;H;1
+2014;04/05/2014;Atletico MG;Goias;0;1;A;-1
+2014;04/05/2014;Chapecoense;Corinthians;0;1;A;-1
+2014;10/05/2014;Internacional;Athletico PR;2;1;H;1
+2014;10/05/2014;Palmeiras;Goias;2;0;H;2
+2014;11/05/2014;Botafogo;Criciuma;6;0;H;6
+2014;11/05/2014;Atletico MG;Cruzeiro;2;1;H;1
+2014;11/05/2014;Chapecoense;Gremio;1;2;A;-1
+2014;11/05/2014;Fluminense;Flamengo;2;0;H;2
+2014;11/05/2014;Sao Paulo;Corinthians;1;1;D;0
+2014;11/05/2014;Bahia;Vitoria;1;1;D;0
+2014;11/05/2014;Coritiba;Sport;0;1;A;-1
+2014;11/05/2014;Figueirense;Santos;0;2;A;-2
+2014;15/05/2014;Goias;Botafogo;2;0;H;2
+2014;17/05/2014;Cruzeiro;Coritiba;3;2;H;1
+2014;18/05/2014;Athletico PR;Chapecoense;1;1;D;0
+2014;18/05/2014;Corinthians;Figueirense;0;1;A;-1
+2014;18/05/2014;Flamengo;Sao Paulo;0;2;A;-2
+2014;18/05/2014;Gremio;Fluminense;1;0;H;1
+2014;18/05/2014;Criciuma;Internacional;0;0;D;0
+2014;18/05/2014;Santos;Atletico MG;1;2;A;-1
+2014;18/05/2014;Vitoria;Palmeiras;0;1;A;-1
+2014;21/05/2014;Coritiba;Internacional;1;1;D;0
+2014;21/05/2014;Flamengo;Bahia;1;1;D;0
+2014;22/05/2014;Criciuma;Chapecoense;1;0;H;1
+2014;22/05/2014;Cruzeiro;Sport;2;0;H;2
+2014;22/05/2014;Corinthians;Athletico PR;1;1;D;0
+2014;22/05/2014;Fluminense;Sao Paulo;5;2;H;3
+2014;22/05/2014;Gremio;Botafogo;2;1;H;1
+2014;22/05/2014;Goias;Santos;2;2;D;0
+2014;22/05/2014;Palmeiras;Figueirense;1;0;H;1
+2014;23/05/2014;Vitoria;Atletico MG;2;3;A;-1
+2014;24/05/2014;Bahia;Fluminense;0;1;A;-1
+2014;25/05/2014;Sao Paulo;Gremio;1;0;H;1
+2014;25/05/2014;Athletico PR;Coritiba;2;0;H;2
+2014;25/05/2014;Figueirense;Goias;0;1;A;-1
+2014;25/05/2014;Santos;Flamengo;0;0;D;0
+2014;25/05/2014;Sport;Corinthians;1;4;A;-3
+2014;25/05/2014;Atletico MG;Criciuma;0;0;D;0
+2014;25/05/2014;Botafogo;Vitoria;1;1;D;0
+2014;25/05/2014;Chapecoense;Palmeiras;2;0;H;2
+2014;25/05/2014;Internacional;Cruzeiro;1;3;A;-2
+2014;28/05/2014;Criciuma;Coritiba;1;0;H;1
+2014;28/05/2014;Palmeiras;Botafogo;0;2;A;-2
+2014;28/05/2014;Sport;Gremio;0;0;D;0
+2014;29/05/2014;Goias;Vitoria;0;0;D;0
+2014;29/05/2014;Internacional;Chapecoense;2;0;H;2
+2014;29/05/2014;Atletico MG;Fluminense;2;0;H;2
+2014;29/05/2014;Athletico PR;Sao Paulo;2;2;D;0
+2014;29/05/2014;Corinthians;Cruzeiro;1;0;H;1
+2014;29/05/2014;Flamengo;Figueirense;1;1;D;0
+2014;30/05/2014;Bahia;Santos;0;2;A;-2
+2014;31/05/2014;Coritiba;Goias;3;0;H;3
+2014;31/05/2014;Sao Paulo;Atletico MG;2;1;H;1
+2014;01/06/2014;Vitoria;Sport;0;1;A;-1
+2014;01/06/2014;Chapecoense;Bahia;2;1;H;1
+2014;01/06/2014;Corinthians;Botafogo;1;1;D;0
+2014;01/06/2014;Cruzeiro;Flamengo;3;0;H;3
+2014;01/06/2014;Gremio;Palmeiras;0;0;D;0
+2014;01/06/2014;Figueirense;Athletico PR;1;3;A;-2
+2014;01/06/2014;Fluminense;Internacional;1;1;D;0
+2014;01/06/2014;Santos;Criciuma;2;0;H;2
+2014;05/06/2014;Sport;Bahia;1;0;H;1
+2014;16/07/2014;Coritiba;Figueirense;0;2;A;-2
+2014;16/07/2014;Gremio;Goias;0;0;D;0
+2014;16/07/2014;Sport;Botafogo;1;0;H;1
+2014;17/07/2014;Bahia;Sao Paulo;0;2;A;-2
+2014;17/07/2014;Criciuma;Fluminense;3;2;H;1
+2014;17/07/2014;Flamengo;Athletico PR;1;2;A;-1
+2014;17/07/2014;Corinthians;Internacional;2;1;H;1
+2014;17/07/2014;Santos;Palmeiras;2;0;H;2
+2014;18/07/2014;Cruzeiro;Vitoria;3;1;H;2
+2014;19/07/2014;Atletico MG;Bahia;1;1;D;0
+2014;19/07/2014;Figueirense;Gremio;0;1;A;-1
+2014;19/07/2014;Sao Paulo;Chapecoense;0;1;A;-1
+2014;20/07/2014;Botafogo;Coritiba;1;0;H;1
+2014;20/07/2014;Internacional;Flamengo;4;0;H;4
+2014;20/07/2014;Palmeiras;Cruzeiro;1;2;A;-1
+2014;20/07/2014;Vitoria;Corinthians;0;0;D;0
+2014;20/07/2014;Athletico PR;Criciuma;2;0;H;2
+2014;20/07/2014;Fluminense;Santos;1;0;H;1
+2014;20/07/2014;Goias;Sport;0;0;D;0
+2014;26/07/2014;Criciuma;Vitoria;1;3;A;-2
+2014;26/07/2014;Cruzeiro;Figueirense;5;0;H;5
+2014;26/07/2014;Santos;Chapecoense;3;0;H;3
+2014;27/07/2014;Bahia;Internacional;0;1;A;-1
+2014;27/07/2014;Athletico PR;Fluminense;0;3;A;-3
+2014;27/07/2014;Corinthians;Palmeiras;2;0;H;2
+2014;27/07/2014;Goias;Sao Paulo;2;1;H;1
+2014;27/07/2014;Sport;Atletico MG;2;1;H;1
+2014;27/07/2014;Flamengo;Botafogo;1;0;H;1
+2014;27/07/2014;Gremio;Coritiba;2;3;A;-1
+2014;02/08/2014;Botafogo;Cruzeiro;1;1;D;0
+2014;02/08/2014;Sao Paulo;Criciuma;1;1;D;0
+2014;03/08/2014;Vitoria;Gremio;2;1;H;1
+2014;03/08/2014;Chapecoense;Flamengo;1;0;H;1
+2014;03/08/2014;Coritiba;Corinthians;0;0;D;0
+2014;03/08/2014;Figueirense;Sport;3;0;H;3
+2014;03/08/2014;Palmeiras;Bahia;1;1;D;0
+2014;03/08/2014;Atletico MG;Athletico PR;3;1;H;2
+2014;03/08/2014;Fluminense;Goias;2;0;H;2
+2014;03/08/2014;Internacional;Santos;1;0;H;1
+2014;07/08/2014;Chapecoense;Atletico MG;1;1;D;0
+2014;09/08/2014;Bahia;Goias;1;0;H;1
+2014;09/08/2014;Criciuma;Cruzeiro;0;0;D;0
+2014;10/08/2014;Fluminense;Coritiba;1;1;D;0
+2014;10/08/2014;Athletico PR;Botafogo;2;0;H;2
+2014;10/08/2014;Flamengo;Sport;1;0;H;1
+2014;10/08/2014;Internacional;Gremio;2;0;H;2
+2014;10/08/2014;Santos;Corinthians;0;1;A;-1
+2014;10/08/2014;Atletico MG;Palmeiras;2;1;H;1
+2014;10/08/2014;Chapecoense;Figueirense;0;1;A;-1
+2014;10/08/2014;Sao Paulo;Vitoria;3;1;H;2
+2014;16/08/2014;Goias;Internacional;0;1;A;-1
+2014;17/08/2014;Corinthians;Bahia;1;1;D;0
+2014;17/08/2014;Coritiba;Flamengo;0;1;A;-1
+2014;17/08/2014;Cruzeiro;Santos;3;0;H;3
+2014;17/08/2014;Gremio;Criciuma;2;0;H;2
+2014;17/08/2014;Palmeiras;Sao Paulo;1;2;A;-1
+2014;17/08/2014;Vitoria;Chapecoense;0;0;D;0
+2014;17/08/2014;Botafogo;Fluminense;2;0;H;2
+2014;17/08/2014;Figueirense;Atletico MG;2;2;D;0
+2014;17/08/2014;Sport;Athletico PR;1;1;D;0
+2014;20/08/2014;Figueirense;Botafogo;1;0;H;1
+2014;20/08/2014;Santos;Athletico PR;2;0;H;2
+2014;20/08/2014;Sport;Palmeiras;2;1;H;1
+2014;21/08/2014;Bahia;Criciuma;0;0;D;0
+2014;21/08/2014;Coritiba;Vitoria;2;0;H;2
+2014;21/08/2014;Chapecoense;Fluminense;1;0;H;1
+2014;21/08/2014;Flamengo;Atletico MG;2;1;H;1
+2014;21/08/2014;Internacional;Sao Paulo;0;1;A;-1
+2014;21/08/2014;Corinthians;Goias;5;2;H;3
+2014;22/08/2014;Cruzeiro;Gremio;1;0;H;1
+2014;23/08/2014;Atletico MG;Internacional;1;0;H;1
+2014;23/08/2014;Botafogo;Chapecoense;1;0;H;1
+2014;24/08/2014;Palmeiras;Coritiba;1;0;H;1
+2014;24/08/2014;Criciuma;Flamengo;0;2;A;-2
+2014;24/08/2014;Fluminense;Sport;4;0;H;4
+2014;24/08/2014;Gremio;Corinthians;2;1;H;1
+2014;24/08/2014;Sao Paulo;Santos;2;1;H;1
+2014;24/08/2014;Vitoria;Figueirense;0;1;A;-1
+2014;24/08/2014;Athletico PR;Bahia;0;0;D;0
+2014;24/08/2014;Goias;Cruzeiro;0;1;A;-1
+2014;30/08/2014;Cruzeiro;Chapecoense;4;2;H;2
+2014;30/08/2014;Palmeiras;Internacional;0;1;A;-1
+2014;31/08/2014;Botafogo;Santos;1;0;H;1
+2014;31/08/2014;Corinthians;Fluminense;1;1;D;0
+2014;31/08/2014;Coritiba;Atletico MG;0;0;D;0
+2014;31/08/2014;Figueirense;Sao Paulo;1;1;D;0
+2014;31/08/2014;Sport;Criciuma;2;0;H;2
+2014;31/08/2014;Goias;Athletico PR;3;1;H;2
+2014;31/08/2014;Gremio;Bahia;1;0;H;1
+2014;31/08/2014;Vitoria;Flamengo;1;2;A;-1
+2014;06/09/2014;Flamengo;Gremio;0;1;A;-1
+2014;06/09/2014;Santos;Vitoria;3;1;H;2
+2014;07/09/2014;Chapecoense;Goias;0;0;D;0
+2014;07/09/2014;Atletico MG;Botafogo;1;0;H;1
+2014;07/09/2014;Criciuma;Corinthians;0;0;D;0
+2014;07/09/2014;Fluminense;Cruzeiro;3;3;D;0
+2014;07/09/2014;Sao Paulo;Sport;2;0;H;2
+2014;07/09/2014;Athletico PR;Palmeiras;1;1;D;0
+2014;07/09/2014;Bahia;Coritiba;0;0;D;0
+2014;07/09/2014;Internacional;Figueirense;2;3;A;-1
+2014;10/09/2014;Figueirense;Fluminense;1;1;D;0
+2014;10/09/2014;Gremio;Athletico PR;1;0;H;1
+2014;10/09/2014;Palmeiras;Criciuma;1;0;H;1
+2014;11/09/2014;Coritiba;Chapecoense;3;0;H;3
+2014;11/09/2014;Sport;Santos;3;1;H;2
+2014;11/09/2014;Botafogo;Sao Paulo;2;4;A;-2
+2014;11/09/2014;Goias;Flamengo;1;0;H;1
+2014;11/09/2014;Vitoria;Internacional;2;0;H;2
+2014;11/09/2014;Corinthians;Atletico MG;1;0;H;1
+2014;12/09/2014;Cruzeiro;Bahia;2;1;H;1
+2014;13/09/2014;Chapecoense;Sport;3;1;H;2
+2014;13/09/2014;Fluminense;Palmeiras;3;0;H;3
+2014;14/09/2014;Santos;Coritiba;2;1;H;1
+2014;14/09/2014;Bahia;Figueirense;3;0;H;3
+2014;14/09/2014;Flamengo;Corinthians;1;0;H;1
+2014;14/09/2014;Internacional;Botafogo;2;0;H;2
+2014;14/09/2014;Sao Paulo;Cruzeiro;2;0;H;2
+2014;14/09/2014;Atletico MG;Gremio;0;0;D;0
+2014;14/09/2014;Athletico PR;Vitoria;2;0;H;2
+2014;14/09/2014;Criciuma;Goias;1;0;H;1
+2014;17/09/2014;Cruzeiro;Athletico PR;2;0;H;2
+2014;17/09/2014;Vitoria;Fluminense;3;1;H;2
+2014;18/09/2014;Figueirense;Criciuma;1;1;D;0
+2014;18/09/2014;Sport;Internacional;0;0;D;0
+2014;18/09/2014;Botafogo;Bahia;2;3;A;-1
+2014;18/09/2014;Coritiba;Sao Paulo;3;1;H;2
+2014;18/09/2014;Palmeiras;Flamengo;2;2;D;0
+2014;18/09/2014;Corinthians;Chapecoense;1;1;D;0
+2014;18/09/2014;Goias;Atletico MG;2;3;A;-1
+2014;19/09/2014;Gremio;Santos;0;0;D;0
+2014;20/09/2014;Athletico PR;Internacional;0;1;A;-1
+2014;21/09/2014;Criciuma;Botafogo;1;1;D;0
+2014;21/09/2014;Corinthians;Sao Paulo;3;2;H;1
+2014;21/09/2014;Cruzeiro;Atletico MG;2;3;A;-1
+2014;21/09/2014;Flamengo;Fluminense;1;1;D;0
+2014;21/09/2014;Sport;Coritiba;1;0;H;1
+2014;21/09/2014;Vitoria;Bahia;2;1;H;1
+2014;21/09/2014;Goias;Palmeiras;6;0;H;6
+2014;21/09/2014;Gremio;Chapecoense;1;0;H;1
+2014;21/09/2014;Santos;Figueirense;3;1;H;2
+2014;24/09/2014;Coritiba;Cruzeiro;1;2;A;-1
+2014;24/09/2014;Internacional;Criciuma;3;0;H;3
+2014;25/09/2014;Bahia;Sport;1;0;H;1
+2014;25/09/2014;Chapecoense;Athletico PR;3;0;H;3
+2014;25/09/2014;Figueirense;Corinthians;1;0;H;1
+2014;25/09/2014;Fluminense;Gremio;0;0;D;0
+2014;25/09/2014;Sao Paulo;Flamengo;2;2;D;0
+2014;25/09/2014;Botafogo;Goias;1;0;H;1
+2014;25/09/2014;Palmeiras;Vitoria;2;0;H;2
+2014;26/09/2014;Atletico MG;Santos;3;2;H;1
+2014;27/09/2014;Chapecoense;Criciuma;1;1;D;0
+2014;27/09/2014;Sport;Cruzeiro;0;0;D;0
+2014;28/09/2014;Sao Paulo;Fluminense;1;3;A;-2
+2014;28/09/2014;Atletico MG;Vitoria;2;0;H;2
+2014;28/09/2014;Athletico PR;Corinthians;1;0;H;1
+2014;28/09/2014;Bahia;Flamengo;2;1;H;1
+2014;28/09/2014;Botafogo;Gremio;0;2;A;-2
+2014;28/09/2014;Figueirense;Palmeiras;3;1;H;2
+2014;28/09/2014;Internacional;Coritiba;4;2;H;2
+2014;28/09/2014;Santos;Goias;2;0;H;2
+2014;02/10/2014;Palmeiras;Chapecoense;4;2;H;2
+2014;04/10/2014;Coritiba;Athletico PR;1;0;H;1
+2014;04/10/2014;Flamengo;Santos;0;1;A;-1
+2014;04/10/2014;Fluminense;Bahia;1;1;D;0
+2014;04/10/2014;Gremio;Sao Paulo;0;1;A;-1
+2014;04/10/2014;Vitoria;Botafogo;2;1;H;1
+2014;04/10/2014;Corinthians;Sport;3;0;H;3
+2014;04/10/2014;Criciuma;Atletico MG;3;1;H;2
+2014;04/10/2014;Cruzeiro;Internacional;2;1;H;1
+2014;05/10/2014;Goias;Figueirense;1;0;H;1
+2014;08/10/2014;Botafogo;Palmeiras;0;1;A;-1
+2014;08/10/2014;Coritiba;Criciuma;1;0;H;1
+2014;08/10/2014;Sao Paulo;Athletico PR;1;0;H;1
+2014;09/10/2014;Vitoria;Goias;2;2;D;0
+2014;09/10/2014;Cruzeiro;Corinthians;0;1;A;-1
+2014;09/10/2014;Figueirense;Flamengo;1;2;A;-1
+2014;09/10/2014;Gremio;Sport;2;0;H;2
+2014;09/10/2014;Fluminense;Atletico MG;0;0;D;0
+2014;09/10/2014;Santos;Bahia;1;0;H;1
+2014;10/10/2014;Chapecoense;Internacional;5;0;H;5
+2014;11/10/2014;Botafogo;Corinthians;1;0;H;1
+2014;11/10/2014;Goias;Coritiba;3;0;H;3
+2014;12/10/2014;Palmeiras;Gremio;2;1;H;1
+2014;12/10/2014;Atletico MG;Sao Paulo;1;0;H;1
+2014;12/10/2014;Bahia;Chapecoense;0;1;A;-1
+2014;12/10/2014;Flamengo;Cruzeiro;3;0;H;3
+2014;12/10/2014;Internacional;Fluminense;2;1;H;1
+2014;12/10/2014;Athletico PR;Figueirense;3;0;H;3
+2014;12/10/2014;Criciuma;Santos;3;0;H;3
+2014;12/10/2014;Sport;Vitoria;1;2;A;-1
+2014;18/10/2014;Fluminense;Criciuma;4;2;H;2
+2014;18/10/2014;Goias;Gremio;0;0;D;0
+2014;18/10/2014;Sao Paulo;Bahia;2;1;H;1
+2014;19/10/2014;Atletico MG;Chapecoense;1;0;H;1
+2014;19/10/2014;Athletico PR;Flamengo;2;1;H;1
+2014;19/10/2014;Figueirense;Coritiba;4;0;H;4
+2014;19/10/2014;Internacional;Corinthians;1;2;A;-1
+2014;19/10/2014;Palmeiras;Santos;1;3;A;-2
+2014;19/10/2014;Botafogo;Sport;1;1;D;0
+2014;19/10/2014;Vitoria;Cruzeiro;0;1;A;-1
+2014;22/10/2014;Bahia;Atletico MG;1;1;D;0
+2014;22/10/2014;Corinthians;Vitoria;2;1;H;1
+2014;22/10/2014;Criciuma;Athletico PR;0;1;A;-1
+2014;22/10/2014;Cruzeiro;Palmeiras;1;1;D;0
+2014;22/10/2014;Flamengo;Internacional;2;0;H;2
+2014;23/10/2014;Coritiba;Botafogo;2;0;H;2
+2014;23/10/2014;Gremio;Figueirense;1;0;H;1
+2014;23/10/2014;Chapecoense;Sao Paulo;0;0;D;0
+2014;23/10/2014;Santos;Fluminense;0;1;A;-1
+2014;23/10/2014;Sport;Goias;0;1;A;-1
+2014;25/10/2014;Figueirense;Cruzeiro;1;1;D;0
+2014;25/10/2014;Fluminense;Athletico PR;2;1;H;1
+2014;25/10/2014;Palmeiras;Corinthians;1;1;D;0
+2014;25/10/2014;Atletico MG;Sport;3;2;H;1
+2014;25/10/2014;Chapecoense;Santos;1;1;D;0
+2014;25/10/2014;Coritiba;Gremio;1;1;D;0
+2014;25/10/2014;Vitoria;Criciuma;3;1;H;2
+2014;26/10/2014;Botafogo;Flamengo;2;1;H;1
+2014;26/10/2014;Internacional;Bahia;2;0;H;2
+2014;27/10/2014;Sao Paulo;Goias;3;0;H;3
+2014;01/11/2014;Goias;Fluminense;0;2;A;-2
+2014;01/11/2014;Gremio;Vitoria;1;0;H;1
+2014;01/11/2014;Corinthians;Coritiba;2;2;D;0
+2014;02/11/2014;Criciuma;Sao Paulo;1;2;A;-1
+2014;02/11/2014;Cruzeiro;Botafogo;2;1;H;1
+2014;02/11/2014;Santos;Internacional;1;2;A;-1
+2014;02/11/2014;Sport;Figueirense;1;0;H;1
+2014;02/11/2014;Athletico PR;Atletico MG;1;0;H;1
+2014;02/11/2014;Flamengo;Chapecoense;3;0;H;3
+2014;02/11/2014;Bahia;Palmeiras;0;1;A;-1
+2014;08/11/2014;Coritiba;Fluminense;1;0;H;1
+2014;08/11/2014;Palmeiras;Atletico MG;0;2;A;-2
+2014;08/11/2014;Botafogo;Athletico PR;0;2;A;-2
+2014;09/11/2014;Figueirense;Chapecoense;1;0;H;1
+2014;09/11/2014;Gremio;Internacional;4;1;H;3
+2014;09/11/2014;Sport;Flamengo;2;2;D;0
+2014;09/11/2014;Vitoria;Sao Paulo;1;2;A;-1
+2014;09/11/2014;Corinthians;Santos;1;0;H;1
+2014;09/11/2014;Cruzeiro;Criciuma;3;1;H;2
+2014;09/11/2014;Goias;Bahia;3;0;H;3
+2014;13/11/2014;Sao Paulo;Internacional;1;1;D;0
+2014;15/11/2014;Criciuma;Gremio;0;3;A;-3
+2014;15/11/2014;Fluminense;Botafogo;1;0;H;1
+2014;16/11/2014;Athletico PR;Sport;0;1;A;-1
+2014;16/11/2014;Bahia;Corinthians;1;2;A;-1
+2014;16/11/2014;Flamengo;Coritiba;3;2;H;1
+2014;16/11/2014;Internacional;Goias;1;0;H;1
+2014;16/11/2014;Santos;Cruzeiro;0;1;A;-1
+2014;16/11/2014;Atletico MG;Figueirense;1;1;D;0
+2014;16/11/2014;Chapecoense;Vitoria;0;1;A;-1
+2014;16/11/2014;Sao Paulo;Palmeiras;2;0;H;2
+2014;19/11/2014;Athletico PR;Santos;1;1;D;0
+2014;19/11/2014;Botafogo;Figueirense;0;1;A;-1
+2014;19/11/2014;Criciuma;Bahia;0;1;A;-1
+2014;19/11/2014;Goias;Corinthians;0;1;A;-1
+2014;19/11/2014;Vitoria;Coritiba;1;1;D;0
+2014;20/11/2014;Atletico MG;Flamengo;4;0;H;4
+2014;20/11/2014;Palmeiras;Sport;0;2;A;-2
+2014;20/11/2014;Fluminense;Chapecoense;1;4;A;-3
+2014;20/11/2014;Gremio;Cruzeiro;1;2;A;-1
+2014;22/11/2014;Internacional;Atletico MG;2;1;H;1
+2014;22/11/2014;Bahia;Athletico PR;1;2;A;-1
+2014;23/11/2014;Cruzeiro;Goias;2;1;H;1
+2014;23/11/2014;Figueirense;Vitoria;2;0;H;2
+2014;23/11/2014;Flamengo;Criciuma;1;1;D;0
+2014;23/11/2014;Santos;Sao Paulo;0;1;A;-1
+2014;23/11/2014;Sport;Fluminense;2;2;D;0
+2014;23/11/2014;Chapecoense;Botafogo;2;0;H;2
+2014;23/11/2014;Corinthians;Gremio;1;0;H;1
+2014;23/11/2014;Coritiba;Palmeiras;2;0;H;2
+2014;29/11/2014;Criciuma;Sport;2;2;D;0
+2014;29/11/2014;Internacional;Palmeiras;3;1;H;2
+2014;29/11/2014;Flamengo;Vitoria;4;0;H;4
+2014;30/11/2014;Chapecoense;Cruzeiro;1;1;D;0
+2014;30/11/2014;Fluminense;Corinthians;5;2;H;3
+2014;30/11/2014;Santos;Botafogo;2;0;H;2
+2014;30/11/2014;Sao Paulo;Figueirense;1;1;D;0
+2014;30/11/2014;Atletico MG;Coritiba;1;2;A;-1
+2014;30/11/2014;Athletico PR;Goias;1;0;H;1
+2014;30/11/2014;Bahia;Gremio;1;0;H;1
+2014;06/12/2014;Corinthians;Criciuma;2;1;H;1
+2014;06/12/2014;Figueirense;Internacional;1;2;A;-1
+2014;07/12/2014;Botafogo;Atletico MG;0;0;D;0
+2014;07/12/2014;Coritiba;Bahia;3;2;H;1
+2014;07/12/2014;Cruzeiro;Fluminense;2;1;H;1
+2014;07/12/2014;Goias;Chapecoense;4;2;H;2
+2014;07/12/2014;Gremio;Flamengo;1;1;D;0
+2014;07/12/2014;Palmeiras;Athletico PR;1;1;D;0
+2014;07/12/2014;Sport;Sao Paulo;1;0;H;1
+2014;07/12/2014;Vitoria;Santos;0;1;A;-1
+2015;09/05/2015;Chapecoense;Coritiba;2;1;H;1
+2015;09/05/2015;Palmeiras;Atletico MG;2;2;D;0
+2015;10/05/2015;Fluminense;Joinville;1;0;H;1
+2015;10/05/2015;Gremio;Ponte Preta;3;3;D;0
+2015;10/05/2015;Athletico PR;Internacional;3;0;H;3
+2015;10/05/2015;Cruzeiro;Corinthians;0;1;A;-1
+2015;10/05/2015;Sao Paulo;Flamengo;2;1;H;1
+2015;10/05/2015;Sport;Figueirense;4;1;H;3
+2015;10/05/2015;Avai;Santos;1;1;D;0
+2015;10/05/2015;Vasco;Goias;0;0;D;0
+2015;16/05/2015;Coritiba;Gremio;2;0;H;2
+2015;16/05/2015;Goias;Athletico PR;2;0;H;2
+2015;17/05/2015;Corinthians;Chapecoense;1;0;H;1
+2015;17/05/2015;Figueirense;Vasco;0;0;D;0
+2015;17/05/2015;Atletico MG;Fluminense;4;1;H;3
+2015;17/05/2015;Flamengo;Sport;2;2;D;0
+2015;17/05/2015;Santos;Cruzeiro;1;0;H;1
+2015;17/05/2015;Internacional;Avai;1;0;H;1
+2015;17/05/2015;Joinville;Palmeiras;0;0;D;0
+2015;17/05/2015;Ponte Preta;Sao Paulo;1;0;H;1
+2015;23/05/2015;Sao Paulo;Joinville;3;0;H;3
+2015;23/05/2015;Vasco;Internacional;1;1;D;0
+2015;24/05/2015;Gremio;Figueirense;1;0;H;1
+2015;24/05/2015;Palmeiras;Goias;0;1;A;-1
+2015;24/05/2015;Athletico PR;Atletico MG;1;0;H;1
+2015;24/05/2015;Avai;Flamengo;2;1;H;1
+2015;24/05/2015;Chapecoense;Santos;1;0;H;1
+2015;24/05/2015;Fluminense;Corinthians;0;0;D;0
+2015;24/05/2015;Cruzeiro;Ponte Preta;1;1;D;0
+2015;24/05/2015;Sport;Coritiba;1;0;H;1
+2015;30/05/2015;Coritiba;Avai;1;2;A;-1
+2015;30/05/2015;Ponte Preta;Chapecoense;3;1;H;2
+2015;31/05/2015;Joinville;Athletico PR;1;2;A;-1
+2015;31/05/2015;Santos;Sport;2;2;D;0
+2015;31/05/2015;Atletico MG;Vasco;3;0;H;3
+2015;31/05/2015;Corinthians;Palmeiras;0;2;A;-2
+2015;31/05/2015;Goias;Gremio;1;1;D;0
+2015;31/05/2015;Internacional;Sao Paulo;0;0;D;0
+2015;31/05/2015;Figueirense;Cruzeiro;2;1;H;1
+2015;31/05/2015;Flamengo;Fluminense;2;3;A;-1
+2015;03/06/2015;Athletico PR;Figueirense;1;0;H;1
+2015;03/06/2015;Chapecoense;Joinville;2;0;H;2
+2015;03/06/2015;Vasco;Ponte Preta;0;3;A;-3
+2015;04/06/2015;Sao Paulo;Santos;3;2;H;1
+2015;04/06/2015;Avai;Atletico MG;1;4;A;-3
+2015;04/06/2015;Cruzeiro;Flamengo;1;0;H;1
+2015;04/06/2015;Gremio;Corinthians;3;1;H;2
+2015;04/06/2015;Fluminense;Coritiba;2;0;H;2
+2015;05/06/2015;Palmeiras;Internacional;1;1;D;0
+2015;05/06/2015;Sport;Goias;1;0;H;1
+2015;06/06/2015;Atletico MG;Cruzeiro;1;3;A;-2
+2015;06/06/2015;Flamengo;Chapecoense;1;0;H;1
+2015;06/06/2015;Santos;Ponte Preta;2;2;D;0
+2015;07/06/2015;Athletico PR;Vasco;2;0;H;2
+2015;07/06/2015;Joinville;Corinthians;0;1;A;-1
+2015;07/06/2015;Sao Paulo;Gremio;2;0;H;2
+2015;07/06/2015;Internacional;Coritiba;2;0;H;2
+2015;07/06/2015;Figueirense;Palmeiras;2;1;H;1
+2015;07/06/2015;Fluminense;Sport;0;0;D;0
+2015;07/06/2015;Goias;Avai;0;1;A;-1
+2015;10/06/2015;Atletico MG;Santos;2;2;D;0
+2015;13/06/2015;Chapecoense;Sao Paulo;0;1;A;-1
+2015;13/06/2015;Corinthians;Internacional;2;1;H;1
+2015;13/06/2015;Coritiba;Flamengo;0;1;A;-1
+2015;14/06/2015;Sport;Joinville;2;1;H;1
+2015;14/06/2015;Vasco;Cruzeiro;1;3;A;-2
+2015;14/06/2015;Ponte Preta;Goias;0;0;D;0
+2015;14/06/2015;Avai;Figueirense;1;1;D;0
+2015;14/06/2015;Gremio;Athletico PR;2;1;H;1
+2015;14/06/2015;Palmeiras;Fluminense;2;1;H;1
+2015;19/06/2015;Figueirense;Internacional;0;0;D;0
+2015;20/06/2015;Flamengo;Atletico MG;0;2;A;-2
+2015;20/06/2015;Santos;Corinthians;1;0;H;1
+2015;20/06/2015;Sport;Vasco;2;1;H;1
+2015;21/06/2015;Gremio;Palmeiras;1;0;H;1
+2015;21/06/2015;Cruzeiro;Chapecoense;0;1;A;-1
+2015;21/06/2015;Athletico PR;Coritiba;2;2;D;0
+2015;21/06/2015;Joinville;Goias;2;1;H;1
+2015;21/06/2015;Sao Paulo;Avai;1;1;D;0
+2015;24/06/2015;Fluminense;Ponte Preta;2;0;H;2
+2015;27/06/2015;Avai;Gremio;1;2;A;-1
+2015;27/06/2015;Chapecoense;Sport;1;1;D;0
+2015;28/06/2015;Corinthians;Figueirense;2;1;H;1
+2015;28/06/2015;Atletico MG;Joinville;1;0;H;1
+2015;28/06/2015;Coritiba;Cruzeiro;1;0;H;1
+2015;28/06/2015;Goias;Fluminense;1;2;A;-1
+2015;28/06/2015;Palmeiras;Sao Paulo;4;0;H;4
+2015;28/06/2015;Ponte Preta;Athletico PR;2;1;H;1
+2015;28/06/2015;Internacional;Santos;1;0;H;1
+2015;28/06/2015;Vasco;Flamengo;1;0;H;1
+2015;01/07/2015;Sport;Internacional;3;0;H;3
+2015;01/07/2015;Vasco;Avai;1;0;H;1
+2015;02/07/2015;Atletico MG;Coritiba;2;0;H;2
+2015;02/07/2015;Palmeiras;Chapecoense;2;0;H;2
+2015;02/07/2015;Athletico PR;Sao Paulo;2;1;H;1
+2015;02/07/2015;Gremio;Cruzeiro;1;0;H;1
+2015;02/07/2015;Joinville;Flamengo;0;1;A;-1
+2015;02/07/2015;Corinthians;Ponte Preta;2;0;H;2
+2015;02/07/2015;Figueirense;Goias;3;1;H;2
+2015;03/07/2015;Fluminense;Santos;2;1;H;1
+2015;04/07/2015;Coritiba;Joinville;0;0;D;0
+2015;05/07/2015;Chapecoense;Vasco;1;0;H;1
+2015;05/07/2015;Cruzeiro;Athletico PR;2;0;H;2
+2015;05/07/2015;Avai;Sport;2;2;D;0
+2015;05/07/2015;Goias;Corinthians;0;0;D;0
+2015;05/07/2015;Santos;Gremio;1;3;A;-2
+2015;05/07/2015;Sao Paulo;Fluminense;0;0;D;0
+2015;05/07/2015;Flamengo;Figueirense;1;2;A;-1
+2015;05/07/2015;Internacional;Atletico MG;1;3;A;-2
+2015;05/07/2015;Ponte Preta;Palmeiras;0;2;A;-2
+2015;08/07/2015;Chapecoense;Gremio;1;0;H;1
+2015;08/07/2015;Coritiba;Ponte Preta;0;0;D;0
+2015;08/07/2015;Goias;Santos;4;1;H;3
+2015;09/07/2015;Figueirense;Joinville;0;2;A;-2
+2015;09/07/2015;Palmeiras;Avai;3;0;H;3
+2015;09/07/2015;Atletico MG;Sport;2;1;H;1
+2015;09/07/2015;Internacional;Flamengo;1;2;A;-1
+2015;09/07/2015;Vasco;Sao Paulo;0;4;A;-4
+2015;09/07/2015;Corinthians;Athletico PR;2;0;H;2
+2015;10/07/2015;Fluminense;Cruzeiro;1;0;H;1
+2015;11/07/2015;Gremio;Vasco;2;0;H;2
+2015;11/07/2015;Santos;Figueirense;3;0;H;3
+2015;12/07/2015;Ponte Preta;Atletico MG;0;2;A;-2
+2015;12/07/2015;Sao Paulo;Coritiba;3;1;H;2
+2015;12/07/2015;Athletico PR;Fluminense;1;2;A;-1
+2015;12/07/2015;Cruzeiro;Goias;1;0;H;1
+2015;12/07/2015;Flamengo;Corinthians;0;3;A;-3
+2015;12/07/2015;Joinville;Internacional;0;2;A;-2
+2015;12/07/2015;Avai;Chapecoense;2;1;H;1
+2015;12/07/2015;Sport;Palmeiras;2;2;D;0
+2015;18/07/2015;Flamengo;Gremio;1;0;H;1
+2015;18/07/2015;Internacional;Goias;2;1;H;1
+2015;19/07/2015;Corinthians;Atletico MG;1;0;H;1
+2015;19/07/2015;Athletico PR;Chapecoense;1;0;H;1
+2015;19/07/2015;Figueirense;Coritiba;0;0;D;0
+2015;19/07/2015;Fluminense;Vasco;1;2;A;-1
+2015;19/07/2015;Palmeiras;Santos;1;0;H;1
+2015;19/07/2015;Sport;Sao Paulo;2;0;H;2
+2015;19/07/2015;Cruzeiro;Avai;1;1;D;0
+2015;19/07/2015;Joinville;Ponte Preta;1;1;D;0
+2015;25/07/2015;Avai;Athletico PR;1;2;A;-1
+2015;25/07/2015;Gremio;Sport;1;1;D;0
+2015;26/07/2015;Atletico MG;Figueirense;1;0;H;1
+2015;26/07/2015;Chapecoense;Fluminense;2;1;H;1
+2015;26/07/2015;Santos;Joinville;2;0;H;2
+2015;26/07/2015;Coritiba;Corinthians;1;1;D;0
+2015;26/07/2015;Goias;Flamengo;0;1;A;-1
+2015;26/07/2015;Ponte Preta;Internacional;0;0;D;0
+2015;26/07/2015;Sao Paulo;Cruzeiro;1;0;H;1
+2015;26/07/2015;Vasco;Palmeiras;1;4;A;-3
+2015;30/07/2015;Atletico MG;Sao Paulo;3;1;H;2
+2015;30/07/2015;Corinthians;Vasco;3;0;H;3
+2015;01/08/2015;Fluminense;Gremio;1;0;H;1
+2015;02/08/2015;Coritiba;Goias;1;1;D;0
+2015;02/08/2015;Palmeiras;Athletico PR;0;1;A;-1
+2015;02/08/2015;Figueirense;Ponte Preta;3;1;H;2
+2015;02/08/2015;Flamengo;Santos;2;2;D;0
+2015;02/08/2015;Internacional;Chapecoense;0;0;D;0
+2015;02/08/2015;Joinville;Avai;2;0;H;2
+2015;02/08/2015;Sport;Cruzeiro;0;0;D;0
+2015;08/08/2015;Avai;Fluminense;1;0;H;1
+2015;09/08/2015;Santos;Coritiba;3;0;H;3
+2015;09/08/2015;Athletico PR;Sport;1;1;D;0
+2015;09/08/2015;Vasco;Joinville;0;0;D;0
+2015;09/08/2015;Cruzeiro;Palmeiras;2;1;H;1
+2015;09/08/2015;Goias;Atletico MG;0;0;D;0
+2015;09/08/2015;Ponte Preta;Flamengo;1;0;H;1
+2015;09/08/2015;Sao Paulo;Corinthians;1;1;D;0
+2015;09/08/2015;Chapecoense;Figueirense;2;2;D;0
+2015;09/08/2015;Gremio;Internacional;5;0;H;5
+2015;12/08/2015;Coritiba;Palmeiras;2;1;H;1
+2015;12/08/2015;Flamengo;Athletico PR;3;2;H;1
+2015;13/08/2015;Goias;Chapecoense;0;0;D;0
+2015;13/08/2015;Santos;Vasco;1;0;H;1
+2015;13/08/2015;Corinthians;Sport;4;3;H;1
+2015;13/08/2015;Figueirense;Sao Paulo;0;2;A;-2
+2015;13/08/2015;Internacional;Fluminense;1;0;H;1
+2015;13/08/2015;Ponte Preta;Avai;2;0;H;2
+2015;14/08/2015;Atletico MG;Gremio;0;2;A;-2
+2015;14/08/2015;Joinville;Cruzeiro;3;0;H;3
+2015;15/08/2015;Athletico PR;Santos;0;0;D;0
+2015;15/08/2015;Vasco;Coritiba;0;1;A;-1
+2015;16/08/2015;Sao Paulo;Goias;0;3;A;-3
+2015;16/08/2015;Palmeiras;Flamengo;4;2;H;2
+2015;16/08/2015;Avai;Corinthians;1;2;A;-1
+2015;16/08/2015;Cruzeiro;Internacional;0;0;D;0
+2015;16/08/2015;Fluminense;Figueirense;2;1;H;1
+2015;16/08/2015;Sport;Ponte Preta;1;1;D;0
+2015;16/08/2015;Chapecoense;Atletico MG;2;1;H;1
+2015;16/08/2015;Gremio;Joinville;2;1;H;1
+2015;22/08/2015;Goias;Vasco;3;0;H;3
+2015;22/08/2015;Santos;Avai;5;2;H;3
+2015;23/08/2015;Figueirense;Sport;2;1;H;1
+2015;23/08/2015;Coritiba;Chapecoense;1;0;H;1
+2015;23/08/2015;Ponte Preta;Gremio;0;0;D;0
+2015;23/08/2015;Corinthians;Cruzeiro;3;0;H;3
+2015;23/08/2015;Flamengo;Sao Paulo;2;1;H;1
+2015;23/08/2015;Internacional;Athletico PR;2;0;H;2
+2015;23/08/2015;Joinville;Fluminense;2;1;H;1
+2015;23/08/2015;Atletico MG;Palmeiras;2;1;H;1
+2015;29/08/2015;Vasco;Figueirense;0;1;A;-1
+2015;30/08/2015;Sao Paulo;Ponte Preta;3;0;H;3
+2015;30/08/2015;Avai;Internacional;3;0;H;3
+2015;30/08/2015;Gremio;Coritiba;0;0;D;0
+2015;30/08/2015;Chapecoense;Corinthians;1;3;A;-2
+2015;30/08/2015;Fluminense;Atletico MG;1;2;A;-1
+2015;30/08/2015;Palmeiras;Joinville;3;2;H;1
+2015;30/08/2015;Sport;Flamengo;0;1;A;-1
+2015;30/08/2015;Athletico PR;Goias;3;0;H;3
+2015;30/08/2015;Cruzeiro;Santos;0;1;A;-1
+2015;02/09/2015;Internacional;Vasco;6;0;H;6
+2015;02/09/2015;Joinville;Sao Paulo;0;0;D;0
+2015;02/09/2015;Ponte Preta;Cruzeiro;1;2;A;-1
+2015;03/09/2015;Atletico MG;Athletico PR;0;1;A;-1
+2015;03/09/2015;Flamengo;Avai;3;0;H;3
+2015;03/09/2015;Corinthians;Fluminense;2;0;H;2
+2015;03/09/2015;Coritiba;Sport;0;0;D;0
+2015;03/09/2015;Goias;Palmeiras;1;0;H;1
+2015;03/09/2015;Santos;Chapecoense;3;1;H;2
+2015;04/09/2015;Figueirense;Gremio;0;2;A;-2
+2015;05/09/2015;Sao Paulo;Internacional;2;0;H;2
+2015;05/09/2015;Vasco;Atletico MG;1;2;A;-1
+2015;06/09/2015;Athletico PR;Joinville;0;0;D;0
+2015;06/09/2015;Chapecoense;Ponte Preta;0;0;D;0
+2015;06/09/2015;Cruzeiro;Figueirense;5;1;H;4
+2015;06/09/2015;Avai;Coritiba;0;2;A;-2
+2015;06/09/2015;Fluminense;Flamengo;1;3;A;-2
+2015;06/09/2015;Gremio;Goias;2;1;H;1
+2015;06/09/2015;Palmeiras;Corinthians;3;3;D;0
+2015;06/09/2015;Sport;Santos;1;1;D;0
+2015;09/09/2015;Atletico MG;Avai;2;0;H;2
+2015;09/09/2015;Internacional;Palmeiras;1;0;H;1
+2015;09/09/2015;Ponte Preta;Vasco;0;1;A;-1
+2015;10/09/2015;Figueirense;Athletico PR;1;1;D;0
+2015;10/09/2015;Corinthians;Gremio;1;1;D;0
+2015;10/09/2015;Coritiba;Fluminense;1;1;D;0
+2015;10/09/2015;Santos;Sao Paulo;3;0;H;3
+2015;10/09/2015;Goias;Sport;1;0;H;1
+2015;11/09/2015;Flamengo;Cruzeiro;2;0;H;2
+2015;11/09/2015;Joinville;Chapecoense;0;0;D;0
+2015;12/09/2015;Coritiba;Internacional;0;1;A;-1
+2015;13/09/2015;Palmeiras;Figueirense;2;0;H;2
+2015;13/09/2015;Corinthians;Joinville;3;0;H;3
+2015;13/09/2015;Ponte Preta;Santos;3;1;H;2
+2015;13/09/2015;Chapecoense;Flamengo;1;3;A;-2
+2015;13/09/2015;Cruzeiro;Atletico MG;1;1;D;0
+2015;13/09/2015;Gremio;Sao Paulo;1;2;A;-1
+2015;13/09/2015;Vasco;Athletico PR;2;0;H;2
+2015;13/09/2015;Avai;Goias;2;1;H;1
+2015;13/09/2015;Sport;Fluminense;1;0;H;1
+2015;16/09/2015;Fluminense;Palmeiras;1;4;A;-3
+2015;16/09/2015;Goias;Ponte Preta;1;2;A;-1
+2015;16/09/2015;Joinville;Sport;1;1;D;0
+2015;17/09/2015;Athletico PR;Gremio;1;2;A;-1
+2015;17/09/2015;Figueirense;Avai;0;1;A;-1
+2015;17/09/2015;Cruzeiro;Vasco;2;2;D;0
+2015;17/09/2015;Internacional;Corinthians;2;1;H;1
+2015;17/09/2015;Santos;Atletico MG;4;0;H;4
+2015;17/09/2015;Sao Paulo;Chapecoense;0;0;D;0
+2015;18/09/2015;Flamengo;Coritiba;0;2;A;-2
+2015;19/09/2015;Internacional;Figueirense;1;1;D;0
+2015;19/09/2015;Palmeiras;Gremio;3;2;H;1
+2015;20/09/2015;Ponte Preta;Fluminense;3;1;H;2
+2015;20/09/2015;Corinthians;Santos;2;0;H;2
+2015;20/09/2015;Goias;Joinville;3;0;H;3
+2015;20/09/2015;Atletico MG;Flamengo;4;1;H;3
+2015;20/09/2015;Avai;Sao Paulo;2;1;H;1
+2015;20/09/2015;Vasco;Sport;2;1;H;1
+2015;20/09/2015;Chapecoense;Cruzeiro;0;2;A;-2
+2015;20/09/2015;Coritiba;Athletico PR;2;0;H;2
+2015;26/09/2015;Fluminense;Goias;2;0;H;2
+2015;27/09/2015;Gremio;Avai;3;1;H;2
+2015;27/09/2015;Athletico PR;Ponte Preta;1;2;A;-1
+2015;27/09/2015;Santos;Internacional;3;1;H;2
+2015;27/09/2015;Figueirense;Corinthians;1;3;A;-2
+2015;27/09/2015;Flamengo;Vasco;1;2;A;-1
+2015;27/09/2015;Joinville;Atletico MG;2;2;D;0
+2015;27/09/2015;Sao Paulo;Palmeiras;1;1;D;0
+2015;27/09/2015;Cruzeiro;Coritiba;2;0;H;2
+2015;27/09/2015;Sport;Chapecoense;3;0;H;3
+2015;03/10/2015;Coritiba;Atletico MG;0;3;A;-3
+2015;03/10/2015;Internacional;Sport;2;1;H;1
+2015;04/10/2015;Sao Paulo;Athletico PR;1;0;H;1
+2015;04/10/2015;Avai;Vasco;1;1;D;0
+2015;04/10/2015;Flamengo;Joinville;2;0;H;2
+2015;04/10/2015;Cruzeiro;Gremio;0;0;D;0
+2015;04/10/2015;Goias;Figueirense;2;3;A;-1
+2015;04/10/2015;Ponte Preta;Corinthians;2;2;D;0
+2015;04/10/2015;Santos;Fluminense;3;1;H;2
+2015;04/10/2015;Chapecoense;Palmeiras;5;1;H;4
+2015;14/10/2015;Atletico MG;Internacional;2;1;H;1
+2015;14/10/2015;Sport;Avai;3;0;H;3
+2015;15/10/2015;Figueirense;Flamengo;3;0;H;3
+2015;15/10/2015;Joinville;Coritiba;3;1;H;2
+2015;15/10/2015;Palmeiras;Ponte Preta;0;1;A;-1
+2015;15/10/2015;Athletico PR;Cruzeiro;2;2;D;0
+2015;15/10/2015;Fluminense;Sao Paulo;2;0;H;2
+2015;15/10/2015;Corinthians;Goias;3;0;H;3
+2015;15/10/2015;Vasco;Chapecoense;1;1;D;0
+2015;16/10/2015;Gremio;Santos;1;0;H;1
+2015;17/10/2015;Avai;Palmeiras;1;3;A;-2
+2015;18/10/2015;Joinville;Figueirense;1;0;H;1
+2015;18/10/2015;Cruzeiro;Fluminense;2;0;H;2
+2015;18/10/2015;Ponte Preta;Coritiba;3;0;H;3
+2015;18/10/2015;Athletico PR;Corinthians;1;4;A;-3
+2015;18/10/2015;Flamengo;Internacional;0;1;A;-1
+2015;18/10/2015;Sao Paulo;Vasco;2;2;D;0
+2015;18/10/2015;Gremio;Chapecoense;2;3;A;-1
+2015;18/10/2015;Santos;Goias;3;1;H;2
+2015;18/10/2015;Sport;Atletico MG;4;1;H;3
+2015;24/10/2015;Fluminense;Athletico PR;0;1;A;-1
+2015;24/10/2015;Figueirense;Santos;0;0;D;0
+2015;24/10/2015;Internacional;Joinville;1;0;H;1
+2015;25/10/2015;Palmeiras;Sport;0;2;A;-2
+2015;25/10/2015;Chapecoense;Avai;0;0;D;0
+2015;25/10/2015;Corinthians;Flamengo;1;0;H;1
+2015;25/10/2015;Coritiba;Sao Paulo;1;2;A;-1
+2015;25/10/2015;Vasco;Gremio;0;0;D;0
+2015;25/10/2015;Goias;Cruzeiro;0;1;A;-1
+2015;25/10/2015;Atletico MG;Ponte Preta;2;1;H;1
+2015;31/10/2015;Sao Paulo;Sport;3;0;H;3
+2015;31/10/2015;Avai;Cruzeiro;1;1;D;0
+2015;31/10/2015;Ponte Preta;Joinville;1;0;H;1
+2015;31/10/2015;Coritiba;Figueirense;1;1;D;0
+2015;01/11/2015;Atletico MG;Corinthians;0;3;A;-3
+2015;01/11/2015;Chapecoense;Athletico PR;0;0;D;0
+2015;01/11/2015;Gremio;Flamengo;2;0;H;2
+2015;01/11/2015;Santos;Palmeiras;2;1;H;1
+2015;01/11/2015;Vasco;Fluminense;0;1;A;-1
+2015;01/11/2015;Goias;Internacional;2;1;H;1
+2015;07/11/2015;Internacional;Ponte Preta;1;0;H;1
+2015;07/11/2015;Athletico PR;Avai;2;1;H;1
+2015;07/11/2015;Corinthians;Coritiba;2;1;H;1
+2015;07/11/2015;Fluminense;Chapecoense;2;3;A;-1
+2015;08/11/2015;Cruzeiro;Sao Paulo;2;1;H;1
+2015;08/11/2015;Figueirense;Atletico MG;0;1;A;-1
+2015;08/11/2015;Flamengo;Goias;4;1;H;3
+2015;08/11/2015;Palmeiras;Vasco;0;2;A;-2
+2015;08/11/2015;Joinville;Santos;0;0;D;0
+2015;08/11/2015;Sport;Gremio;1;0;H;1
+2015;15/11/2015;Cruzeiro;Sport;3;0;H;3
+2015;18/11/2015;Goias;Coritiba;1;3;A;-2
+2015;18/11/2015;Athletico PR;Palmeiras;3;3;D;0
+2015;18/11/2015;Avai;Joinville;2;1;H;1
+2015;18/11/2015;Ponte Preta;Figueirense;0;1;A;-1
+2015;19/11/2015;Chapecoense;Internacional;1;0;H;1
+2015;19/11/2015;Gremio;Fluminense;1;0;H;1
+2015;20/11/2015;Santos;Flamengo;0;0;D;0
+2015;20/11/2015;Sao Paulo;Atletico MG;4;2;H;2
+2015;20/11/2015;Vasco;Corinthians;1;1;D;0
+2015;21/11/2015;Palmeiras;Cruzeiro;1;1;D;0
+2015;22/11/2015;Atletico MG;Goias;2;2;D;0
+2015;22/11/2015;Corinthians;Sao Paulo;6;1;H;5
+2015;22/11/2015;Figueirense;Chapecoense;0;0;D;0
+2015;22/11/2015;Internacional;Gremio;1;0;H;1
+2015;22/11/2015;Joinville;Vasco;1;2;A;-1
+2015;22/11/2015;Flamengo;Ponte Preta;1;1;D;0
+2015;22/11/2015;Coritiba;Santos;1;0;H;1
+2015;22/11/2015;Fluminense;Avai;3;1;H;2
+2015;22/11/2015;Sport;Athletico PR;0;0;D;0
+2015;28/11/2015;Sao Paulo;Figueirense;3;2;H;1
+2015;28/11/2015;Fluminense;Internacional;1;1;D;0
+2015;28/11/2015;Avai;Ponte Preta;1;0;H;1
+2015;29/11/2015;Cruzeiro;Joinville;3;0;H;3
+2015;29/11/2015;Gremio;Atletico MG;2;1;H;1
+2015;29/11/2015;Sport;Corinthians;2;0;H;2
+2015;29/11/2015;Chapecoense;Goias;1;3;A;-2
+2015;29/11/2015;Palmeiras;Coritiba;0;2;A;-2
+2015;29/11/2015;Vasco;Santos;1;0;H;1
+2015;29/11/2015;Athletico PR;Flamengo;3;0;H;3
+2015;06/12/2015;Atletico MG;Chapecoense;3;0;H;3
+2015;06/12/2015;Corinthians;Avai;1;1;D;0
+2015;06/12/2015;Coritiba;Vasco;0;0;D;0
+2015;06/12/2015;Figueirense;Fluminense;1;0;H;1
+2015;06/12/2015;Flamengo;Palmeiras;1;2;A;-1
+2015;06/12/2015;Goias;Sao Paulo;0;1;A;-1
+2015;06/12/2015;Internacional;Cruzeiro;2;0;H;2
+2015;06/12/2015;Joinville;Gremio;0;2;A;-2
+2015;06/12/2015;Ponte Preta;Sport;0;1;A;-1
+2015;06/12/2015;Santos;Athletico PR;5;1;H;4
+2016;14/05/2016;Flamengo;Sport;1;0;H;1
+2016;14/05/2016;Palmeiras;Athletico PR;4;0;H;4
+2016;14/05/2016;Atletico MG;Santos;1;0;H;1
+2016;15/05/2016;Coritiba;Cruzeiro;1;0;H;1
+2016;15/05/2016;Botafogo;Sao Paulo;0;1;A;-1
+2016;15/05/2016;Santa Cruz;Vitoria;4;1;H;3
+2016;15/05/2016;America MG;Fluminense;0;1;A;-1
+2016;15/05/2016;Corinthians;Gremio;0;0;D;0
+2016;15/05/2016;Figueirense;Ponte Preta;0;0;D;0
+2016;15/05/2016;Internacional;Chapecoense;0;0;D;0
+2016;21/05/2016;Ponte Preta;Palmeiras;2;1;H;1
+2016;21/05/2016;Fluminense;Santa Cruz;2;2;D;0
+2016;22/05/2016;Cruzeiro;Figueirense;2;2;D;0
+2016;22/05/2016;Athletico PR;Atletico MG;1;1;D;0
+2016;22/05/2016;Santos;Coritiba;2;1;H;1
+2016;22/05/2016;Chapecoense;America MG;3;1;H;2
+2016;22/05/2016;Gremio;Flamengo;1;0;H;1
+2016;22/05/2016;Sao Paulo;Internacional;1;2;A;-1
+2016;22/05/2016;Vitoria;Corinthians;3;2;H;1
+2016;22/05/2016;Sport;Botafogo;1;1;D;0
+2016;25/05/2016;Botafogo;Athletico PR;2;1;H;1
+2016;25/05/2016;Figueirense;Santos;2;2;D;0
+2016;26/05/2016;America MG;Vitoria;1;1;D;0
+2016;26/05/2016;Flamengo;Chapecoense;2;2;D;0
+2016;26/05/2016;Coritiba;Sao Paulo;1;1;D;0
+2016;26/05/2016;Palmeiras;Fluminense;2;0;H;2
+2016;26/05/2016;Santa Cruz;Cruzeiro;4;1;H;3
+2016;26/05/2016;Corinthians;Ponte Preta;3;0;H;3
+2016;26/05/2016;Internacional;Sport;1;0;H;1
+2016;27/05/2016;Atletico MG;Gremio;0;3;A;-3
+2016;28/05/2016;Cruzeiro;America MG;1;1;D;0
+2016;28/05/2016;Athletico PR;Figueirense;2;1;H;1
+2016;29/05/2016;Chapecoense;Santa Cruz;1;1;D;0
+2016;29/05/2016;Ponte Preta;Flamengo;1;2;A;-1
+2016;29/05/2016;Sport;Corinthians;0;2;A;-2
+2016;29/05/2016;Fluminense;Botafogo;1;0;H;1
+2016;29/05/2016;Sao Paulo;Palmeiras;1;0;H;1
+2016;29/05/2016;Vitoria;Atletico MG;1;1;D;0
+2016;29/05/2016;Gremio;Coritiba;2;0;H;2
+2016;29/05/2016;Santos;Internacional;0;1;A;-1
+2016;01/06/2016;Internacional;Athletico PR;1;0;H;1
+2016;02/06/2016;Corinthians;Santos;1;0;H;1
+2016;02/06/2016;Coritiba;Chapecoense;3;4;A;-1
+2016;02/06/2016;Santa Cruz;Sport;0;1;A;-1
+2016;02/06/2016;Atletico MG;Fluminense;1;1;D;0
+2016;02/06/2016;Botafogo;Cruzeiro;0;1;A;-1
+2016;02/06/2016;Figueirense;Sao Paulo;1;0;H;1
+2016;02/06/2016;America MG;Ponte Preta;1;2;A;-1
+2016;03/06/2016;Flamengo;Vitoria;1;0;H;1
+2016;03/06/2016;Palmeiras;Gremio;4;3;H;1
+2016;04/06/2016;Athletico PR;Santa Cruz;1;0;H;1
+2016;05/06/2016;Chapecoense;Fluminense;0;0;D;0
+2016;05/06/2016;Corinthians;Coritiba;2;1;H;1
+2016;05/06/2016;America MG;Figueirense;1;0;H;1
+2016;05/06/2016;Santos;Botafogo;3;0;H;3
+2016;05/06/2016;Flamengo;Palmeiras;1;2;A;-1
+2016;05/06/2016;Gremio;Ponte Preta;1;0;H;1
+2016;05/06/2016;Sport;Atletico MG;4;4;D;0
+2016;05/06/2016;Vitoria;Internacional;1;0;H;1
+2016;05/06/2016;Cruzeiro;Sao Paulo;0;1;A;-1
+2016;11/06/2016;Internacional;America MG;3;1;H;2
+2016;11/06/2016;Ponte Preta;Chapecoense;2;1;H;1
+2016;11/06/2016;Fluminense;Gremio;1;1;D;0
+2016;12/06/2016;Sao Paulo;Athletico PR;1;2;A;-1
+2016;12/06/2016;Botafogo;Vitoria;1;1;D;0
+2016;12/06/2016;Coritiba;Sport;3;2;H;1
+2016;12/06/2016;Atletico MG;Cruzeiro;2;3;A;-1
+2016;12/06/2016;Figueirense;Flamengo;1;0;H;1
+2016;12/06/2016;Palmeiras;Corinthians;1;0;H;1
+2016;12/06/2016;Santa Cruz;Santos;0;2;A;-2
+2016;15/06/2016;Chapecoense;Gremio;3;3;D;0
+2016;15/06/2016;Ponte Preta;Athletico PR;3;2;H;1
+2016;15/06/2016;Sao Paulo;Vitoria;2;0;H;2
+2016;16/06/2016;Botafogo;America MG;3;1;H;2
+2016;16/06/2016;Santa Cruz;Figueirense;1;0;H;1
+2016;16/06/2016;Santos;Sport;2;0;H;2
+2016;16/06/2016;Coritiba;Palmeiras;2;2;D;0
+2016;16/06/2016;Cruzeiro;Flamengo;0;1;A;-1
+2016;16/06/2016;Internacional;Atletico MG;2;0;H;2
+2016;17/06/2016;Fluminense;Corinthians;1;0;H;1
+2016;18/06/2016;Palmeiras;Santa Cruz;3;1;H;2
+2016;18/06/2016;Athletico PR;Santos;1;0;H;1
+2016;19/06/2016;America MG;Coritiba;2;1;H;1
+2016;19/06/2016;Atletico MG;Ponte Preta;3;0;H;3
+2016;19/06/2016;Vitoria;Chapecoense;1;2;A;-1
+2016;19/06/2016;Corinthians;Botafogo;3;1;H;2
+2016;19/06/2016;Figueirense;Internacional;3;2;H;1
+2016;19/06/2016;Flamengo;Sao Paulo;2;2;D;0
+2016;19/06/2016;Sport;Fluminense;2;1;H;1
+2016;19/06/2016;Gremio;Cruzeiro;2;0;H;2
+2016;22/06/2016;Palmeiras;America MG;2;0;H;2
+2016;22/06/2016;Ponte Preta;Cruzeiro;0;4;A;-4
+2016;23/06/2016;Botafogo;Figueirense;0;0;D;0
+2016;23/06/2016;Santa Cruz;Flamengo;0;1;A;-1
+2016;23/06/2016;Atletico MG;Corinthians;2;1;H;1
+2016;23/06/2016;Fluminense;Santos;2;4;A;-2
+2016;23/06/2016;Chapecoense;Athletico PR;0;0;D;0
+2016;23/06/2016;Gremio;Vitoria;1;2;A;-1
+2016;24/06/2016;Sao Paulo;Sport;0;0;D;0
+2016;24/06/2016;Coritiba;Internacional;1;1;D;0
+2016;25/06/2016;Cruzeiro;Palmeiras;2;1;H;1
+2016;26/06/2016;Corinthians;Santa Cruz;2;1;H;1
+2016;26/06/2016;America MG;Atletico MG;0;1;A;-1
+2016;26/06/2016;Athletico PR;Gremio;2;0;H;2
+2016;26/06/2016;Flamengo;Fluminense;1;2;A;-1
+2016;26/06/2016;Internacional;Botafogo;2;3;A;-1
+2016;26/06/2016;Santos;Sao Paulo;3;0;H;3
+2016;26/06/2016;Vitoria;Ponte Preta;1;1;D;0
+2016;26/06/2016;Figueirense;Coritiba;0;0;D;0
+2016;26/06/2016;Sport;Chapecoense;5;1;H;4
+2016;29/06/2016;Flamengo;Internacional;1;0;H;1
+2016;29/06/2016;Gremio;Santos;3;2;H;1
+2016;29/06/2016;Vitoria;Sport;3;2;H;1
+2016;30/06/2016;Chapecoense;Cruzeiro;3;2;H;1
+2016;30/06/2016;Coritiba;Athletico PR;1;0;H;1
+2016;30/06/2016;America MG;Corinthians;0;2;A;-2
+2016;30/06/2016;Sao Paulo;Fluminense;2;1;H;1
+2016;30/06/2016;Palmeiras;Figueirense;4;0;H;4
+2016;30/06/2016;Santa Cruz;Ponte Preta;0;3;A;-3
+2016;01/07/2016;Atletico MG;Botafogo;5;3;H;2
+2016;02/07/2016;Fluminense;Coritiba;0;0;D;0
+2016;02/07/2016;Athletico PR;America MG;1;0;H;1
+2016;03/07/2016;Cruzeiro;Vitoria;2;2;D;0
+2016;03/07/2016;Internacional;Gremio;0;1;A;-1
+2016;03/07/2016;Botafogo;Santa Cruz;2;1;H;1
+2016;03/07/2016;Corinthians;Flamengo;4;0;H;4
+2016;03/07/2016;Ponte Preta;Sao Paulo;1;0;H;1
+2016;03/07/2016;Santos;Chapecoense;3;0;H;3
+2016;03/07/2016;Figueirense;Atletico MG;1;1;D;0
+2016;05/07/2016;Sport;Palmeiras;1;3;A;-2
+2016;09/07/2016;Chapecoense;Corinthians;0;2;A;-2
+2016;09/07/2016;Coritiba;Botafogo;0;0;D;0
+2016;10/07/2016;Ponte Preta;Sport;2;1;H;1
+2016;10/07/2016;Flamengo;Atletico MG;2;0;H;2
+2016;10/07/2016;Gremio;Figueirense;2;1;H;1
+2016;10/07/2016;Santa Cruz;Internacional;1;0;H;1
+2016;10/07/2016;Sao Paulo;America MG;3;0;H;3
+2016;10/07/2016;Vitoria;Fluminense;0;0;D;0
+2016;12/07/2016;Cruzeiro;Athletico PR;0;3;A;-3
+2016;13/07/2016;Palmeiras;Santos;1;1;D;0
+2016;16/07/2016;Botafogo;Flamengo;3;3;D;0
+2016;16/07/2016;Santos;Ponte Preta;3;1;H;2
+2016;17/07/2016;America MG;Santa Cruz;0;3;A;-3
+2016;17/07/2016;Athletico PR;Vitoria;1;1;D;0
+2016;17/07/2016;Corinthians;Sao Paulo;1;1;D;0
+2016;17/07/2016;Figueirense;Chapecoense;1;1;D;0
+2016;17/07/2016;Fluminense;Cruzeiro;2;0;H;2
+2016;17/07/2016;Internacional;Palmeiras;0;1;A;-1
+2016;17/07/2016;Sport;Gremio;4;2;H;2
+2016;19/07/2016;Atletico MG;Coritiba;2;1;H;1
+2016;23/07/2016;Corinthians;Figueirense;1;1;D;0
+2016;23/07/2016;Santa Cruz;Coritiba;0;1;A;-1
+2016;24/07/2016;Palmeiras;Atletico MG;0;1;A;-1
+2016;24/07/2016;Ponte Preta;Internacional;2;2;D;0
+2016;24/07/2016;Athletico PR;Fluminense;1;0;H;1
+2016;24/07/2016;Chapecoense;Botafogo;2;1;H;1
+2016;24/07/2016;Cruzeiro;Sport;1;2;A;-1
+2016;24/07/2016;Gremio;Sao Paulo;1;0;H;1
+2016;24/07/2016;Vitoria;Santos;2;3;A;-1
+2016;26/07/2016;Flamengo;America MG;2;1;H;1
+2016;30/07/2016;Figueirense;Vitoria;1;0;H;1
+2016;30/07/2016;Sport;Athletico PR;2;0;H;2
+2016;31/07/2016;Atletico MG;Santa Cruz;3;0;H;3
+2016;31/07/2016;Fluminense;Ponte Preta;3;0;H;3
+2016;31/07/2016;Sao Paulo;Chapecoense;2;2;D;0
+2016;31/07/2016;Coritiba;Flamengo;0;2;A;-2
+2016;31/07/2016;Internacional;Corinthians;0;1;A;-1
+2016;31/07/2016;Santos;Cruzeiro;2;0;H;2
+2016;31/07/2016;America MG;Gremio;0;0;D;0
+2016;31/07/2016;Botafogo;Palmeiras;3;1;H;2
+2016;03/08/2016;Sport;America MG;1;1;D;0
+2016;03/08/2016;Vitoria;Coritiba;3;1;H;2
+2016;04/08/2016;Athletico PR;Corinthians;2;0;H;2
+2016;04/08/2016;Santos;Flamengo;0;0;D;0
+2016;04/08/2016;Ponte Preta;Botafogo;2;0;H;2
+2016;04/08/2016;Gremio;Santa Cruz;0;0;D;0
+2016;04/08/2016;Sao Paulo;Atletico MG;1;2;A;-1
+2016;05/08/2016;Cruzeiro;Internacional;4;2;H;2
+2016;05/08/2016;Chapecoense;Palmeiras;1;1;D;0
+2016;06/08/2016;Flamengo;Athletico PR;1;0;H;1
+2016;07/08/2016;America MG;Santos;1;0;H;1
+2016;07/08/2016;Coritiba;Ponte Preta;3;1;H;2
+2016;07/08/2016;Palmeiras;Vitoria;2;1;H;1
+2016;07/08/2016;Internacional;Fluminense;2;2;D;0
+2016;07/08/2016;Santa Cruz;Sao Paulo;1;2;A;-1
+2016;07/08/2016;Figueirense;Sport;1;1;D;0
+2016;09/08/2016;Atletico MG;Chapecoense;3;1;H;2
+2016;09/08/2016;Corinthians;Cruzeiro;1;1;D;0
+2016;13/08/2016;Sport;Flamengo;1;0;H;1
+2016;13/08/2016;Ponte Preta;Figueirense;2;0;H;2
+2016;14/08/2016;Fluminense;America MG;1;0;H;1
+2016;14/08/2016;Gremio;Corinthians;3;0;H;3
+2016;14/08/2016;Cruzeiro;Coritiba;2;2;D;0
+2016;14/08/2016;Santos;Atletico MG;3;0;H;3
+2016;14/08/2016;Vitoria;Santa Cruz;2;2;D;0
+2016;14/08/2016;Sao Paulo;Botafogo;0;1;A;-1
+2016;14/08/2016;Athletico PR;Palmeiras;0;1;A;-1
+2016;16/08/2016;Chapecoense;Internacional;1;0;H;1
+2016;20/08/2016;America MG;Chapecoense;1;2;A;-1
+2016;21/08/2016;Botafogo;Sport;3;0;H;3
+2016;21/08/2016;Atletico MG;Athletico PR;1;0;H;1
+2016;21/08/2016;Flamengo;Gremio;2;1;H;1
+2016;21/08/2016;Internacional;Sao Paulo;1;1;D;0
+2016;21/08/2016;Palmeiras;Ponte Preta;2;2;D;0
+2016;21/08/2016;Santa Cruz;Fluminense;0;1;A;-1
+2016;21/08/2016;Coritiba;Santos;2;1;H;1
+2016;21/08/2016;Figueirense;Cruzeiro;1;2;A;-1
+2016;23/08/2016;Corinthians;Vitoria;2;1;H;1
+2016;27/08/2016;Ponte Preta;Corinthians;2;0;H;2
+2016;28/08/2016;Cruzeiro;Santa Cruz;2;0;H;2
+2016;28/08/2016;Santos;Figueirense;0;1;A;-1
+2016;28/08/2016;Chapecoense;Flamengo;1;3;A;-2
+2016;28/08/2016;Fluminense;Palmeiras;0;2;A;-2
+2016;28/08/2016;Gremio;Atletico MG;1;1;D;0
+2016;28/08/2016;Sao Paulo;Coritiba;0;0;D;0
+2016;28/08/2016;Sport;Internacional;1;1;D;0
+2016;28/08/2016;Vitoria;America MG;2;1;H;1
+2016;30/08/2016;Athletico PR;Botafogo;1;0;H;1
+2016;03/09/2016;Fluminense;Figueirense;3;2;H;1
+2016;04/09/2016;Botafogo;Gremio;2;1;H;1
+2016;07/09/2016;Botafogo;Fluminense;1;0;H;1
+2016;07/09/2016;Figueirense;Athletico PR;1;0;H;1
+2016;07/09/2016;Santa Cruz;Chapecoense;2;2;D;0
+2016;07/09/2016;Atletico MG;Vitoria;2;1;H;1
+2016;08/09/2016;Coritiba;Gremio;4;0;H;4
+2016;08/09/2016;Flamengo;Ponte Preta;2;1;H;1
+2016;08/09/2016;Palmeiras;Sao Paulo;2;1;H;1
+2016;08/09/2016;Corinthians;Sport;3;0;H;3
+2016;09/09/2016;America MG;Cruzeiro;0;2;A;-2
+2016;09/09/2016;Internacional;Santos;2;1;H;1
+2016;10/09/2016;Vitoria;Flamengo;1;2;A;-1
+2016;11/09/2016;Chapecoense;Coritiba;1;0;H;1
+2016;11/09/2016;Sao Paulo;Figueirense;3;1;H;2
+2016;11/09/2016;Athletico PR;Internacional;2;1;H;1
+2016;11/09/2016;Cruzeiro;Botafogo;0;2;A;-2
+2016;11/09/2016;Santos;Corinthians;2;1;H;1
+2016;11/09/2016;Sport;Santa Cruz;5;3;H;2
+2016;11/09/2016;Gremio;Palmeiras;0;0;D;0
+2016;11/09/2016;Ponte Preta;America MG;1;1;D;0
+2016;13/09/2016;Fluminense;Atletico MG;4;2;H;2
+2016;14/09/2016;Botafogo;Santos;0;1;A;-1
+2016;14/09/2016;Figueirense;America MG;2;2;D;0
+2016;15/09/2016;Ponte Preta;Gremio;3;0;H;3
+2016;15/09/2016;Santa Cruz;Athletico PR;1;0;H;1
+2016;15/09/2016;Coritiba;Corinthians;1;1;D;0
+2016;15/09/2016;Palmeiras;Flamengo;1;1;D;0
+2016;15/09/2016;Atletico MG;Sport;1;0;H;1
+2016;15/09/2016;Fluminense;Chapecoense;1;2;A;-1
+2016;16/09/2016;Internacional;Vitoria;0;1;A;-1
+2016;16/09/2016;Sao Paulo;Cruzeiro;1;0;H;1
+2016;17/09/2016;Corinthians;Palmeiras;0;2;A;-2
+2016;18/09/2016;Flamengo;Figueirense;2;0;H;2
+2016;18/09/2016;Athletico PR;Sao Paulo;1;0;H;1
+2016;18/09/2016;Chapecoense;Ponte Preta;2;2;D;0
+2016;18/09/2016;Cruzeiro;Atletico MG;1;1;D;0
+2016;18/09/2016;Gremio;Fluminense;0;1;A;-1
+2016;18/09/2016;Sport;Coritiba;0;1;A;-1
+2016;18/09/2016;Santos;Santa Cruz;3;2;H;1
+2016;18/09/2016;Vitoria;Botafogo;0;1;A;-1
+2016;20/09/2016;America MG;Internacional;1;0;H;1
+2016;24/09/2016;Palmeiras;Coritiba;2;1;H;1
+2016;24/09/2016;Sport;Santos;1;0;H;1
+2016;25/09/2016;America MG;Botafogo;1;0;H;1
+2016;25/09/2016;Athletico PR;Ponte Preta;3;0;H;3
+2016;25/09/2016;Figueirense;Santa Cruz;3;1;H;2
+2016;25/09/2016;Corinthians;Fluminense;0;1;A;-1
+2016;25/09/2016;Flamengo;Cruzeiro;2;1;H;1
+2016;25/09/2016;Gremio;Chapecoense;1;0;H;1
+2016;25/09/2016;Vitoria;Sao Paulo;2;0;H;2
+2016;25/09/2016;Atletico MG;Internacional;3;1;H;2
+2016;01/10/2016;Fluminense;Sport;3;1;H;2
+2016;01/10/2016;Chapecoense;Vitoria;1;4;A;-3
+2016;01/10/2016;Santos;Athletico PR;2;0;H;2
+2016;01/10/2016;Sao Paulo;Flamengo;0;0;D;0
+2016;01/10/2016;Botafogo;Corinthians;2;0;H;2
+2016;01/10/2016;Ponte Preta;Atletico MG;1;2;A;-1
+2016;01/10/2016;Cruzeiro;Gremio;1;0;H;1
+2016;02/10/2016;Internacional;Figueirense;1;0;H;1
+2016;04/10/2016;Santa Cruz;Palmeiras;2;3;A;-1
+2016;04/10/2016;Coritiba;America MG;3;0;H;3
+2016;05/10/2016;Athletico PR;Chapecoense;3;1;H;2
+2016;05/10/2016;Vitoria;Gremio;0;1;A;-1
+2016;06/10/2016;Corinthians;Atletico MG;0;0;D;0
+2016;06/10/2016;Santos;Fluminense;2;1;H;1
+2016;06/10/2016;Sport;Sao Paulo;1;1;D;0
+2016;06/10/2016;Internacional;Coritiba;1;0;H;1
+2016;09/10/2016;Cruzeiro;Ponte Preta;2;0;H;2
+2016;09/10/2016;America MG;Palmeiras;0;2;A;-2
+2016;09/10/2016;Figueirense;Botafogo;0;1;A;-1
+2016;09/10/2016;Flamengo;Santa Cruz;3;0;H;3
+2016;12/10/2016;Chapecoense;Sport;3;0;H;3
+2016;12/10/2016;Coritiba;Figueirense;0;0;D;0
+2016;13/10/2016;Botafogo;Internacional;1;0;H;1
+2016;13/10/2016;Santa Cruz;Corinthians;2;4;A;-2
+2016;13/10/2016;Atletico MG;America MG;3;0;H;3
+2016;13/10/2016;Palmeiras;Cruzeiro;0;0;D;0
+2016;13/10/2016;Ponte Preta;Vitoria;2;0;H;2
+2016;14/10/2016;Fluminense;Flamengo;1;2;A;-1
+2016;14/10/2016;Gremio;Athletico PR;1;0;H;1
+2016;14/10/2016;Sao Paulo;Santos;0;1;A;-1
+2016;16/10/2016;Athletico PR;Coritiba;2;0;H;2
+2016;16/10/2016;Botafogo;Atletico MG;3;2;H;1
+2016;16/10/2016;Cruzeiro;Chapecoense;0;0;D;0
+2016;16/10/2016;Figueirense;Palmeiras;1;2;A;-1
+2016;16/10/2016;Internacional;Flamengo;2;1;H;1
+2016;16/10/2016;Corinthians;America MG;2;0;H;2
+2016;16/10/2016;Ponte Preta;Santa Cruz;3;0;H;3
+2016;16/10/2016;Santos;Gremio;1;1;D;0
+2016;16/10/2016;Sport;Vitoria;1;0;H;1
+2016;17/10/2016;Fluminense;Sao Paulo;1;2;A;-1
+2016;20/10/2016;Santa Cruz;Botafogo;0;1;A;-1
+2016;22/10/2016;Sao Paulo;Ponte Preta;2;0;H;2
+2016;23/10/2016;Flamengo;Corinthians;2;2;D;0
+2016;23/10/2016;Gremio;Internacional;0;0;D;0
+2016;23/10/2016;Palmeiras;Sport;2;1;H;1
+2016;23/10/2016;Vitoria;Cruzeiro;0;1;A;-1
+2016;23/10/2016;Coritiba;Fluminense;1;1;D;0
+2016;23/10/2016;Atletico MG;Figueirense;3;0;H;3
+2016;23/10/2016;Chapecoense;Santos;0;1;A;-1
+2016;24/10/2016;America MG;Athletico PR;1;0;H;1
+2016;27/10/2016;Sport;Ponte Preta;1;0;H;1
+2016;28/10/2016;Fluminense;Vitoria;2;2;D;0
+2016;29/10/2016;Atletico MG;Flamengo;2;2;D;0
+2016;29/10/2016;Athletico PR;Cruzeiro;1;0;H;1
+2016;29/10/2016;Corinthians;Chapecoense;1;1;D;0
+2016;29/10/2016;Botafogo;Coritiba;0;0;D;0
+2016;29/10/2016;Internacional;Santa Cruz;1;1;D;0
+2016;29/10/2016;Figueirense;Gremio;0;0;D;0
+2016;29/10/2016;Santos;Palmeiras;1;0;H;1
+2016;31/10/2016;America MG;Sao Paulo;1;0;H;1
+2016;05/11/2016;Flamengo;Botafogo;0;0;D;0
+2016;05/11/2016;Sao Paulo;Corinthians;4;0;H;4
+2016;06/11/2016;Ponte Preta;Santos;1;2;A;-1
+2016;06/11/2016;Cruzeiro;Fluminense;4;2;H;2
+2016;06/11/2016;Palmeiras;Internacional;1;0;H;1
+2016;06/11/2016;Santa Cruz;America MG;1;0;H;1
+2016;06/11/2016;Vitoria;Athletico PR;3;2;H;1
+2016;06/11/2016;Chapecoense;Figueirense;1;0;H;1
+2016;06/11/2016;Coritiba;Atletico MG;2;0;H;2
+2016;07/11/2016;Gremio;Sport;0;3;A;-3
+2016;15/11/2016;Fluminense;Athletico PR;1;1;D;0
+2016;16/11/2016;Botafogo;Chapecoense;0;2;A;-2
+2016;16/11/2016;Coritiba;Santa Cruz;1;0;H;1
+2016;16/11/2016;America MG;Flamengo;0;1;A;-1
+2016;16/11/2016;Figueirense;Corinthians;1;1;D;0
+2016;16/11/2016;Sport;Cruzeiro;0;1;A;-1
+2016;17/11/2016;Santos;Vitoria;3;2;H;1
+2016;17/11/2016;Sao Paulo;Gremio;1;1;D;0
+2016;17/11/2016;Atletico MG;Palmeiras;1;1;D;0
+2016;17/11/2016;Internacional;Ponte Preta;1;1;D;0
+2016;20/11/2016;Athletico PR;Sport;2;0;H;2
+2016;20/11/2016;Cruzeiro;Santos;2;2;D;0
+2016;20/11/2016;Gremio;America MG;3;0;H;3
+2016;20/11/2016;Palmeiras;Botafogo;1;0;H;1
+2016;20/11/2016;Ponte Preta;Fluminense;1;0;H;1
+2016;20/11/2016;Vitoria;Figueirense;4;0;H;4
+2016;20/11/2016;Chapecoense;Sao Paulo;2;0;H;2
+2016;20/11/2016;Flamengo;Coritiba;2;2;D;0
+2016;20/11/2016;Santa Cruz;Atletico MG;3;3;D;0
+2016;21/11/2016;Corinthians;Internacional;1;0;H;1
+2016;26/11/2016;America MG;Sport;2;2;D;0
+2016;26/11/2016;Botafogo;Ponte Preta;1;1;D;0
+2016;26/11/2016;Corinthians;Athletico PR;0;0;D;0
+2016;27/11/2016;Atletico MG;Sao Paulo;1;2;A;-1
+2016;27/11/2016;Flamengo;Santos;2;0;H;2
+2016;27/11/2016;Internacional;Cruzeiro;1;0;H;1
+2016;27/11/2016;Palmeiras;Chapecoense;1;0;H;1
+2016;27/11/2016;Figueirense;Fluminense;1;0;H;1
+2016;27/11/2016;Santa Cruz;Gremio;5;1;H;4
+2016;28/11/2016;Coritiba;Vitoria;0;1;A;-1
+2016;11/12/2016;Athletico PR;Flamengo;0;0;D;0
+2016;11/12/2016;Chapecoense;Atletico MG;;;D;0
+2016;11/12/2016;Cruzeiro;Corinthians;3;2;H;1
+2016;11/12/2016;Fluminense;Internacional;1;1;D;0
+2016;11/12/2016;Gremio;Botafogo;0;1;A;-1
+2016;11/12/2016;Ponte Preta;Coritiba;2;0;H;2
+2016;11/12/2016;Santos;America MG;1;0;H;1
+2016;11/12/2016;Sao Paulo;Santa Cruz;5;0;H;5
+2016;11/12/2016;Sport;Figueirense;2;0;H;2
+2016;11/12/2016;Vitoria;Palmeiras;1;2;A;-1
+2017;13/05/2017;Flamengo;Atletico MG;1;1;D;0
+2017;13/05/2017;Corinthians;Chapecoense;1;1;D;0
+2017;14/05/2017;Fluminense;Santos;3;2;H;1
+2017;14/05/2017;Avai;Vitoria;0;0;D;0
+2017;14/05/2017;Bahia;Athletico PR;6;2;H;4
+2017;14/05/2017;Cruzeiro;Sao Paulo;1;0;H;1
+2017;14/05/2017;Palmeiras;Vasco;4;0;H;4
+2017;14/05/2017;Ponte Preta;Sport;4;0;H;4
+2017;14/05/2017;Gremio;Botafogo;2;0;H;2
+2017;16/05/2017;Coritiba;Atletico GO;4;1;H;3
+2017;20/05/2017;Santos;Coritiba;1;0;H;1
+2017;20/05/2017;Atletico GO;Flamengo;0;3;A;-3
+2017;20/05/2017;Chapecoense;Palmeiras;1;0;H;1
+2017;21/05/2017;Vasco;Bahia;2;1;H;1
+2017;21/05/2017;Atletico MG;Fluminense;1;2;A;-1
+2017;21/05/2017;Athletico PR;Gremio;0;2;A;-2
+2017;21/05/2017;Vitoria;Corinthians;0;1;A;-1
+2017;21/05/2017;Botafogo;Ponte Preta;2;0;H;2
+2017;21/05/2017;Sport;Cruzeiro;1;1;D;0
+2017;23/05/2017;Sao Paulo;Avai;2;0;H;2
+2017;27/05/2017;Vasco;Fluminense;3;2;H;1
+2017;27/05/2017;Sao Paulo;Palmeiras;2;0;H;2
+2017;28/05/2017;Vitoria;Coritiba;0;1;A;-1
+2017;28/05/2017;Atletico MG;Ponte Preta;2;2;D;0
+2017;28/05/2017;Atletico GO;Corinthians;0;1;A;-1
+2017;28/05/2017;Athletico PR;Flamengo;1;1;D;0
+2017;28/05/2017;Santos;Cruzeiro;0;1;A;-1
+2017;28/05/2017;Sport;Gremio;4;3;H;1
+2017;28/05/2017;Botafogo;Bahia;1;0;H;1
+2017;30/05/2017;Chapecoense;Avai;2;0;H;2
+2017;03/06/2017;Coritiba;Athletico PR;1;0;H;1
+2017;03/06/2017;Fluminense;Vitoria;2;1;H;1
+2017;03/06/2017;Corinthians;Santos;2;0;H;2
+2017;04/06/2017;Avai;Sport;1;0;H;1
+2017;04/06/2017;Flamengo;Botafogo;0;0;D;0
+2017;04/06/2017;Gremio;Vasco;2;0;H;2
+2017;04/06/2017;Palmeiras;Atletico MG;0;0;D;0
+2017;04/06/2017;Ponte Preta;Sao Paulo;1;0;H;1
+2017;04/06/2017;Cruzeiro;Chapecoense;0;2;A;-2
+2017;06/06/2017;Bahia;Atletico GO;3;0;H;3
+2017;07/06/2017;Fluminense;Athletico PR;1;1;D;0
+2017;07/06/2017;Atletico MG;Avai;1;0;H;1
+2017;07/06/2017;Coritiba;Palmeiras;1;0;H;1
+2017;08/06/2017;Santos;Botafogo;1;0;H;1
+2017;08/06/2017;Sport;Flamengo;2;0;H;2
+2017;08/06/2017;Vasco;Corinthians;2;5;A;-3
+2017;08/06/2017;Atletico GO;Ponte Preta;3;0;H;3
+2017;08/06/2017;Sao Paulo;Vitoria;2;0;H;2
+2017;09/06/2017;Chapecoense;Gremio;3;6;A;-3
+2017;09/06/2017;Bahia;Cruzeiro;1;0;H;1
+2017;10/06/2017;Palmeiras;Fluminense;3;1;H;2
+2017;10/06/2017;Vasco;Sport;2;1;H;1
+2017;11/06/2017;Botafogo;Coritiba;2;2;D;0
+2017;11/06/2017;Avai;Flamengo;1;1;D;0
+2017;11/06/2017;Corinthians;Sao Paulo;3;2;H;1
+2017;11/06/2017;Ponte Preta;Chapecoense;3;2;H;1
+2017;11/06/2017;Vitoria;Atletico MG;2;0;H;2
+2017;11/06/2017;Cruzeiro;Atletico GO;2;0;H;2
+2017;11/06/2017;Athletico PR;Santos;0;2;A;-2
+2017;13/06/2017;Gremio;Bahia;1;0;H;1
+2017;14/06/2017;Atletico GO;Avai;3;1;H;2
+2017;14/06/2017;Atletico MG;Athletico PR;0;1;A;-1
+2017;14/06/2017;Sport;Sao Paulo;0;0;D;0
+2017;14/06/2017;Vitoria;Botafogo;2;2;D;0
+2017;15/06/2017;Flamengo;Ponte Preta;2;0;H;2
+2017;15/06/2017;Chapecoense;Vasco;2;1;H;1
+2017;15/06/2017;Corinthians;Cruzeiro;1;0;H;1
+2017;15/06/2017;Santos;Palmeiras;1;0;H;1
+2017;15/06/2017;Coritiba;Bahia;0;0;D;0
+2017;16/06/2017;Fluminense;Gremio;0;2;A;-2
+2017;17/06/2017;Atletico GO;Athletico PR;0;1;A;-1
+2017;17/06/2017;Vasco;Avai;1;0;H;1
+2017;18/06/2017;Santos;Ponte Preta;0;0;D;0
+2017;18/06/2017;Coritiba;Corinthians;0;0;D;0
+2017;18/06/2017;Bahia;Palmeiras;2;4;A;-2
+2017;18/06/2017;Chapecoense;Botafogo;0;2;A;-2
+2017;18/06/2017;Fluminense;Flamengo;2;2;D;0
+2017;18/06/2017;Sao Paulo;Atletico MG;1;2;A;-1
+2017;18/06/2017;Sport;Vitoria;1;3;A;-2
+2017;20/06/2017;Cruzeiro;Gremio;3;3;D;0
+2017;21/06/2017;Vitoria;Santos;0;2;A;-2
+2017;22/06/2017;Botafogo;Vasco;3;1;H;2
+2017;22/06/2017;Palmeiras;Atletico GO;1;0;H;1
+2017;22/06/2017;Atletico MG;Sport;2;2;D;0
+2017;22/06/2017;Athletico PR;Sao Paulo;1;0;H;1
+2017;22/06/2017;Avai;Fluminense;0;3;A;-3
+2017;22/06/2017;Corinthians;Bahia;3;0;H;3
+2017;22/06/2017;Ponte Preta;Cruzeiro;1;0;H;1
+2017;23/06/2017;Flamengo;Chapecoense;5;1;H;4
+2017;23/06/2017;Gremio;Coritiba;2;0;H;2
+2017;24/06/2017;Santos;Sport;0;1;A;-1
+2017;25/06/2017;Vasco;Atletico GO;1;0;H;1
+2017;25/06/2017;Athletico PR;Vitoria;4;1;H;3
+2017;25/06/2017;Cruzeiro;Coritiba;2;0;H;2
+2017;25/06/2017;Gremio;Corinthians;0;1;A;-1
+2017;25/06/2017;Ponte Preta;Palmeiras;1;2;A;-1
+2017;25/06/2017;Sao Paulo;Fluminense;1;1;D;0
+2017;25/06/2017;Bahia;Flamengo;0;1;A;-1
+2017;25/06/2017;Chapecoense;Atletico MG;0;1;A;-1
+2017;27/06/2017;Botafogo;Avai;0;2;A;-2
+2017;01/07/2017;Palmeiras;Gremio;1;0;H;1
+2017;01/07/2017;Atletico GO;Santos;1;1;D;0
+2017;02/07/2017;Atletico MG;Cruzeiro;3;1;H;2
+2017;02/07/2017;Corinthians;Botafogo;1;0;H;1
+2017;02/07/2017;Flamengo;Sao Paulo;2;0;H;2
+2017;02/07/2017;Sport;Athletico PR;1;0;H;1
+2017;02/07/2017;Vitoria;Bahia;0;0;D;0
+2017;02/07/2017;Avai;Ponte Preta;0;0;D;0
+2017;02/07/2017;Coritiba;Vasco;2;2;D;0
+2017;04/07/2017;Fluminense;Chapecoense;3;3;D;0
+2017;08/07/2017;Atletico GO;Vitoria;1;2;A;-1
+2017;08/07/2017;Vasco;Flamengo;0;1;A;-1
+2017;08/07/2017;Corinthians;Ponte Preta;2;0;H;2
+2017;09/07/2017;Chapecoense;Athletico PR;1;1;D;0
+2017;09/07/2017;Bahia;Fluminense;1;1;D;0
+2017;09/07/2017;Cruzeiro;Palmeiras;3;1;H;2
+2017;09/07/2017;Gremio;Avai;0;2;A;-2
+2017;09/07/2017;Botafogo;Atletico MG;1;1;D;0
+2017;09/07/2017;Santos;Sao Paulo;3;2;H;1
+2017;11/07/2017;Coritiba;Sport;0;3;A;-3
+2017;12/07/2017;Atletico MG;Santos;0;1;A;-1
+2017;12/07/2017;Ponte Preta;Bahia;0;3;A;-3
+2017;13/07/2017;Fluminense;Botafogo;0;1;A;-1
+2017;13/07/2017;Athletico PR;Cruzeiro;0;2;A;-2
+2017;13/07/2017;Palmeiras;Corinthians;0;2;A;-2
+2017;13/07/2017;Vitoria;Vasco;1;4;A;-3
+2017;13/07/2017;Flamengo;Gremio;0;1;A;-1
+2017;13/07/2017;Sao Paulo;Atletico GO;2;2;D;0
+2017;13/07/2017;Sport;Chapecoense;3;0;H;3
+2017;14/07/2017;Avai;Coritiba;1;4;A;-3
+2017;15/07/2017;Corinthians;Athletico PR;2;2;D;0
+2017;16/07/2017;Palmeiras;Vitoria;4;2;H;2
+2017;16/07/2017;Atletico GO;Atletico MG;1;2;A;-1
+2017;16/07/2017;Chapecoense;Sao Paulo;2;0;H;2
+2017;16/07/2017;Cruzeiro;Flamengo;1;1;D;0
+2017;16/07/2017;Gremio;Ponte Preta;3;1;H;2
+2017;16/07/2017;Vasco;Santos;0;0;D;0
+2017;16/07/2017;Bahia;Avai;1;1;D;0
+2017;16/07/2017;Coritiba;Fluminense;1;2;A;-1
+2017;18/07/2017;Botafogo;Sport;2;1;H;1
+2017;19/07/2017;Santos;Chapecoense;1;0;H;1
+2017;19/07/2017;Vitoria;Gremio;1;3;A;-2
+2017;20/07/2017;Avai;Corinthians;0;0;D;0
+2017;20/07/2017;Ponte Preta;Coritiba;4;0;H;4
+2017;20/07/2017;Atletico MG;Bahia;0;2;A;-2
+2017;20/07/2017;Flamengo;Palmeiras;2;2;D;0
+2017;20/07/2017;Sao Paulo;Vasco;1;0;H;1
+2017;20/07/2017;Fluminense;Cruzeiro;1;1;D;0
+2017;21/07/2017;Sport;Atletico GO;4;0;H;4
+2017;21/07/2017;Athletico PR;Botafogo;0;0;D;0
+2017;22/07/2017;Vitoria;Chapecoense;1;2;A;-1
+2017;22/07/2017;Flamengo;Coritiba;2;1;H;1
+2017;23/07/2017;Santos;Bahia;3;0;H;3
+2017;23/07/2017;Avai;Cruzeiro;1;0;H;1
+2017;23/07/2017;Fluminense;Corinthians;0;1;A;-1
+2017;23/07/2017;Sport;Palmeiras;0;2;A;-2
+2017;23/07/2017;Atletico GO;Botafogo;1;1;D;0
+2017;23/07/2017;Atletico MG;Vasco;1;2;A;-1
+2017;23/07/2017;Athletico PR;Ponte Preta;0;2;A;-2
+2017;25/07/2017;Sao Paulo;Gremio;1;1;D;0
+2017;29/07/2017;Botafogo;Sao Paulo;3;4;A;-1
+2017;29/07/2017;Palmeiras;Avai;2;0;H;2
+2017;30/07/2017;Chapecoense;Atletico GO;1;2;A;-1
+2017;30/07/2017;Bahia;Sport;1;3;A;-2
+2017;30/07/2017;Corinthians;Flamengo;1;1;D;0
+2017;30/07/2017;Coritiba;Atletico MG;0;2;A;-2
+2017;30/07/2017;Cruzeiro;Vitoria;0;0;D;0
+2017;30/07/2017;Gremio;Santos;1;1;D;0
+2017;01/08/2017;Vasco;Athletico PR;0;1;A;-1
+2017;02/08/2017;Chapecoense;Bahia;1;1;D;0
+2017;02/08/2017;Sport;Fluminense;2;2;D;0
+2017;03/08/2017;Atletico MG;Corinthians;0;2;A;-2
+2017;03/08/2017;Vitoria;Ponte Preta;3;1;H;2
+2017;03/08/2017;Atletico GO;Gremio;0;1;A;-1
+2017;03/08/2017;Botafogo;Palmeiras;1;2;A;-1
+2017;03/08/2017;Santos;Flamengo;3;2;H;1
+2017;03/08/2017;Athletico PR;Avai;5;0;H;5
+2017;03/08/2017;Sao Paulo;Coritiba;1;2;A;-1
+2017;04/08/2017;Vasco;Cruzeiro;0;3;A;-3
+2017;05/08/2017;Corinthians;Sport;3;1;H;2
+2017;05/08/2017;Fluminense;Atletico GO;3;1;H;2
+2017;06/08/2017;Flamengo;Vitoria;0;2;A;-2
+2017;06/08/2017;Bahia;Sao Paulo;2;1;H;1
+2017;06/08/2017;Coritiba;Chapecoense;2;0;H;2
+2017;06/08/2017;Cruzeiro;Botafogo;0;0;D;0
+2017;06/08/2017;Gremio;Atletico MG;2;0;H;2
+2017;06/08/2017;Palmeiras;Athletico PR;0;1;A;-1
+2017;06/08/2017;Avai;Santos;0;0;D;0
+2017;06/08/2017;Ponte Preta;Vasco;0;0;D;0
+2017;10/08/2017;Ponte Preta;Fluminense;0;0;D;0
+2017;12/08/2017;Atletico GO;Coritiba;1;0;H;1
+2017;12/08/2017;Vitoria;Avai;0;1;A;-1
+2017;13/08/2017;Sao Paulo;Cruzeiro;3;2;H;1
+2017;13/08/2017;Atletico MG;Flamengo;2;0;H;2
+2017;13/08/2017;Sport;Ponte Preta;0;0;D;0
+2017;13/08/2017;Vasco;Palmeiras;1;1;D;0
+2017;13/08/2017;Athletico PR;Bahia;4;1;H;3
+2017;13/08/2017;Botafogo;Gremio;1;0;H;1
+2017;15/08/2017;Santos;Fluminense;0;0;D;0
+2017;19/08/2017;Corinthians;Vitoria;0;1;A;-1
+2017;19/08/2017;Flamengo;Atletico GO;2;0;H;2
+2017;20/08/2017;Gremio;Athletico PR;0;0;D;0
+2017;20/08/2017;Avai;Sao Paulo;1;1;D;0
+2017;20/08/2017;Bahia;Vasco;3;0;H;3
+2017;20/08/2017;Cruzeiro;Sport;2;0;H;2
+2017;20/08/2017;Ponte Preta;Botafogo;2;1;H;1
+2017;20/08/2017;Coritiba;Santos;0;0;D;0
+2017;20/08/2017;Palmeiras;Chapecoense;0;2;A;-2
+2017;22/08/2017;Fluminense;Atletico MG;2;1;H;1
+2017;23/08/2017;Chapecoense;Corinthians;0;1;A;-1
+2017;26/08/2017;Fluminense;Vasco;0;1;A;-1
+2017;26/08/2017;Corinthians;Atletico GO;0;1;A;-1
+2017;27/08/2017;Bahia;Botafogo;1;2;A;-1
+2017;27/08/2017;Flamengo;Athletico PR;2;0;H;2
+2017;27/08/2017;Palmeiras;Sao Paulo;4;2;H;2
+2017;27/08/2017;Ponte Preta;Atletico MG;1;2;A;-1
+2017;27/08/2017;Avai;Chapecoense;1;0;H;1
+2017;27/08/2017;Cruzeiro;Santos;1;1;D;0
+2017;29/08/2017;Coritiba;Vitoria;0;1;A;-1
+2017;02/09/2017;Gremio;Sport;5;0;H;5
+2017;09/09/2017;Atletico MG;Palmeiras;1;1;D;0
+2017;09/09/2017;Vasco;Gremio;1;0;H;1
+2017;09/09/2017;Sao Paulo;Ponte Preta;2;2;D;0
+2017;10/09/2017;Athletico PR;Coritiba;1;1;D;0
+2017;10/09/2017;Santos;Corinthians;2;0;H;2
+2017;10/09/2017;Sport;Avai;0;1;A;-1
+2017;10/09/2017;Vitoria;Fluminense;2;2;D;0
+2017;10/09/2017;Botafogo;Flamengo;2;0;H;2
+2017;10/09/2017;Chapecoense;Cruzeiro;1;2;A;-1
+2017;12/09/2017;Atletico GO;Bahia;1;1;D;0
+2017;16/09/2017;Botafogo;Santos;2;0;H;2
+2017;17/09/2017;Ponte Preta;Atletico GO;1;3;A;-2
+2017;17/09/2017;Avai;Atletico MG;1;1;D;0
+2017;17/09/2017;Athletico PR;Fluminense;3;1;H;2
+2017;17/09/2017;Corinthians;Vasco;1;0;H;1
+2017;17/09/2017;Flamengo;Sport;2;0;H;2
+2017;17/09/2017;Gremio;Chapecoense;0;1;A;-1
+2017;17/09/2017;Vitoria;Sao Paulo;1;2;A;-1
+2017;17/09/2017;Cruzeiro;Bahia;1;0;H;1
+2017;19/09/2017;Palmeiras;Coritiba;1;0;H;1
+2017;23/09/2017;Flamengo;Avai;1;1;D;0
+2017;24/09/2017;Santos;Athletico PR;1;0;H;1
+2017;24/09/2017;Sao Paulo;Corinthians;1;1;D;0
+2017;24/09/2017;Atletico GO;Cruzeiro;1;2;A;-1
+2017;24/09/2017;Chapecoense;Ponte Preta;1;0;H;1
+2017;24/09/2017;Coritiba;Botafogo;2;3;A;-1
+2017;24/09/2017;Fluminense;Palmeiras;0;1;A;-1
+2017;24/09/2017;Atletico MG;Vitoria;1;3;A;-2
+2017;24/09/2017;Bahia;Gremio;1;0;H;1
+2017;26/09/2017;Sport;Vasco;1;1;D;0
+2017;30/09/2017;Bahia;Coritiba;1;1;D;0
+2017;30/09/2017;Vasco;Chapecoense;1;1;D;0
+2017;30/09/2017;Palmeiras;Santos;0;1;A;-1
+2017;01/10/2017;Avai;Atletico GO;0;2;A;-2
+2017;01/10/2017;Botafogo;Vitoria;2;3;A;-1
+2017;01/10/2017;Cruzeiro;Corinthians;1;1;D;0
+2017;01/10/2017;Gremio;Fluminense;1;0;H;1
+2017;01/10/2017;Sao Paulo;Sport;1;0;H;1
+2017;01/10/2017;Athletico PR;Atletico MG;0;2;A;-2
+2017;03/10/2017;Ponte Preta;Flamengo;1;0;H;1
+2017;07/10/2017;Cruzeiro;Ponte Preta;2;1;H;1
+2017;11/10/2017;Athletico PR;Atletico GO;2;2;D;0
+2017;11/10/2017;Botafogo;Chapecoense;2;1;H;1
+2017;12/10/2017;Corinthians;Coritiba;3;1;H;2
+2017;12/10/2017;Atletico MG;Sao Paulo;1;0;H;1
+2017;12/10/2017;Avai;Vasco;1;2;A;-1
+2017;12/10/2017;Gremio;Cruzeiro;0;1;A;-1
+2017;12/10/2017;Flamengo;Fluminense;1;1;D;0
+2017;12/10/2017;Ponte Preta;Santos;1;1;D;0
+2017;12/10/2017;Vitoria;Sport;1;2;A;-1
+2017;13/10/2017;Palmeiras;Bahia;2;2;D;0
+2017;14/10/2017;Vasco;Botafogo;1;0;H;1
+2017;15/10/2017;Sao Paulo;Athletico PR;2;1;H;1
+2017;15/10/2017;Atletico GO;Palmeiras;1;3;A;-2
+2017;15/10/2017;Chapecoense;Flamengo;0;1;A;-1
+2017;15/10/2017;Fluminense;Avai;1;0;H;1
+2017;15/10/2017;Sport;Atletico MG;1;1;D;0
+2017;15/10/2017;Bahia;Corinthians;2;0;H;2
+2017;15/10/2017;Coritiba;Gremio;0;1;A;-1
+2017;16/10/2017;Santos;Vitoria;2;2;D;0
+2017;18/10/2017;Atletico GO;Vasco;0;1;A;-1
+2017;18/10/2017;Coritiba;Cruzeiro;1;0;H;1
+2017;19/10/2017;Atletico MG;Chapecoense;2;3;A;-1
+2017;19/10/2017;Avai;Botafogo;1;1;D;0
+2017;19/10/2017;Corinthians;Gremio;0;0;D;0
+2017;19/10/2017;Fluminense;Sao Paulo;3;1;H;2
+2017;19/10/2017;Palmeiras;Ponte Preta;2;0;H;2
+2017;19/10/2017;Vitoria;Athletico PR;2;3;A;-1
+2017;20/10/2017;Flamengo;Bahia;4;1;H;3
+2017;20/10/2017;Sport;Santos;1;1;D;0
+2017;21/10/2017;Vasco;Coritiba;1;1;D;0
+2017;22/10/2017;Athletico PR;Sport;2;1;H;1
+2017;22/10/2017;Bahia;Vitoria;2;1;H;1
+2017;22/10/2017;Cruzeiro;Atletico MG;1;3;A;-2
+2017;22/10/2017;Gremio;Palmeiras;1;3;A;-2
+2017;22/10/2017;Santos;Atletico GO;1;0;H;1
+2017;22/10/2017;Sao Paulo;Flamengo;2;0;H;2
+2017;22/10/2017;Chapecoense;Fluminense;2;0;H;2
+2017;22/10/2017;Ponte Preta;Avai;1;2;A;-1
+2017;23/10/2017;Botafogo;Corinthians;2;1;H;1
+2017;28/10/2017;Sao Paulo;Santos;2;1;H;1
+2017;28/10/2017;Flamengo;Vasco;0;0;D;0
+2017;29/10/2017;Athletico PR;Chapecoense;0;0;D;0
+2017;29/10/2017;Atletico MG;Botafogo;0;0;D;0
+2017;29/10/2017;Fluminense;Bahia;1;1;D;0
+2017;29/10/2017;Ponte Preta;Corinthians;1;0;H;1
+2017;29/10/2017;Sport;Coritiba;3;4;A;-1
+2017;29/10/2017;Vitoria;Atletico GO;1;1;D;0
+2017;29/10/2017;Avai;Gremio;2;2;D;0
+2017;30/10/2017;Palmeiras;Cruzeiro;2;2;D;0
+2017;04/11/2017;Santos;Atletico MG;3;1;H;2
+2017;04/11/2017;Atletico GO;Sao Paulo;0;1;A;-1
+2017;04/11/2017;Botafogo;Fluminense;1;2;A;-1
+2017;04/11/2017;Coritiba;Avai;4;0;H;4
+2017;05/11/2017;Corinthians;Palmeiras;3;2;H;1
+2017;05/11/2017;Cruzeiro;Athletico PR;1;0;H;1
+2017;05/11/2017;Gremio;Flamengo;3;1;H;2
+2017;05/11/2017;Bahia;Ponte Preta;2;0;H;2
+2017;05/11/2017;Chapecoense;Sport;1;1;D;0
+2017;05/11/2017;Vasco;Vitoria;1;1;D;0
+2017;08/11/2017;Avai;Bahia;1;2;A;-1
+2017;08/11/2017;Ponte Preta;Gremio;0;1;A;-1
+2017;08/11/2017;Athletico PR;Corinthians;0;1;A;-1
+2017;08/11/2017;Sport;Botafogo;1;2;A;-1
+2017;08/11/2017;Flamengo;Cruzeiro;2;0;H;2
+2017;08/11/2017;Santos;Vasco;1;2;A;-1
+2017;08/11/2017;Vitoria;Palmeiras;3;1;H;2
+2017;09/11/2017;Atletico MG;Atletico GO;3;2;H;1
+2017;09/11/2017;Sao Paulo;Chapecoense;2;2;D;0
+2017;09/11/2017;Fluminense;Coritiba;2;2;D;0
+2017;11/11/2017;Botafogo;Athletico PR;0;1;A;-1
+2017;11/11/2017;Corinthians;Avai;1;0;H;1
+2017;12/11/2017;Atletico GO;Sport;2;0;H;2
+2017;12/11/2017;Gremio;Vitoria;1;1;D;0
+2017;12/11/2017;Palmeiras;Flamengo;2;0;H;2
+2017;12/11/2017;Vasco;Sao Paulo;1;1;D;0
+2017;12/11/2017;Bahia;Atletico MG;2;2;D;0
+2017;12/11/2017;Coritiba;Ponte Preta;1;1;D;0
+2017;12/11/2017;Cruzeiro;Fluminense;3;1;H;2
+2017;13/11/2017;Chapecoense;Santos;2;0;H;2
+2017;15/11/2017;Ponte Preta;Athletico PR;2;1;H;1
+2017;15/11/2017;Cruzeiro;Avai;2;2;D;0
+2017;15/11/2017;Gremio;Sao Paulo;1;0;H;1
+2017;15/11/2017;Corinthians;Fluminense;3;1;H;2
+2017;15/11/2017;Vasco;Atletico MG;1;1;D;0
+2017;16/11/2017;Botafogo;Atletico GO;1;2;A;-1
+2017;16/11/2017;Chapecoense;Vitoria;2;1;H;1
+2017;16/11/2017;Palmeiras;Sport;5;1;H;4
+2017;16/11/2017;Bahia;Santos;3;1;H;2
+2017;16/11/2017;Coritiba;Flamengo;1;0;H;1
+2017;19/11/2017;Atletico GO;Chapecoense;1;1;D;0
+2017;19/11/2017;Flamengo;Corinthians;3;0;H;3
+2017;19/11/2017;Sao Paulo;Botafogo;0;0;D;0
+2017;19/11/2017;Sport;Bahia;1;0;H;1
+2017;19/11/2017;Vitoria;Cruzeiro;1;1;D;0
+2017;19/11/2017;Atletico MG;Coritiba;3;0;H;3
+2017;19/11/2017;Athletico PR;Vasco;3;1;H;2
+2017;19/11/2017;Santos;Gremio;1;0;H;1
+2017;20/11/2017;Fluminense;Ponte Preta;2;0;H;2
+2017;20/11/2017;Avai;Palmeiras;2;1;H;1
+2017;25/11/2017;Fluminense;Sport;1;2;A;-1
+2017;26/11/2017;Avai;Athletico PR;1;0;H;1
+2017;26/11/2017;Corinthians;Atletico MG;2;2;D;0
+2017;26/11/2017;Coritiba;Sao Paulo;1;2;A;-1
+2017;26/11/2017;Cruzeiro;Vasco;0;1;A;-1
+2017;26/11/2017;Gremio;Atletico GO;1;1;D;0
+2017;26/11/2017;Ponte Preta;Vitoria;2;3;A;-1
+2017;26/11/2017;Bahia;Chapecoense;0;1;A;-1
+2017;26/11/2017;Flamengo;Santos;1;2;A;-1
+2017;27/11/2017;Palmeiras;Botafogo;2;0;H;2
+2017;03/12/2017;Atletico GO;Fluminense;1;1;D;0
+2017;03/12/2017;Atletico MG;Gremio;4;3;H;1
+2017;03/12/2017;Athletico PR;Palmeiras;3;0;H;3
+2017;03/12/2017;Botafogo;Cruzeiro;2;2;D;0
+2017;03/12/2017;Chapecoense;Coritiba;2;1;H;1
+2017;03/12/2017;Santos;Avai;1;1;D;0
+2017;03/12/2017;Sao Paulo;Bahia;1;1;D;0
+2017;03/12/2017;Sport;Corinthians;1;0;H;1
+2017;03/12/2017;Vasco;Ponte Preta;2;1;H;1
+2017;03/12/2017;Vitoria;Flamengo;1;2;A;-1
+2018;14/04/2018;Cruzeiro;Gremio;0;1;A;-1
+2018;14/04/2018;Vitoria;Flamengo;2;2;D;0
+2018;15/04/2018;Santos;Ceara;2;0;H;2
+2018;15/04/2018;America MG;Sport;3;0;H;3
+2018;15/04/2018;Corinthians;Fluminense;2;1;H;1
+2018;15/04/2018;Internacional;Bahia;2;0;H;2
+2018;15/04/2018;Vasco;Atletico MG;2;1;H;1
+2018;15/04/2018;Athletico PR;Chapecoense;5;1;H;4
+2018;17/04/2018;Botafogo;Palmeiras;1;1;D;0
+2018;17/04/2018;Sao Paulo;Parana;1;0;H;1
+2018;21/04/2018;Bahia;Santos;1;0;H;1
+2018;21/04/2018;Flamengo;America MG;2;0;H;2
+2018;22/04/2018;Parana;Corinthians;0;4;A;-4
+2018;22/04/2018;Atletico MG;Vitoria;2;1;H;1
+2018;22/04/2018;Ceara;Sao Paulo;0;0;D;0
+2018;22/04/2018;Chapecoense;Vasco;1;1;D;0
+2018;22/04/2018;Fluminense;Cruzeiro;1;0;H;1
+2018;22/04/2018;Palmeiras;Internacional;1;0;H;1
+2018;22/04/2018;Gremio;Athletico PR;0;0;D;0
+2018;24/04/2018;Sport;Botafogo;1;1;D;0
+2018;28/04/2018;Botafogo;Gremio;2;1;H;1
+2018;29/04/2018;Atletico MG;Corinthians;1;0;H;1
+2018;29/04/2018;Bahia;Athletico PR;0;0;D;0
+2018;29/04/2018;Ceara;Flamengo;0;3;A;-3
+2018;29/04/2018;Fluminense;Sao Paulo;1;1;D;0
+2018;29/04/2018;Palmeiras;Chapecoense;0;0;D;0
+2018;29/04/2018;Parana;Sport;1;2;A;-1
+2018;29/04/2018;Internacional;Cruzeiro;0;0;D;0
+2018;01/05/2018;America MG;Vitoria;2;1;H;1
+2018;05/05/2018;Sao Paulo;Atletico MG;2;2;D;0
+2018;05/05/2018;Vasco;America MG;4;1;H;3
+2018;06/05/2018;Corinthians;Ceara;1;1;D;0
+2018;06/05/2018;Athletico PR;Palmeiras;1;3;A;-2
+2018;06/05/2018;Cruzeiro;Botafogo;1;0;H;1
+2018;06/05/2018;Flamengo;Internacional;2;0;H;2
+2018;06/05/2018;Vitoria;Fluminense;1;2;A;-1
+2018;06/05/2018;Gremio;Santos;5;1;H;4
+2018;06/05/2018;Sport;Bahia;2;0;H;2
+2018;08/05/2018;Chapecoense;Parana;1;1;D;0
+2018;12/05/2018;Gremio;Internacional;0;0;D;0
+2018;13/05/2018;Cruzeiro;Sport;2;0;H;2
+2018;13/05/2018;Athletico PR;Atletico MG;1;2;A;-1
+2018;13/05/2018;Bahia;Sao Paulo;2;2;D;0
+2018;13/05/2018;Chapecoense;Flamengo;3;2;H;1
+2018;13/05/2018;Corinthians;Palmeiras;1;0;H;1
+2018;13/05/2018;Vasco;Vitoria;2;3;A;-1
+2018;13/05/2018;Santos;Parana;3;1;H;2
+2018;15/05/2018;Botafogo;Fluminense;2;1;H;1
+2018;15/05/2018;Ceara;America MG;2;2;D;0
+2018;19/05/2018;Atletico MG;Cruzeiro;1;0;H;1
+2018;19/05/2018;Flamengo;Vasco;1;1;D;0
+2018;20/05/2018;Palmeiras;Bahia;3;0;H;3
+2018;20/05/2018;Vitoria;Ceara;2;1;H;1
+2018;20/05/2018;America MG;Botafogo;1;0;H;1
+2018;20/05/2018;Parana;Gremio;0;0;D;0
+2018;20/05/2018;Sao Paulo;Santos;1;0;H;1
+2018;20/05/2018;Sport;Corinthians;1;1;D;0
+2018;20/05/2018;Fluminense;Athletico PR;2;0;H;2
+2018;22/05/2018;Internacional;Chapecoense;3;0;H;3
+2018;26/05/2018;Fluminense;Chapecoense;3;1;H;2
+2018;26/05/2018;Palmeiras;Sport;2;3;A;-1
+2018;27/05/2018;Atletico MG;Flamengo;0;1;A;-1
+2018;27/05/2018;Parana;Athletico PR;0;0;D;0
+2018;27/05/2018;Bahia;Vasco;3;0;H;3
+2018;27/05/2018;Botafogo;Vitoria;1;1;D;0
+2018;27/05/2018;Internacional;Corinthians;2;1;H;1
+2018;27/05/2018;Santos;Cruzeiro;0;1;A;-1
+2018;27/05/2018;America MG;Sao Paulo;1;3;A;-2
+2018;27/05/2018;Ceara;Gremio;0;1;A;-1
+2018;30/05/2018;Sport;Atletico MG;3;2;H;1
+2018;30/05/2018;Vasco;Parana;1;0;H;1
+2018;30/05/2018;Vitoria;Internacional;2;3;A;-1
+2018;31/05/2018;Chapecoense;Ceara;2;0;H;2
+2018;31/05/2018;Sao Paulo;Botafogo;3;2;H;1
+2018;31/05/2018;Cruzeiro;Palmeiras;1;0;H;1
+2018;31/05/2018;Gremio;Fluminense;0;0;D;0
+2018;31/05/2018;Flamengo;Bahia;2;0;H;2
+2018;31/05/2018;Corinthians;America MG;1;0;H;1
+2018;01/06/2018;Athletico PR;Santos;2;0;H;2
+2018;02/06/2018;Atletico MG;Chapecoense;3;3;D;0
+2018;02/06/2018;Internacional;Sport;0;0;D;0
+2018;02/06/2018;Vasco;Botafogo;1;2;A;-1
+2018;03/06/2018;Palmeiras;Sao Paulo;3;1;H;2
+2018;03/06/2018;America MG;Athletico PR;3;1;H;2
+2018;03/06/2018;Bahia;Gremio;0;2;A;-2
+2018;03/06/2018;Flamengo;Corinthians;1;0;H;1
+2018;03/06/2018;Santos;Vitoria;5;2;H;3
+2018;03/06/2018;Ceara;Cruzeiro;0;1;A;-1
+2018;05/06/2018;Parana;Fluminense;2;1;H;1
+2018;06/06/2018;Sao Paulo;Internacional;0;0;D;0
+2018;06/06/2018;Botafogo;Ceara;0;0;D;0
+2018;06/06/2018;Vitoria;Chapecoense;1;0;H;1
+2018;07/06/2018;Corinthians;Santos;1;1;D;0
+2018;07/06/2018;Sport;Athletico PR;1;0;H;1
+2018;07/06/2018;Cruzeiro;Vasco;1;1;D;0
+2018;07/06/2018;Gremio;Palmeiras;0;2;A;-2
+2018;08/06/2018;Fluminense;Flamengo;0;2;A;-2
+2018;08/06/2018;Parana;Bahia;1;0;H;1
+2018;08/06/2018;America MG;Atletico MG;1;3;A;-2
+2018;09/06/2018;Athletico PR;Sao Paulo;0;1;A;-1
+2018;09/06/2018;Chapecoense;Cruzeiro;2;0;H;2
+2018;09/06/2018;Vasco;Sport;3;2;H;1
+2018;10/06/2018;Corinthians;Vitoria;0;0;D;0
+2018;10/06/2018;Atletico MG;Fluminense;5;2;H;3
+2018;10/06/2018;Bahia;Botafogo;3;3;D;0
+2018;10/06/2018;Ceara;Palmeiras;2;2;D;0
+2018;10/06/2018;Gremio;America MG;1;0;H;1
+2018;10/06/2018;Flamengo;Parana;2;0;H;2
+2018;10/06/2018;Santos;Internacional;1;2;A;-1
+2018;13/06/2018;Sao Paulo;Vitoria;3;0;H;3
+2018;13/06/2018;America MG;Chapecoense;0;0;D;0
+2018;13/06/2018;Fluminense;Santos;0;1;A;-1
+2018;13/06/2018;Parana;Cruzeiro;1;1;D;0
+2018;13/06/2018;Sport;Gremio;0;0;D;0
+2018;14/06/2018;Botafogo;Athletico PR;2;0;H;2
+2018;14/06/2018;Palmeiras;Flamengo;1;1;D;0
+2018;14/06/2018;Atletico MG;Ceara;2;1;H;1
+2018;14/06/2018;Bahia;Corinthians;1;0;H;1
+2018;14/06/2018;Internacional;Vasco;3;1;H;2
+2018;18/07/2018;Ceara;Sport;1;0;H;1
+2018;19/07/2018;Vitoria;Parana;1;0;H;1
+2018;19/07/2018;Corinthians;Botafogo;2;0;H;2
+2018;19/07/2018;Flamengo;Sao Paulo;0;1;A;-1
+2018;19/07/2018;Gremio;Atletico MG;2;0;H;2
+2018;19/07/2018;Chapecoense;Bahia;1;1;D;0
+2018;19/07/2018;Cruzeiro;America MG;3;1;H;2
+2018;20/07/2018;Santos;Palmeiras;1;1;D;0
+2018;20/07/2018;Vasco;Fluminense;1;1;D;0
+2018;20/07/2018;Athletico PR;Internacional;2;2;D;0
+2018;21/07/2018;Flamengo;Botafogo;2;0;H;2
+2018;22/07/2018;Sao Paulo;Corinthians;3;1;H;2
+2018;22/07/2018;Bahia;Vitoria;4;1;H;3
+2018;22/07/2018;Palmeiras;Atletico MG;3;2;H;1
+2018;22/07/2018;Parana;America MG;1;0;H;1
+2018;22/07/2018;Sport;Fluminense;1;2;A;-1
+2018;22/07/2018;Vasco;Gremio;1;0;H;1
+2018;22/07/2018;Chapecoense;Santos;0;0;D;0
+2018;22/07/2018;Cruzeiro;Athletico PR;2;1;H;1
+2018;24/07/2018;Internacional;Ceara;1;0;H;1
+2018;25/07/2018;Fluminense;Palmeiras;1;0;H;1
+2018;26/07/2018;Atletico MG;Parana;2;0;H;2
+2018;26/07/2018;Corinthians;Cruzeiro;2;0;H;2
+2018;26/07/2018;Santos;Flamengo;1;1;D;0
+2018;26/07/2018;Botafogo;Chapecoense;1;0;H;1
+2018;26/07/2018;Gremio;Sao Paulo;2;1;H;1
+2018;26/07/2018;Vitoria;Sport;1;0;H;1
+2018;27/07/2018;America MG;Internacional;2;1;H;1
+2018;28/07/2018;Ceara;Fluminense;1;0;H;1
+2018;29/07/2018;Palmeiras;Parana;3;0;H;3
+2018;29/07/2018;Vasco;Corinthians;1;4;A;-3
+2018;29/07/2018;Athletico PR;Vitoria;4;0;H;4
+2018;29/07/2018;Cruzeiro;Sao Paulo;0;2;A;-2
+2018;29/07/2018;Flamengo;Sport;4;1;H;3
+2018;29/07/2018;Internacional;Botafogo;3;0;H;3
+2018;29/07/2018;Chapecoense;Gremio;1;1;D;0
+2018;29/07/2018;Santos;America MG;0;1;A;-1
+2018;31/07/2018;Bahia;Atletico MG;2;2;D;0
+2018;04/08/2018;Botafogo;Santos;0;0;D;0
+2018;04/08/2018;Gremio;Flamengo;2;0;H;2
+2018;05/08/2018;Corinthians;Athletico PR;0;0;D;0
+2018;05/08/2018;America MG;Palmeiras;0;0;D;0
+2018;05/08/2018;Parana;Ceara;0;1;A;-1
+2018;05/08/2018;Sao Paulo;Vasco;2;1;H;1
+2018;05/08/2018;Vitoria;Cruzeiro;1;1;D;0
+2018;05/08/2018;Fluminense;Bahia;1;1;D;0
+2018;05/08/2018;Sport;Chapecoense;1;1;D;0
+2018;07/08/2018;Atletico MG;Internacional;0;1;A;-1
+2018;08/08/2018;Ceara;Santos;1;1;D;0
+2018;11/08/2018;Ceara;Athletico PR;0;0;D;0
+2018;11/08/2018;Bahia;America MG;1;0;H;1
+2018;12/08/2018;Atletico MG;Santos;3;1;H;2
+2018;12/08/2018;Parana;Botafogo;1;1;D;0
+2018;12/08/2018;Chapecoense;Corinthians;2;1;H;1
+2018;12/08/2018;Flamengo;Cruzeiro;1;0;H;1
+2018;12/08/2018;Sport;Sao Paulo;1;3;A;-2
+2018;12/08/2018;Gremio;Vitoria;4;0;H;4
+2018;12/08/2018;Palmeiras;Vasco;1;0;H;1
+2018;14/08/2018;Fluminense;Internacional;0;3;A;-3
+2018;18/08/2018;Santos;Sport;3;0;H;3
+2018;18/08/2018;Corinthians;Gremio;0;1;A;-1
+2018;19/08/2018;Athletico PR;Flamengo;3;0;H;3
+2018;19/08/2018;Internacional;Parana;1;0;H;1
+2018;19/08/2018;Botafogo;Atletico MG;0;3;A;-3
+2018;19/08/2018;Cruzeiro;Bahia;1;1;D;0
+2018;19/08/2018;Vitoria;Palmeiras;0;3;A;-3
+2018;19/08/2018;America MG;Fluminense;0;0;D;0
+2018;19/08/2018;Sao Paulo;Chapecoense;2;0;H;2
+2018;21/08/2018;Vasco;Ceara;1;1;D;0
+2018;22/08/2018;Bahia;Internacional;0;1;A;-1
+2018;22/08/2018;Parana;Sao Paulo;1;1;D;0
+2018;23/08/2018;Palmeiras;Botafogo;2;0;H;2
+2018;23/08/2018;Sport;America MG;0;2;A;-2
+2018;23/08/2018;Fluminense;Corinthians;1;0;H;1
+2018;23/08/2018;Gremio;Cruzeiro;1;1;D;0
+2018;23/08/2018;Flamengo;Vitoria;1;0;H;1
+2018;24/08/2018;Atletico MG;Vasco;0;0;D;0
+2018;25/08/2018;Santos;Bahia;2;0;H;2
+2018;25/08/2018;Athletico PR;Gremio;2;1;H;1
+2018;25/08/2018;Corinthians;Parana;1;0;H;1
+2018;26/08/2018;Botafogo;Sport;2;0;H;2
+2018;26/08/2018;Cruzeiro;Fluminense;2;1;H;1
+2018;26/08/2018;Sao Paulo;Ceara;1;0;H;1
+2018;26/08/2018;America MG;Flamengo;2;2;D;0
+2018;26/08/2018;Internacional;Palmeiras;0;0;D;0
+2018;26/08/2018;Vitoria;Atletico MG;1;0;H;1
+2018;26/08/2018;Vasco;Chapecoense;3;1;H;2
+2018;29/08/2018;Athletico PR;Vasco;1;0;H;1
+2018;29/08/2018;Ceara;Bahia;0;2;A;-2
+2018;01/09/2018;Gremio;Botafogo;4;0;H;4
+2018;01/09/2018;Vitoria;America MG;1;0;H;1
+2018;01/09/2018;Vasco;Santos;0;3;A;-3
+2018;02/09/2018;Corinthians;Atletico MG;1;1;D;0
+2018;02/09/2018;Flamengo;Ceara;0;1;A;-1
+2018;02/09/2018;Athletico PR;Bahia;2;0;H;2
+2018;02/09/2018;Sao Paulo;Fluminense;1;1;D;0
+2018;02/09/2018;Sport;Parana;1;0;H;1
+2018;02/09/2018;Chapecoense;Palmeiras;1;2;A;-1
+2018;02/09/2018;Cruzeiro;Internacional;0;0;D;0
+2018;05/09/2018;Bahia;Sport;2;0;H;2
+2018;05/09/2018;Botafogo;Cruzeiro;1;1;D;0
+2018;06/09/2018;Ceara;Corinthians;2;1;H;1
+2018;06/09/2018;Palmeiras;Athletico PR;2;0;H;2
+2018;06/09/2018;Parana;Chapecoense;1;1;D;0
+2018;06/09/2018;Atletico MG;Sao Paulo;1;0;H;1
+2018;06/09/2018;Internacional;Flamengo;2;1;H;1
+2018;06/09/2018;Fluminense;Vitoria;0;0;D;0
+2018;06/09/2018;Santos;Gremio;0;0;D;0
+2018;07/09/2018;America MG;Vasco;2;1;H;1
+2018;08/09/2018;Sport;Cruzeiro;0;0;D;0
+2018;08/09/2018;Sao Paulo;Bahia;1;0;H;1
+2018;09/09/2018;Flamengo;Chapecoense;2;0;H;2
+2018;09/09/2018;America MG;Ceara;0;0;D;0
+2018;09/09/2018;Fluminense;Botafogo;1;0;H;1
+2018;09/09/2018;Internacional;Gremio;1;0;H;1
+2018;09/09/2018;Palmeiras;Corinthians;1;0;H;1
+2018;09/09/2018;Parana;Santos;0;2;A;-2
+2018;09/09/2018;Vitoria;Vasco;1;0;H;1
+2018;11/09/2018;Atletico MG;Athletico PR;3;1;H;2
+2018;14/09/2018;Chapecoense;Athletico PR;2;1;H;1
+2018;15/09/2018;Ceara;Vitoria;2;0;H;2
+2018;15/09/2018;Gremio;Parana;2;0;H;2
+2018;15/09/2018;Vasco;Flamengo;1;1;D;0
+2018;16/09/2018;Botafogo;America MG;1;0;H;1
+2018;16/09/2018;Athletico PR;Fluminense;3;1;H;2
+2018;16/09/2018;Bahia;Palmeiras;1;1;D;0
+2018;16/09/2018;Cruzeiro;Atletico MG;0;0;D;0
+2018;16/09/2018;Santos;Sao Paulo;0;0;D;0
+2018;16/09/2018;Corinthians;Sport;2;1;H;1
+2018;18/09/2018;Chapecoense;Internacional;2;1;H;1
+2018;22/09/2018;Sao Paulo;America MG;1;1;D;0
+2018;23/09/2018;Gremio;Ceara;3;2;H;1
+2018;23/09/2018;Athletico PR;Parana;3;0;H;3
+2018;23/09/2018;Corinthians;Internacional;1;1;D;0
+2018;23/09/2018;Flamengo;Atletico MG;2;1;H;1
+2018;23/09/2018;Sport;Palmeiras;0;1;A;-1
+2018;23/09/2018;Vitoria;Botafogo;3;4;A;-1
+2018;23/09/2018;Cruzeiro;Santos;2;1;H;1
+2018;25/09/2018;Chapecoense;Fluminense;1;2;A;-1
+2018;25/09/2018;Vasco;Bahia;2;1;H;1
+2018;28/09/2018;Santos;Vasco;1;1;D;0
+2018;29/09/2018;Fluminense;Gremio;0;1;A;-1
+2018;29/09/2018;America MG;Corinthians;0;0;D;0
+2018;30/09/2018;Bahia;Flamengo;0;0;D;0
+2018;30/09/2018;Palmeiras;Cruzeiro;3;1;H;2
+2018;30/09/2018;Atletico MG;Sport;5;2;H;3
+2018;30/09/2018;Botafogo;Sao Paulo;2;2;D;0
+2018;30/09/2018;Internacional;Vitoria;2;1;H;1
+2018;30/09/2018;Santos;Athletico PR;1;0;H;1
+2018;30/09/2018;Ceara;Chapecoense;3;1;H;2
+2018;02/10/2018;Parana;Vasco;1;1;D;0
+2018;05/10/2018;Sport;Internacional;2;1;H;1
+2018;06/10/2018;Corinthians;Flamengo;0;3;A;-3
+2018;06/10/2018;Vitoria;Santos;0;1;A;-1
+2018;06/10/2018;Athletico PR;America MG;4;0;H;4
+2018;06/10/2018;Chapecoense;Atletico MG;1;0;H;1
+2018;06/10/2018;Sao Paulo;Palmeiras;0;2;A;-2
+2018;07/10/2018;Gremio;Bahia;2;2;D;0
+2018;09/10/2018;Fluminense;Parana;4;0;H;4
+2018;10/10/2018;Botafogo;Vasco;1;1;D;0
+2018;13/10/2018;Flamengo;Fluminense;3;0;H;3
+2018;13/10/2018;Santos;Corinthians;1;0;H;1
+2018;14/10/2018;Bahia;Parana;2;0;H;2
+2018;14/10/2018;Chapecoense;Vitoria;0;1;A;-1
+2018;14/10/2018;Internacional;Sao Paulo;3;1;H;2
+2018;14/10/2018;Palmeiras;Gremio;2;0;H;2
+2018;14/10/2018;Vasco;Cruzeiro;2;0;H;2
+2018;14/10/2018;Atletico MG;America MG;0;0;D;0
+2018;14/10/2018;Athletico PR;Sport;4;0;H;4
+2018;16/10/2018;Ceara;Botafogo;0;0;D;0
+2018;20/10/2018;America MG;Gremio;1;1;D;0
+2018;20/10/2018;Botafogo;Bahia;0;1;A;-1
+2018;20/10/2018;Sao Paulo;Athletico PR;0;0;D;0
+2018;20/10/2018;Sport;Vasco;2;1;H;1
+2018;21/10/2018;Fluminense;Atletico MG;1;0;H;1
+2018;21/10/2018;Palmeiras;Ceara;2;1;H;1
+2018;21/10/2018;Vitoria;Corinthians;2;2;D;0
+2018;21/10/2018;Cruzeiro;Chapecoense;3;0;H;3
+2018;21/10/2018;Parana;Flamengo;0;4;A;-4
+2018;23/10/2018;Internacional;Santos;2;2;D;0
+2018;24/10/2018;Cruzeiro;Ceara;0;2;A;-2
+2018;26/10/2018;Vitoria;Sao Paulo;0;1;A;-1
+2018;27/10/2018;Vasco;Internacional;1;1;D;0
+2018;27/10/2018;Gremio;Sport;3;4;A;-1
+2018;27/10/2018;Santos;Fluminense;3;0;H;3
+2018;27/10/2018;Chapecoense;America MG;1;0;H;1
+2018;27/10/2018;Corinthians;Bahia;2;1;H;1
+2018;27/10/2018;Flamengo;Palmeiras;1;1;D;0
+2018;28/10/2018;Athletico PR;Botafogo;2;1;H;1
+2018;28/10/2018;Cruzeiro;Parana;3;1;H;2
+2018;29/10/2018;Ceara;Atletico MG;2;1;H;1
+2018;03/11/2018;Atletico MG;Gremio;0;1;A;-1
+2018;03/11/2018;Fluminense;Vasco;0;1;A;-1
+2018;03/11/2018;Palmeiras;Santos;3;2;H;1
+2018;04/11/2018;America MG;Cruzeiro;1;2;A;-1
+2018;04/11/2018;Botafogo;Corinthians;1;0;H;1
+2018;04/11/2018;Parana;Vitoria;1;1;D;0
+2018;04/11/2018;Sao Paulo;Flamengo;2;2;D;0
+2018;04/11/2018;Bahia;Chapecoense;1;0;H;1
+2018;04/11/2018;Internacional;Athletico PR;2;1;H;1
+2018;05/11/2018;Sport;Ceara;1;0;H;1
+2018;10/11/2018;America MG;Parana;0;1;A;-1
+2018;10/11/2018;Corinthians;Sao Paulo;1;1;D;0
+2018;10/11/2018;Athletico PR;Cruzeiro;2;0;H;2
+2018;10/11/2018;Botafogo;Flamengo;2;1;H;1
+2018;11/11/2018;Atletico MG;Palmeiras;1;1;D;0
+2018;11/11/2018;Ceara;Internacional;1;1;D;0
+2018;11/11/2018;Gremio;Vasco;2;1;H;1
+2018;11/11/2018;Vitoria;Bahia;2;2;D;0
+2018;11/11/2018;Fluminense;Sport;0;0;D;0
+2018;12/11/2018;Santos;Chapecoense;0;1;A;-1
+2018;14/11/2018;Vasco;Athletico PR;1;1;D;0
+2018;14/11/2018;Bahia;Ceara;2;1;H;1
+2018;14/11/2018;Parana;Atletico MG;0;1;A;-1
+2018;14/11/2018;Cruzeiro;Corinthians;1;0;H;1
+2018;14/11/2018;Palmeiras;Fluminense;3;0;H;3
+2018;14/11/2018;Sport;Vitoria;0;0;D;0
+2018;15/11/2018;Chapecoense;Botafogo;0;1;A;-1
+2018;15/11/2018;Flamengo;Santos;1;0;H;1
+2018;15/11/2018;Sao Paulo;Gremio;1;1;D;0
+2018;15/11/2018;Internacional;America MG;2;0;H;2
+2018;17/11/2018;Corinthians;Vasco;1;0;H;1
+2018;17/11/2018;Vitoria;Athletico PR;1;2;A;-1
+2018;17/11/2018;Atletico MG;Bahia;1;0;H;1
+2018;18/11/2018;America MG;Santos;2;1;H;1
+2018;18/11/2018;Botafogo;Internacional;1;0;H;1
+2018;18/11/2018;Parana;Palmeiras;1;1;D;0
+2018;18/11/2018;Sport;Flamengo;0;1;A;-1
+2018;18/11/2018;Gremio;Chapecoense;2;0;H;2
+2018;18/11/2018;Sao Paulo;Cruzeiro;1;0;H;1
+2018;19/11/2018;Fluminense;Ceara;0;0;D;0
+2018;21/11/2018;Internacional;Atletico MG;1;2;A;-1
+2018;21/11/2018;Santos;Botafogo;1;1;D;0
+2018;21/11/2018;Athletico PR;Corinthians;1;0;H;1
+2018;21/11/2018;Cruzeiro;Vitoria;3;0;H;3
+2018;21/11/2018;Flamengo;Gremio;2;0;H;2
+2018;21/11/2018;Palmeiras;America MG;4;0;H;4
+2018;22/11/2018;Vasco;Sao Paulo;2;0;H;2
+2018;22/11/2018;Bahia;Fluminense;2;0;H;2
+2018;22/11/2018;Ceara;Parana;1;0;H;1
+2018;22/11/2018;Chapecoense;Sport;2;1;H;1
+2018;24/11/2018;Santos;Atletico MG;3;2;H;1
+2018;25/11/2018;Athletico PR;Ceara;2;2;D;0
+2018;25/11/2018;Cruzeiro;Flamengo;0;2;A;-2
+2018;25/11/2018;Vasco;Palmeiras;0;1;A;-1
+2018;25/11/2018;Vitoria;Gremio;0;0;D;0
+2018;25/11/2018;America MG;Bahia;1;0;H;1
+2018;25/11/2018;Corinthians;Chapecoense;0;0;D;0
+2018;25/11/2018;Internacional;Fluminense;2;0;H;2
+2018;26/11/2018;Botafogo;Parana;2;1;H;1
+2018;26/11/2018;Sao Paulo;Sport;0;0;D;0
+2018;01/12/2018;Atletico MG;Botafogo;1;0;H;1
+2018;01/12/2018;Flamengo;Athletico PR;1;2;A;-1
+2018;02/12/2018;Bahia;Cruzeiro;0;0;D;0
+2018;02/12/2018;Ceara;Vasco;0;0;D;0
+2018;02/12/2018;Chapecoense;Sao Paulo;1;0;H;1
+2018;02/12/2018;Fluminense;America MG;1;0;H;1
+2018;02/12/2018;Gremio;Corinthians;1;0;H;1
+2018;02/12/2018;Palmeiras;Vitoria;3;2;H;1
+2018;02/12/2018;Parana;Internacional;1;1;D;0
+2018;02/12/2018;Sport;Santos;2;1;H;1
+2019;27/04/2019;Sao Paulo;Botafogo;2;0;H;2
+2019;27/04/2019;Atletico MG;Avai;2;1;H;1
+2019;27/04/2019;Chapecoense;Internacional;2;0;H;2
+2019;28/04/2019;Flamengo;Cruzeiro;3;1;H;2
+2019;28/04/2019;Gremio;Santos;1;2;A;-1
+2019;28/04/2019;Athletico PR;Vasco;4;1;H;3
+2019;28/04/2019;Bahia;Corinthians;3;2;H;1
+2019;28/04/2019;Ceara;CSA;4;0;H;4
+2019;28/04/2019;Fluminense;Goias;0;1;A;-1
+2019;28/04/2019;Palmeiras;Fortaleza;4;0;H;4
+2019;01/05/2019;Corinthians;Chapecoense;1;0;H;1
+2019;01/05/2019;CSA;Palmeiras;1;1;D;0
+2019;01/05/2019;Internacional;Flamengo;2;1;H;1
+2019;01/05/2019;Avai;Gremio;1;1;D;0
+2019;01/05/2019;Cruzeiro;Ceara;1;0;H;1
+2019;02/05/2019;Fortaleza;Athletico PR;2;1;H;1
+2019;02/05/2019;Goias;Sao Paulo;1;2;A;-1
+2019;02/05/2019;Vasco;Atletico MG;1;2;A;-1
+2019;02/05/2019;Santos;Fluminense;2;1;H;1
+2019;03/05/2019;Botafogo;Bahia;3;2;H;1
+2019;04/05/2019;Palmeiras;Internacional;1;0;H;1
+2019;04/05/2019;Vasco;Corinthians;1;1;D;0
+2019;05/05/2019;Ceara;Atletico MG;1;2;A;-1
+2019;05/05/2019;Chapecoense;Athletico PR;1;1;D;0
+2019;05/05/2019;Botafogo;Fortaleza;1;0;H;1
+2019;05/05/2019;Cruzeiro;Goias;2;1;H;1
+2019;05/05/2019;CSA;Santos;0;0;D;0
+2019;05/05/2019;Sao Paulo;Flamengo;1;1;D;0
+2019;05/05/2019;Bahia;Avai;1;0;H;1
+2019;05/05/2019;Gremio;Fluminense;4;5;A;-1
+2019;11/05/2019;Fluminense;Botafogo;0;1;A;-1
+2019;11/05/2019;Corinthians;Gremio;0;0;D;0
+2019;12/05/2019;Goias;Ceara;2;1;H;1
+2019;12/05/2019;Flamengo;Chapecoense;2;1;H;1
+2019;12/05/2019;Atletico MG;Palmeiras;0;2;A;-2
+2019;12/05/2019;Internacional;Cruzeiro;3;1;H;2
+2019;12/05/2019;Santos;Vasco;3;0;H;3
+2019;12/05/2019;Athletico PR;Bahia;1;0;H;1
+2019;12/05/2019;Avai;CSA;0;0;D;0
+2019;12/05/2019;Fortaleza;Sao Paulo;0;1;A;-1
+2019;18/05/2019;Fluminense;Cruzeiro;4;1;H;3
+2019;18/05/2019;Atletico MG;Flamengo;2;1;H;1
+2019;18/05/2019;Palmeiras;Santos;4;0;H;4
+2019;19/05/2019;Sao Paulo;Bahia;0;0;D;0
+2019;19/05/2019;Athletico PR;Corinthians;0;2;A;-2
+2019;19/05/2019;Chapecoense;Fortaleza;1;3;A;-2
+2019;19/05/2019;Goias;Botafogo;1;0;H;1
+2019;19/05/2019;Internacional;CSA;2;0;H;2
+2019;19/05/2019;Ceara;Gremio;2;1;H;1
+2019;19/05/2019;Vasco;Avai;1;1;D;0
+2019;25/05/2019;Botafogo;Palmeiras;0;1;A;-1
+2019;25/05/2019;Gremio;Atletico MG;1;0;H;1
+2019;26/05/2019;Flamengo;Athletico PR;3;2;H;1
+2019;26/05/2019;Santos;Internacional;0;0;D;0
+2019;26/05/2019;Bahia;Fluminense;3;2;H;1
+2019;26/05/2019;Corinthians;Sao Paulo;1;0;H;1
+2019;26/05/2019;Cruzeiro;Chapecoense;1;2;A;-1
+2019;26/05/2019;Fortaleza;Vasco;1;1;D;0
+2019;28/05/2019;Avai;Ceara;1;2;A;-1
+2019;28/05/2019;CSA;Goias;1;0;H;1
+2019;01/06/2019;Flamengo;Fortaleza;2;0;H;2
+2019;01/06/2019;Bahia;Gremio;1;0;H;1
+2019;02/06/2019;Botafogo;Vasco;1;0;H;1
+2019;02/06/2019;Athletico PR;Fluminense;3;0;H;3
+2019;02/06/2019;Ceara;Santos;0;1;A;-1
+2019;02/06/2019;Sao Paulo;Cruzeiro;1;1;D;0
+2019;02/06/2019;Atletico MG;CSA;4;0;H;4
+2019;02/06/2019;Chapecoense;Palmeiras;1;2;A;-1
+2019;02/06/2019;Internacional;Avai;2;0;H;2
+2019;08/06/2019;Vasco;Internacional;2;1;H;1
+2019;08/06/2019;Palmeiras;Athletico PR;1;0;H;1
+2019;08/06/2019;Cruzeiro;Corinthians;0;0;D;0
+2019;08/06/2019;Gremio;Fortaleza;1;0;H;1
+2019;08/06/2019;Ceara;Bahia;0;0;D;0
+2019;09/06/2019;Avai;Sao Paulo;0;0;D;0
+2019;09/06/2019;CSA;Botafogo;1;2;A;-1
+2019;09/06/2019;Fluminense;Flamengo;0;0;D;0
+2019;09/06/2019;Santos;Atletico MG;3;1;H;2
+2019;11/06/2019;Goias;Chapecoense;3;1;H;2
+2019;12/06/2019;Botafogo;Gremio;0;1;A;-1
+2019;13/06/2019;Fortaleza;Cruzeiro;2;1;H;1
+2019;13/06/2019;CSA;Flamengo;0;2;A;-2
+2019;13/06/2019;Internacional;Bahia;3;1;H;2
+2019;13/06/2019;Santos;Corinthians;1;0;H;1
+2019;13/06/2019;Vasco;Ceara;1;0;H;1
+2019;14/06/2019;Atletico MG;Sao Paulo;1;1;D;0
+2019;14/06/2019;Chapecoense;Fluminense;1;1;D;0
+2019;14/06/2019;Goias;Athletico PR;2;1;H;1
+2019;14/06/2019;Palmeiras;Avai;2;0;H;2
+2019;13/07/2019;Fortaleza;Avai;2;0;H;2
+2019;13/07/2019;Gremio;Vasco;2;1;H;1
+2019;13/07/2019;Bahia;Santos;0;1;A;-1
+2019;13/07/2019;Sao Paulo;Palmeiras;1;1;D;0
+2019;14/07/2019;Flamengo;Goias;6;1;H;5
+2019;14/07/2019;Athletico PR;Internacional;1;0;H;1
+2019;14/07/2019;Corinthians;CSA;1;0;H;1
+2019;14/07/2019;Cruzeiro;Botafogo;0;0;D;0
+2019;14/07/2019;Chapecoense;Atletico MG;1;2;A;-1
+2019;16/07/2019;Fluminense;Ceara;1;1;D;0
+2019;20/07/2019;Vasco;Fluminense;2;1;H;1
+2019;20/07/2019;Bahia;Cruzeiro;0;0;D;0
+2019;20/07/2019;Ceara;Palmeiras;2;0;H;2
+2019;20/07/2019;CSA;Athletico PR;0;4;A;-4
+2019;20/07/2019;Internacional;Gremio;1;1;D;0
+2019;21/07/2019;Botafogo;Santos;0;1;A;-1
+2019;21/07/2019;Atletico MG;Fortaleza;2;2;D;0
+2019;21/07/2019;Corinthians;Flamengo;1;1;D;0
+2019;21/07/2019;Avai;Goias;0;0;D;0
+2019;23/07/2019;Sao Paulo;Chapecoense;4;0;H;4
+2019;27/07/2019;Palmeiras;Vasco;1;1;D;0
+2019;27/07/2019;Cruzeiro;Athletico PR;0;2;A;-2
+2019;27/07/2019;Fluminense;Sao Paulo;1;2;A;-1
+2019;27/07/2019;Internacional;Ceara;1;0;H;1
+2019;28/07/2019;Chapecoense;Bahia;0;0;D;0
+2019;28/07/2019;Flamengo;Botafogo;3;2;H;1
+2019;28/07/2019;Santos;Avai;3;1;H;2
+2019;28/07/2019;Fortaleza;Corinthians;1;3;A;-2
+2019;28/07/2019;Goias;Atletico MG;0;0;D;0
+2019;30/07/2019;CSA;Gremio;0;0;D;0
+2019;03/08/2019;Ceara;Fortaleza;2;1;H;1
+2019;03/08/2019;Fluminense;Internacional;2;1;H;1
+2019;04/08/2019;Santos;Goias;6;1;H;5
+2019;04/08/2019;Avai;Botafogo;0;2;A;-2
+2019;04/08/2019;Bahia;Flamengo;3;0;H;3
+2019;04/08/2019;Atletico MG;Cruzeiro;2;0;H;2
+2019;04/08/2019;Corinthians;Palmeiras;1;1;D;0
+2019;04/08/2019;Vasco;CSA;0;0;D;0
+2019;06/08/2019;Gremio;Chapecoense;3;3;D;0
+2019;07/08/2019;Corinthians;Goias;2;0;H;2
+2019;10/08/2019;Ceara;Chapecoense;4;1;H;3
+2019;10/08/2019;Sao Paulo;Santos;3;2;H;1
+2019;10/08/2019;Flamengo;Gremio;3;1;H;2
+2019;11/08/2019;Atletico MG;Fluminense;2;1;H;1
+2019;11/08/2019;Internacional;Corinthians;0;0;D;0
+2019;11/08/2019;Avai;Cruzeiro;2;2;D;0
+2019;11/08/2019;Botafogo;Athletico PR;2;1;H;1
+2019;11/08/2019;Palmeiras;Bahia;2;2;D;0
+2019;11/08/2019;Goias;Vasco;0;1;A;-1
+2019;13/08/2019;CSA;Fortaleza;0;2;A;-2
+2019;17/08/2019;Corinthians;Botafogo;2;0;H;2
+2019;17/08/2019;Fortaleza;Internacional;0;1;A;-1
+2019;17/08/2019;Athletico PR;Atletico MG;1;0;H;1
+2019;17/08/2019;Vasco;Flamengo;1;4;A;-3
+2019;18/08/2019;Gremio;Palmeiras;1;1;D;0
+2019;18/08/2019;Bahia;Goias;1;1;D;0
+2019;18/08/2019;Cruzeiro;Santos;2;0;H;2
+2019;18/08/2019;Fluminense;CSA;0;1;A;-1
+2019;18/08/2019;Sao Paulo;Ceara;1;0;H;1
+2019;18/08/2019;Chapecoense;Avai;1;0;H;1
+2019;21/08/2019;Athletico PR;Sao Paulo;0;1;A;-1
+2019;24/08/2019;Atletico MG;Bahia;0;1;A;-1
+2019;24/08/2019;Gremio;Athletico PR;2;1;H;1
+2019;25/08/2019;Goias;Internacional;2;1;H;1
+2019;25/08/2019;Santos;Fortaleza;3;3;D;0
+2019;25/08/2019;Vasco;Sao Paulo;2;0;H;2
+2019;25/08/2019;Avai;Corinthians;1;1;D;0
+2019;25/08/2019;Ceara;Flamengo;0;3;A;-3
+2019;25/08/2019;CSA;Cruzeiro;1;1;D;0
+2019;27/08/2019;Botafogo;Chapecoense;0;0;D;0
+2019;31/08/2019;Sao Paulo;Gremio;0;0;D;0
+2019;31/08/2019;Bahia;CSA;1;0;H;1
+2019;31/08/2019;Athletico PR;Ceara;1;0;H;1
+2019;31/08/2019;Chapecoense;Santos;0;1;A;-1
+2019;01/09/2019;Internacional;Botafogo;3;2;H;1
+2019;01/09/2019;Flamengo;Palmeiras;3;0;H;3
+2019;01/09/2019;Fortaleza;Goias;2;0;H;2
+2019;01/09/2019;Corinthians;Atletico MG;1;0;H;1
+2019;01/09/2019;Cruzeiro;Vasco;1;0;H;1
+2019;03/09/2019;Fluminense;Avai;0;1;A;-1
+2019;07/09/2019;Corinthians;Ceara;2;2;D;0
+2019;07/09/2019;Vasco;Bahia;0;2;A;-2
+2019;07/09/2019;Avai;Flamengo;0;3;A;-3
+2019;07/09/2019;Fortaleza;Fluminense;0;1;A;-1
+2019;07/09/2019;Internacional;Sao Paulo;1;0;H;1
+2019;08/09/2019;Goias;Palmeiras;1;2;A;-1
+2019;08/09/2019;Cruzeiro;Gremio;1;4;A;-3
+2019;08/09/2019;Botafogo;Atletico MG;2;1;H;1
+2019;08/09/2019;Santos;Athletico PR;1;1;D;0
+2019;08/09/2019;CSA;Chapecoense;2;0;H;2
+2019;11/09/2019;Palmeiras;Fluminense;3;0;H;3
+2019;14/09/2019;Flamengo;Santos;1;0;H;1
+2019;14/09/2019;Chapecoense;Vasco;1;2;A;-1
+2019;14/09/2019;Palmeiras;Cruzeiro;1;0;H;1
+2019;15/09/2019;Ceara;Botafogo;0;0;D;0
+2019;15/09/2019;Athletico PR;Avai;0;1;A;-1
+2019;15/09/2019;Atletico MG;Internacional;1;3;A;-2
+2019;15/09/2019;Bahia;Fortaleza;1;1;D;0
+2019;15/09/2019;Fluminense;Corinthians;1;0;H;1
+2019;15/09/2019;Gremio;Goias;3;0;H;3
+2019;15/09/2019;Sao Paulo;CSA;1;1;D;0
+2019;21/09/2019;Botafogo;Sao Paulo;1;2;A;-1
+2019;21/09/2019;Cruzeiro;Flamengo;1;2;A;-1
+2019;21/09/2019;Corinthians;Bahia;2;1;H;1
+2019;22/09/2019;Santos;Gremio;0;3;A;-3
+2019;22/09/2019;Internacional;Chapecoense;1;0;H;1
+2019;22/09/2019;CSA;Ceara;1;0;H;1
+2019;22/09/2019;Fortaleza;Palmeiras;0;1;A;-1
+2019;22/09/2019;Vasco;Athletico PR;1;1;D;0
+2019;22/09/2019;Goias;Fluminense;3;0;H;3
+2019;24/09/2019;Avai;Atletico MG;1;0;H;1
+2019;25/09/2019;Ceara;Cruzeiro;0;0;D;0
+2019;26/09/2019;Bahia;Botafogo;2;0;H;2
+2019;26/09/2019;Flamengo;Internacional;3;1;H;2
+2019;26/09/2019;Sao Paulo;Goias;0;1;A;-1
+2019;26/09/2019;Palmeiras;CSA;6;2;H;4
+2019;27/09/2019;Fluminense;Santos;1;1;D;0
+2019;27/09/2019;Gremio;Avai;6;1;H;5
+2019;27/09/2019;Athletico PR;Fortaleza;4;1;H;3
+2019;28/09/2019;Flamengo;Sao Paulo;0;0;D;0
+2019;29/09/2019;Corinthians;Vasco;1;0;H;1
+2019;29/09/2019;Fluminense;Gremio;2;1;H;1
+2019;29/09/2019;Internacional;Palmeiras;1;1;D;0
+2019;29/09/2019;Santos;CSA;2;0;H;2
+2019;29/09/2019;Athletico PR;Chapecoense;1;1;D;0
+2019;29/09/2019;Atletico MG;Ceara;2;1;H;1
+2019;01/10/2019;Avai;Bahia;0;2;A;-2
+2019;01/10/2019;Fortaleza;Botafogo;1;0;H;1
+2019;01/10/2019;Goias;Cruzeiro;1;0;H;1
+2019;02/10/2019;Atletico MG;Vasco;1;2;A;-1
+2019;02/10/2019;Chapecoense;Corinthians;0;1;A;-1
+2019;05/10/2019;Sao Paulo;Fortaleza;2;1;H;1
+2019;05/10/2019;Vasco;Santos;0;1;A;-1
+2019;05/10/2019;Bahia;Athletico PR;1;2;A;-1
+2019;05/10/2019;Gremio;Corinthians;0;0;D;0
+2019;06/10/2019;Cruzeiro;Internacional;1;1;D;0
+2019;06/10/2019;Chapecoense;Flamengo;0;1;A;-1
+2019;06/10/2019;Botafogo;Fluminense;0;1;A;-1
+2019;06/10/2019;Ceara;Goias;0;1;A;-1
+2019;06/10/2019;Palmeiras;Atletico MG;1;1;D;0
+2019;06/10/2019;CSA;Avai;3;1;H;2
+2019;09/10/2019;Botafogo;Goias;3;1;H;2
+2019;09/10/2019;CSA;Internacional;1;0;H;1
+2019;10/10/2019;Fortaleza;Chapecoense;2;0;H;2
+2019;10/10/2019;Bahia;Sao Paulo;0;0;D;0
+2019;10/10/2019;Gremio;Ceara;2;1;H;1
+2019;10/10/2019;Cruzeiro;Fluminense;0;0;D;0
+2019;10/10/2019;Santos;Palmeiras;2;0;H;2
+2019;10/10/2019;Avai;Vasco;0;0;D;0
+2019;10/10/2019;Corinthians;Athletico PR;2;2;D;0
+2019;11/10/2019;Flamengo;Atletico MG;3;1;H;2
+2019;12/10/2019;Goias;CSA;1;0;H;1
+2019;12/10/2019;Fluminense;Bahia;2;0;H;2
+2019;13/10/2019;Palmeiras;Botafogo;1;0;H;1
+2019;13/10/2019;Athletico PR;Flamengo;0;2;A;-2
+2019;13/10/2019;Ceara;Avai;1;0;H;1
+2019;13/10/2019;Internacional;Santos;0;0;D;0
+2019;13/10/2019;Vasco;Fortaleza;1;0;H;1
+2019;13/10/2019;Sao Paulo;Corinthians;1;0;H;1
+2019;13/10/2019;Atletico MG;Gremio;1;4;A;-3
+2019;13/10/2019;Chapecoense;Cruzeiro;1;1;D;0
+2019;16/10/2019;CSA;Atletico MG;2;2;D;0
+2019;16/10/2019;Gremio;Bahia;0;1;A;-1
+2019;17/10/2019;Fortaleza;Flamengo;1;2;A;-1
+2019;17/10/2019;Cruzeiro;Sao Paulo;1;0;H;1
+2019;17/10/2019;Palmeiras;Chapecoense;1;0;H;1
+2019;17/10/2019;Goias;Corinthians;2;2;D;0
+2019;17/10/2019;Vasco;Botafogo;2;1;H;1
+2019;17/10/2019;Avai;Internacional;0;2;A;-2
+2019;17/10/2019;Santos;Ceara;2;1;H;1
+2019;18/10/2019;Fluminense;Athletico PR;1;2;A;-1
+2019;19/10/2019;Fortaleza;Gremio;2;1;H;1
+2019;19/10/2019;Corinthians;Cruzeiro;1;2;A;-1
+2019;20/10/2019;Atletico MG;Santos;2;0;H;2
+2019;20/10/2019;Internacional;Vasco;0;1;A;-1
+2019;20/10/2019;Sao Paulo;Avai;1;0;H;1
+2019;20/10/2019;Flamengo;Fluminense;2;0;H;2
+2019;20/10/2019;Athletico PR;Palmeiras;1;1;D;0
+2019;20/10/2019;Chapecoense;Goias;2;2;D;0
+2019;21/10/2019;Bahia;Ceara;1;2;A;-1
+2019;22/10/2019;Botafogo;CSA;2;1;H;1
+2019;26/10/2019;Ceara;Vasco;1;1;D;0
+2019;26/10/2019;Corinthians;Santos;0;0;D;0
+2019;26/10/2019;Bahia;Internacional;2;3;A;-1
+2019;26/10/2019;Fluminense;Chapecoense;1;1;D;0
+2019;27/10/2019;Cruzeiro;Fortaleza;1;1;D;0
+2019;27/10/2019;Athletico PR;Goias;4;1;H;3
+2019;27/10/2019;Gremio;Botafogo;3;0;H;3
+2019;27/10/2019;Sao Paulo;Atletico MG;2;0;H;2
+2019;27/10/2019;Avai;Palmeiras;1;2;A;-1
+2019;27/10/2019;Flamengo;CSA;1;0;H;1
+2019;30/10/2019;Atletico MG;Chapecoense;0;2;A;-2
+2019;30/10/2019;Avai;Fortaleza;1;3;A;-2
+2019;30/10/2019;Palmeiras;Sao Paulo;3;0;H;3
+2019;31/10/2019;Ceara;Fluminense;2;0;H;2
+2019;31/10/2019;CSA;Corinthians;2;1;H;1
+2019;31/10/2019;Vasco;Gremio;1;3;A;-2
+2019;31/10/2019;Santos;Bahia;1;0;H;1
+2019;31/10/2019;Goias;Flamengo;2;2;D;0
+2019;01/11/2019;Botafogo;Cruzeiro;0;2;A;-2
+2019;01/11/2019;Internacional;Athletico PR;1;1;D;0
+2019;02/11/2019;Fortaleza;Atletico MG;2;2;D;0
+2019;02/11/2019;Fluminense;Vasco;0;0;D;0
+2019;02/11/2019;Palmeiras;Ceara;1;0;H;1
+2019;03/11/2019;Chapecoense;Sao Paulo;0;3;A;-3
+2019;03/11/2019;Flamengo;Corinthians;4;1;H;3
+2019;03/11/2019;Athletico PR;CSA;1;0;H;1
+2019;03/11/2019;Gremio;Internacional;2;0;H;2
+2019;03/11/2019;Cruzeiro;Bahia;1;1;D;0
+2019;03/11/2019;Santos;Botafogo;4;1;H;3
+2019;03/11/2019;Goias;Avai;2;0;H;2
+2019;06/11/2019;Corinthians;Fortaleza;3;2;H;1
+2019;06/11/2019;Atletico MG;Goias;2;0;H;2
+2019;07/11/2019;Avai;Santos;1;2;A;-1
+2019;07/11/2019;Athletico PR;Cruzeiro;0;0;D;0
+2019;07/11/2019;Bahia;Chapecoense;1;1;D;0
+2019;07/11/2019;Vasco;Palmeiras;1;2;A;-1
+2019;07/11/2019;Ceara;Internacional;2;0;H;2
+2019;07/11/2019;Sao Paulo;Fluminense;0;2;A;-2
+2019;07/11/2019;Botafogo;Flamengo;0;1;A;-1
+2019;08/11/2019;Gremio;CSA;2;1;H;1
+2019;09/11/2019;Goias;Santos;0;3;A;-3
+2019;09/11/2019;Palmeiras;Corinthians;1;1;D;0
+2019;10/11/2019;Cruzeiro;Atletico MG;0;0;D;0
+2019;10/11/2019;Internacional;Fluminense;2;1;H;1
+2019;10/11/2019;Sao Paulo;Athletico PR;0;1;A;-1
+2019;10/11/2019;Flamengo;Bahia;3;1;H;2
+2019;10/11/2019;Chapecoense;Gremio;0;1;A;-1
+2019;10/11/2019;CSA;Vasco;0;3;A;-3
+2019;10/11/2019;Fortaleza;Ceara;1;0;H;1
+2019;11/11/2019;Botafogo;Avai;2;0;H;2
+2019;14/11/2019;Flamengo;Vasco;4;4;D;0
+2019;16/11/2019;Santos;Sao Paulo;1;1;D;0
+2019;16/11/2019;Fluminense;Atletico MG;1;1;D;0
+2019;17/11/2019;Bahia;Palmeiras;1;1;D;0
+2019;17/11/2019;Gremio;Flamengo;0;1;A;-1
+2019;17/11/2019;Athletico PR;Botafogo;1;0;H;1
+2019;17/11/2019;Chapecoense;Ceara;1;0;H;1
+2019;17/11/2019;Corinthians;Internacional;0;0;D;0
+2019;17/11/2019;Fortaleza;CSA;3;0;H;3
+2019;18/11/2019;Vasco;Goias;1;1;D;0
+2019;18/11/2019;Cruzeiro;Avai;0;0;D;0
+2019;24/11/2019;Santos;Cruzeiro;4;1;H;3
+2019;24/11/2019;Atletico MG;Athletico PR;0;1;A;-1
+2019;24/11/2019;Goias;Bahia;4;3;H;1
+2019;24/11/2019;Palmeiras;Gremio;1;2;A;-1
+2019;24/11/2019;Botafogo;Corinthians;1;0;H;1
+2019;24/11/2019;Avai;Chapecoense;0;1;A;-1
+2019;24/11/2019;Ceara;Sao Paulo;1;1;D;0
+2019;24/11/2019;Internacional;Fortaleza;2;2;D;0
+2019;25/11/2019;CSA;Fluminense;0;1;A;-1
+2019;27/11/2019;Chapecoense;Botafogo;0;1;A;-1
+2019;27/11/2019;Internacional;Goias;1;2;A;-1
+2019;28/11/2019;Bahia;Atletico MG;1;1;D;0
+2019;28/11/2019;Athletico PR;Gremio;2;0;H;2
+2019;28/11/2019;Corinthians;Avai;3;0;H;3
+2019;28/11/2019;Flamengo;Ceara;4;1;H;3
+2019;28/11/2019;Fluminense;Palmeiras;1;0;H;1
+2019;28/11/2019;Fortaleza;Santos;2;1;H;1
+2019;28/11/2019;Sao Paulo;Vasco;1;0;H;1
+2019;29/11/2019;Cruzeiro;CSA;0;1;A;-1
+2019;30/11/2019;Botafogo;Internacional;0;1;A;-1
+2019;30/11/2019;Ceara;Athletico PR;1;1;D;0
+2019;01/12/2019;Avai;Fluminense;1;1;D;0
+2019;01/12/2019;Goias;Fortaleza;1;2;A;-1
+2019;01/12/2019;Palmeiras;Flamengo;1;3;A;-2
+2019;01/12/2019;Atletico MG;Corinthians;2;1;H;1
+2019;01/12/2019;CSA;Bahia;1;2;A;-1
+2019;01/12/2019;Gremio;Sao Paulo;3;0;H;3
+2019;01/12/2019;Santos;Chapecoense;2;0;H;2
+2019;02/12/2019;Vasco;Cruzeiro;1;0;H;1
+2019;04/12/2019;Athletico PR;Santos;1;0;H;1
+2019;04/12/2019;Atletico MG;Botafogo;2;0;H;2
+2019;04/12/2019;Ceara;Corinthians;0;1;A;-1
+2019;05/12/2019;Chapecoense;CSA;3;0;H;3
+2019;05/12/2019;Fluminense;Fortaleza;0;0;D;0
+2019;05/12/2019;Sao Paulo;Internacional;2;1;H;1
+2019;05/12/2019;Bahia;Vasco;1;1;D;0
+2019;05/12/2019;Gremio;Cruzeiro;2;0;H;2
+2019;05/12/2019;Palmeiras;Goias;5;1;H;4
+2019;05/12/2019;Flamengo;Avai;6;1;H;5
+2019;08/12/2019;Avai;Athletico PR;0;0;D;0
+2019;08/12/2019;Botafogo;Ceara;1;1;D;0
+2019;08/12/2019;Corinthians;Fluminense;1;2;A;-1
+2019;08/12/2019;Cruzeiro;Palmeiras;0;2;A;-2
+2019;08/12/2019;CSA;Sao Paulo;1;2;A;-1
+2019;08/12/2019;Fortaleza;Bahia;2;1;H;1
+2019;08/12/2019;Goias;Gremio;3;2;H;1
+2019;08/12/2019;Internacional;Atletico MG;2;1;H;1
+2019;08/12/2019;Santos;Flamengo;4;0;H;4
+2019;08/12/2019;Vasco;Chapecoense;1;1;D;0
+2020;08/08/2020;Fortaleza;Athletico PR;0;2;A;-2
+2020;08/08/2020;Coritiba;Internacional;0;1;A;-1
+2020;09/08/2020;Sport;Ceara;3;2;H;1
+2020;09/08/2020;Flamengo;Atletico MG;0;1;A;-1
+2020;09/08/2020;Santos;Bragantino;1;1;D;0
+2020;09/08/2020;Gremio;Fluminense;1;0;H;1
+2020;12/08/2020;Athletico PR;Goias;2;1;H;1
+2020;12/08/2020;Atletico MG;Corinthians;3;2;H;1
+2020;12/08/2020;Bragantino;Botafogo;1;1;D;0
+2020;13/08/2020;Atletico GO;Flamengo;3;0;H;3
+2020;13/08/2020;Bahia;Coritiba;1;0;H;1
+2020;13/08/2020;Ceara;Gremio;1;1;D;0
+2020;13/08/2020;Fluminense;Palmeiras;1;1;D;0
+2020;13/08/2020;Sao Paulo;Fortaleza;1;0;H;1
+2020;13/08/2020;Internacional;Santos;2;0;H;2
+2020;14/08/2020;Vasco;Sport;2;0;H;2
+2020;15/08/2020;Gremio;Corinthians;0;0;D;0
+2020;15/08/2020;Coritiba;Flamengo;0;1;A;-1
+2020;16/08/2020;Palmeiras;Goias;1;1;D;0
+2020;16/08/2020;Atletico MG;Ceara;2;0;H;2
+2020;16/08/2020;Bahia;Bragantino;2;1;H;1
+2020;16/08/2020;Vasco;Sao Paulo;2;1;H;1
+2020;16/08/2020;Fluminense;Internacional;2;1;H;1
+2020;16/08/2020;Atletico GO;Sport;1;1;D;0
+2020;16/08/2020;Fortaleza;Botafogo;0;0;D;0
+2020;16/08/2020;Santos;Athletico PR;3;1;H;2
+2020;19/08/2020;Bragantino;Fluminense;2;1;H;1
+2020;19/08/2020;Flamengo;Gremio;1;1;D;0
+2020;19/08/2020;Athletico PR;Palmeiras;0;1;A;-1
+2020;20/08/2020;Goias;Fortaleza;1;3;A;-2
+2020;20/08/2020;Internacional;Atletico GO;3;0;H;3
+2020;20/08/2020;Botafogo;Atletico MG;2;1;H;1
+2020;20/08/2020;Corinthians;Coritiba;3;1;H;2
+2020;20/08/2020;Sport;Santos;0;1;A;-1
+2020;21/08/2020;Ceara;Vasco;0;3;A;-3
+2020;21/08/2020;Sao Paulo;Bahia;1;1;D;0
+2020;22/08/2020;Athletico PR;Fluminense;0;1;A;-1
+2020;22/08/2020;Internacional;Atletico MG;1;0;H;1
+2020;23/08/2020;Goias;Atletico GO;2;0;H;2
+2020;23/08/2020;Flamengo;Botafogo;1;1;D;0
+2020;23/08/2020;Bragantino;Coritiba;1;2;A;-1
+2020;23/08/2020;Palmeiras;Santos;2;1;H;1
+2020;23/08/2020;Vasco;Gremio;0;0;D;0
+2020;23/08/2020;Sport;Sao Paulo;0;1;A;-1
+2020;24/08/2020;Ceara;Bahia;2;0;H;2
+2020;26/08/2020;Sao Paulo;Athletico PR;1;0;H;1
+2020;27/08/2020;Corinthians;Fortaleza;1;1;D;0
+2020;29/08/2020;Botafogo;Internacional;0;2;A;-2
+2020;29/08/2020;Bahia;Palmeiras;1;1;D;0
+2020;29/08/2020;Fluminense;Vasco;2;1;H;1
+2020;30/08/2020;Fortaleza;Bragantino;3;0;H;3
+2020;30/08/2020;Sao Paulo;Corinthians;2;1;H;1
+2020;30/08/2020;Coritiba;Sport;1;0;H;1
+2020;30/08/2020;Santos;Flamengo;0;1;A;-1
+2020;30/08/2020;Atletico GO;Ceara;0;2;A;-2
+2020;02/09/2020;Ceara;Fortaleza;1;0;H;1
+2020;02/09/2020;Fluminense;Atletico GO;1;1;D;0
+2020;02/09/2020;Goias;Corinthians;1;2;A;-1
+2020;03/09/2020;Athletico PR;Bragantino;1;1;D;0
+2020;03/09/2020;Bahia;Flamengo;3;5;A;-2
+2020;03/09/2020;Botafogo;Coritiba;0;0;D;0
+2020;03/09/2020;Palmeiras;Internacional;1;1;D;0
+2020;03/09/2020;Santos;Vasco;2;2;D;0
+2020;03/09/2020;Gremio;Sport;1;2;A;-1
+2020;04/09/2020;Atletico MG;Sao Paulo;3;0;H;3
+2020;05/09/2020;Flamengo;Fortaleza;2;1;H;1
+2020;05/09/2020;Corinthians;Botafogo;2;2;D;0
+2020;06/09/2020;Ceara;Santos;0;1;A;-1
+2020;06/09/2020;Bragantino;Palmeiras;1;2;A;-1
+2020;06/09/2020;Internacional;Bahia;2;2;D;0
+2020;06/09/2020;Sao Paulo;Fluminense;3;1;H;2
+2020;06/09/2020;Vasco;Athletico PR;1;0;H;1
+2020;06/09/2020;Atletico GO;Gremio;1;1;D;0
+2020;07/09/2020;Coritiba;Atletico MG;0;1;A;-1
+2020;07/09/2020;Sport;Goias;2;1;H;1
+2020;09/09/2020;Athletico PR;Botafogo;1;1;D;0
+2020;09/09/2020;Fortaleza;Sport;1;0;H;1
+2020;09/09/2020;Goias;Coritiba;3;3;D;0
+2020;09/09/2020;Sao Paulo;Bragantino;1;1;D;0
+2020;10/09/2020;Fluminense;Flamengo;1;2;A;-1
+2020;10/09/2020;Santos;Atletico MG;3;1;H;2
+2020;10/09/2020;Bahia;Gremio;0;2;A;-2
+2020;10/09/2020;Corinthians;Palmeiras;0;2;A;-2
+2020;10/09/2020;Internacional;Ceara;2;0;H;2
+2020;11/09/2020;Vasco;Atletico GO;1;2;A;-1
+2020;12/09/2020;Athletico PR;Coritiba;1;0;H;1
+2020;12/09/2020;Santos;Sao Paulo;2;2;D;0
+2020;13/09/2020;Fluminense;Corinthians;2;1;H;1
+2020;13/09/2020;Gremio;Fortaleza;1;1;D;0
+2020;13/09/2020;Atletico MG;Bragantino;2;1;H;1
+2020;13/09/2020;Bahia;Atletico GO;0;1;A;-1
+2020;13/09/2020;Ceara;Flamengo;2;0;H;2
+2020;13/09/2020;Goias;Internacional;1;0;H;1
+2020;13/09/2020;Palmeiras;Sport;2;2;D;0
+2020;14/09/2020;Botafogo;Vasco;2;3;A;-1
+2020;17/09/2020;Corinthians;Bahia;3;2;H;1
+2020;19/09/2020;Bragantino;Ceara;4;2;H;2
+2020;19/09/2020;Fortaleza;Internacional;1;0;H;1
+2020;20/09/2020;Atletico GO;Atletico MG;3;4;A;-1
+2020;20/09/2020;Coritiba;Vasco;1;0;H;1
+2020;20/09/2020;Gremio;Palmeiras;1;1;D;0
+2020;20/09/2020;Botafogo;Santos;0;0;D;0
+2020;21/09/2020;Sport;Fluminense;1;0;H;1
+2020;24/09/2020;Sport;Corinthians;1;0;H;1
+2020;26/09/2020;Athletico PR;Bahia;1;0;H;1
+2020;26/09/2020;Internacional;Sao Paulo;1;1;D;0
+2020;27/09/2020;Atletico MG;Gremio;3;1;H;2
+2020;27/09/2020;Vasco;Bragantino;1;1;D;0
+2020;27/09/2020;Palmeiras;Flamengo;1;1;D;0
+2020;27/09/2020;Atletico GO;Botafogo;1;1;D;0
+2020;27/09/2020;Ceara;Goias;2;2;D;0
+2020;28/09/2020;Santos;Fortaleza;1;1;D;0
+2020;29/09/2020;Fluminense;Coritiba;4;0;H;4
+2020;01/10/2020;Botafogo;Bahia;1;2;A;-1
+2020;01/10/2020;Corinthians;Atletico GO;0;0;D;0
+2020;03/10/2020;Gremio;Internacional;1;1;D;0
+2020;03/10/2020;Palmeiras;Ceara;2;1;H;1
+2020;04/10/2020;Bragantino;Corinthians;0;0;D;0
+2020;04/10/2020;Botafogo;Fluminense;1;1;D;0
+2020;04/10/2020;Coritiba;Sao Paulo;1;1;D;0
+2020;04/10/2020;Flamengo;Athletico PR;3;1;H;2
+2020;04/10/2020;Bahia;Sport;1;2;A;-1
+2020;04/10/2020;Fortaleza;Atletico GO;0;0;D;0
+2020;04/10/2020;Goias;Santos;2;3;A;-1
+2020;05/10/2020;Atletico MG;Vasco;4;1;H;3
+2020;07/10/2020;Corinthians;Santos;1;1;D;0
+2020;07/10/2020;Bahia;Vasco;3;0;H;3
+2020;07/10/2020;Flamengo;Sport;3;0;H;3
+2020;07/10/2020;Gremio;Coritiba;2;1;H;1
+2020;08/10/2020;Goias;Fluminense;2;4;A;-2
+2020;08/10/2020;Sao Paulo;Atletico GO;3;0;H;3
+2020;08/10/2020;Botafogo;Palmeiras;2;1;H;1
+2020;08/10/2020;Fortaleza;Atletico MG;2;1;H;1
+2020;08/10/2020;Athletico PR;Ceara;0;0;D;0
+2020;09/10/2020;Bragantino;Internacional;0;2;A;-2
+2020;10/10/2020;Vasco;Flamengo;1;2;A;-1
+2020;10/10/2020;Coritiba;Fortaleza;0;0;D;0
+2020;10/10/2020;Palmeiras;Sao Paulo;0;2;A;-2
+2020;11/10/2020;Atletico MG;Goias;3;0;H;3
+2020;11/10/2020;Fluminense;Bahia;1;0;H;1
+2020;11/10/2020;Santos;Gremio;2;1;H;1
+2020;11/10/2020;Atletico GO;Bragantino;2;1;H;1
+2020;11/10/2020;Sport;Botafogo;1;2;A;-1
+2020;12/10/2020;Ceara;Corinthians;2;1;H;1
+2020;12/10/2020;Internacional;Athletico PR;2;1;H;1
+2020;13/10/2020;Flamengo;Goias;2;1;H;1
+2020;14/10/2020;Palmeiras;Coritiba;1;3;A;-2
+2020;14/10/2020;Gremio;Botafogo;3;1;H;2
+2020;15/10/2020;Santos;Atletico GO;0;1;A;-1
+2020;15/10/2020;Athletico PR;Corinthians;0;1;A;-1
+2020;15/10/2020;Atletico MG;Fluminense;1;1;D;0
+2020;15/10/2020;Sport;Internacional;3;5;A;-2
+2020;16/10/2020;Flamengo;Bragantino;1;1;D;0
+2020;17/10/2020;Goias;Bahia;1;1;D;0
+2020;17/10/2020;Atletico GO;Athletico PR;1;1;D;0
+2020;17/10/2020;Coritiba;Santos;1;2;A;-1
+2020;17/10/2020;Fluminense;Ceara;2;2;D;0
+2020;18/10/2020;Sao Paulo;Gremio;0;0;D;0
+2020;18/10/2020;Corinthians;Flamengo;1;5;A;-4
+2020;18/10/2020;Internacional;Vasco;2;0;H;2
+2020;19/10/2020;Bragantino;Sport;2;0;H;2
+2020;19/10/2020;Fortaleza;Palmeiras;2;0;H;2
+2020;20/10/2020;Bahia;Atletico MG;3;1;H;2
+2020;20/10/2020;Botafogo;Goias;0;0;D;0
+2020;22/10/2020;Vasco;Corinthians;1;2;A;-1
+2020;24/10/2020;Bragantino;Goias;2;0;H;2
+2020;24/10/2020;Ceara;Coritiba;2;1;H;1
+2020;25/10/2020;Atletico MG;Sport;0;0;D;0
+2020;25/10/2020;Atletico GO;Palmeiras;0;3;A;-3
+2020;25/10/2020;Fluminense;Santos;3;1;H;2
+2020;25/10/2020;Athletico PR;Gremio;1;2;A;-1
+2020;25/10/2020;Internacional;Flamengo;2;2;D;0
+2020;31/10/2020;Botafogo;Ceara;2;2;D;0
+2020;31/10/2020;Corinthians;Internacional;1;0;H;1
+2020;31/10/2020;Coritiba;Atletico GO;1;0;H;1
+2020;01/11/2020;Fortaleza;Fluminense;0;1;A;-1
+2020;01/11/2020;Flamengo;Sao Paulo;1;4;A;-3
+2020;01/11/2020;Sport;Athletico PR;1;0;H;1
+2020;01/11/2020;Santos;Bahia;3;1;H;2
+2020;01/11/2020;Goias;Vasco;1;1;D;0
+2020;02/11/2020;Palmeiras;Atletico MG;3;0;H;3
+2020;02/11/2020;Gremio;Bragantino;2;1;H;1
+2020;07/11/2020;Athletico PR;Fortaleza;2;1;H;1
+2020;07/11/2020;Sao Paulo;Goias;2;1;H;1
+2020;08/11/2020;Atletico GO;Corinthians;1;1;D;0
+2020;08/11/2020;Internacional;Coritiba;2;2;D;0
+2020;08/11/2020;Vasco;Palmeiras;0;1;A;-1
+2020;08/11/2020;Atletico MG;Flamengo;4;0;H;4
+2020;08/11/2020;Bahia;Botafogo;1;0;H;1
+2020;08/11/2020;Bragantino;Santos;1;1;D;0
+2020;08/11/2020;Ceara;Sport;0;0;D;0
+2020;08/11/2020;Fluminense;Gremio;0;1;A;-1
+2020;11/11/2020;Bahia;Fortaleza;2;1;H;1
+2020;14/11/2020;Santos;Internacional;2;0;H;2
+2020;14/11/2020;Sport;Vasco;0;2;A;-2
+2020;14/11/2020;Goias;Athletico PR;0;1;A;-1
+2020;14/11/2020;Corinthians;Atletico MG;1;2;A;-1
+2020;14/11/2020;Fortaleza;Sao Paulo;2;3;A;-1
+2020;14/11/2020;Gremio;Ceara;4;2;H;2
+2020;15/11/2020;Flamengo;Atletico GO;1;1;D;0
+2020;15/11/2020;Palmeiras;Fluminense;2;0;H;2
+2020;16/11/2020;Coritiba;Bahia;1;2;A;-1
+2020;16/11/2020;Botafogo;Bragantino;1;2;A;-1
+2020;18/11/2020;Atletico MG;Athletico PR;0;2;A;-2
+2020;19/11/2020;Vasco;Fortaleza;0;0;D;0
+2020;20/11/2020;Bragantino;Bahia;4;0;H;4
+2020;21/11/2020;Athletico PR;Santos;1;0;H;1
+2020;21/11/2020;Flamengo;Coritiba;3;1;H;2
+2020;22/11/2020;Goias;Palmeiras;1;0;H;1
+2020;22/11/2020;Ceara;Atletico MG;2;2;D;0
+2020;22/11/2020;Sao Paulo;Vasco;1;1;D;0
+2020;22/11/2020;Botafogo;Fortaleza;1;2;A;-1
+2020;22/11/2020;Internacional;Fluminense;1;2;A;-1
+2020;22/11/2020;Corinthians;Gremio;0;0;D;0
+2020;23/11/2020;Sport;Atletico GO;0;1;A;-1
+2020;25/11/2020;Ceara;Sao Paulo;1;1;D;0
+2020;26/11/2020;Atletico MG;Botafogo;2;1;H;1
+2020;26/11/2020;Coritiba;Corinthians;0;1;A;-1
+2020;26/11/2020;Fortaleza;Goias;1;1;D;0
+2020;28/11/2020;Palmeiras;Athletico PR;3;0;H;3
+2020;28/11/2020;Santos;Sport;4;2;H;2
+2020;28/11/2020;Bahia;Sao Paulo;1;3;A;-2
+2020;29/11/2020;Atletico GO;Internacional;0;0;D;0
+2020;30/11/2020;Gremio;Goias;2;1;H;1
+2020;30/11/2020;Vasco;Ceara;1;4;A;-3
+2020;30/11/2020;Fluminense;Bragantino;0;0;D;0
+2020;03/12/2020;Fortaleza;Corinthians;0;0;D;0
+2020;03/12/2020;Goias;Sao Paulo;0;3;A;-3
+2020;05/12/2020;Botafogo;Flamengo;0;1;A;-1
+2020;05/12/2020;Santos;Palmeiras;2;2;D;0
+2020;05/12/2020;Bahia;Ceara;0;2;A;-2
+2020;05/12/2020;Fluminense;Athletico PR;3;1;H;2
+2020;06/12/2020;Coritiba;Bragantino;0;0;D;0
+2020;06/12/2020;Gremio;Vasco;4;0;H;4
+2020;06/12/2020;Sao Paulo;Sport;1;0;H;1
+2020;06/12/2020;Atletico MG;Internacional;2;2;D;0
+2020;07/12/2020;Atletico GO;Goias;0;1;A;-1
+2020;10/12/2020;Sao Paulo;Botafogo;4;0;H;4
+2020;12/12/2020;Athletico PR;Atletico MG;0;1;A;-1
+2020;12/12/2020;Bragantino;Fortaleza;2;1;H;1
+2020;12/12/2020;Internacional;Botafogo;2;1;H;1
+2020;12/12/2020;Palmeiras;Bahia;3;0;H;3
+2020;13/12/2020;Ceara;Atletico GO;1;2;A;-1
+2020;13/12/2020;Goias;Gremio;0;0;D;0
+2020;13/12/2020;Flamengo;Santos;4;1;H;3
+2020;13/12/2020;Corinthians;Sao Paulo;1;0;H;1
+2020;13/12/2020;Sport;Coritiba;1;0;H;1
+2020;13/12/2020;Vasco;Fluminense;1;1;D;0
+2020;17/12/2020;Atletico GO;Fluminense;2;1;H;1
+2020;17/12/2020;Sao Paulo;Atletico MG;3;0;H;3
+2020;19/12/2020;Sport;Gremio;1;1;D;0
+2020;20/12/2020;Coritiba;Botafogo;1;2;A;-1
+2020;20/12/2020;Internacional;Palmeiras;2;0;H;2
+2020;20/12/2020;Bragantino;Athletico PR;0;1;A;-1
+2020;20/12/2020;Vasco;Santos;1;0;H;1
+2020;20/12/2020;Flamengo;Bahia;4;3;H;1
+2020;20/12/2020;Fortaleza;Ceara;0;2;A;-2
+2020;21/12/2020;Corinthians;Goias;2;1;H;1
+2020;26/12/2020;Atletico MG;Coritiba;2;0;H;2
+2020;26/12/2020;Fortaleza;Flamengo;0;0;D;0
+2020;26/12/2020;Goias;Sport;1;0;H;1
+2020;27/12/2020;Fluminense;Sao Paulo;1;2;A;-1
+2020;27/12/2020;Bahia;Internacional;1;2;A;-1
+2020;27/12/2020;Botafogo;Corinthians;0;2;A;-2
+2020;27/12/2020;Athletico PR;Vasco;3;0;H;3
+2020;27/12/2020;Palmeiras;Bragantino;1;0;H;1
+2020;27/12/2020;Santos;Ceara;1;1;D;0
+2020;27/12/2020;Gremio;Atletico GO;2;1;H;1
+2020;06/01/2021;Botafogo;Athletico PR;0;2;A;-2
+2020;06/01/2021;Gremio;Bahia;2;1;H;1
+2020;06/01/2021;Coritiba;Goias;1;2;A;-1
+2020;06/01/2021;Sport;Fortaleza;1;0;H;1
+2020;07/01/2021;Bragantino;Sao Paulo;4;2;H;2
+2020;07/01/2021;Flamengo;Fluminense;1;2;A;-1
+2020;07/01/2021;Ceara;Internacional;0;2;A;-2
+2020;08/01/2021;Atletico GO;Vasco;0;0;D;0
+2020;09/01/2021;Coritiba;Athletico PR;0;0;D;0
+2020;09/01/2021;Sport;Palmeiras;0;1;A;-1
+2020;10/01/2021;Fortaleza;Gremio;0;0;D;0
+2020;10/01/2021;Flamengo;Ceara;0;2;A;-2
+2020;10/01/2021;Sao Paulo;Santos;0;1;A;-1
+2020;10/01/2021;Atletico GO;Bahia;1;1;D;0
+2020;10/01/2021;Internacional;Goias;1;0;H;1
+2020;10/01/2021;Vasco;Botafogo;3;0;H;3
+2020;11/01/2021;Bragantino;Atletico MG;2;2;D;0
+2020;14/01/2021;Corinthians;Fluminense;5;0;H;5
+2020;16/01/2021;Palmeiras;Gremio;1;1;D;0
+2020;16/01/2021;Fluminense;Sport;1;0;H;1
+2020;17/01/2021;Vasco;Coritiba;0;1;A;-1
+2020;17/01/2021;Athletico PR;Sao Paulo;1;1;D;0
+2020;17/01/2021;Santos;Botafogo;2;1;H;1
+2020;17/01/2021;Atletico MG;Atletico GO;3;1;H;2
+2020;17/01/2021;Ceara;Bragantino;1;2;A;-1
+2020;17/01/2021;Internacional;Fortaleza;4;2;H;2
+2020;18/01/2021;Palmeiras;Corinthians;4;0;H;4
+2020;18/01/2021;Goias;Flamengo;0;3;A;-3
+2020;20/01/2021;Botafogo;Atletico GO;1;3;A;-2
+2020;20/01/2021;Bahia;Athletico PR;1;0;H;1
+2020;20/01/2021;Gremio;Atletico MG;1;1;D;0
+2020;20/01/2021;Coritiba;Fluminense;3;3;D;0
+2020;21/01/2021;Bragantino;Vasco;4;1;H;3
+2020;21/01/2021;Sao Paulo;Internacional;1;5;A;-4
+2020;21/01/2021;Flamengo;Palmeiras;2;0;H;2
+2020;21/01/2021;Fortaleza;Santos;2;0;H;2
+2020;21/01/2021;Goias;Ceara;0;4;A;-4
+2020;22/01/2021;Corinthians;Sport;3;0;H;3
+2020;23/01/2021;Sao Paulo;Coritiba;1;1;D;0
+2020;24/01/2021;Vasco;Atletico MG;3;2;H;1
+2020;24/01/2021;Athletico PR;Flamengo;2;1;H;1
+2020;24/01/2021;Ceara;Palmeiras;2;1;H;1
+2020;24/01/2021;Internacional;Gremio;2;1;H;1
+2020;24/01/2021;Atletico GO;Fortaleza;2;0;H;2
+2020;24/01/2021;Santos;Goias;3;4;A;-1
+2020;24/01/2021;Sport;Bahia;2;0;H;2
+2020;24/01/2021;Fluminense;Botafogo;2;0;H;2
+2020;25/01/2021;Corinthians;Bragantino;0;2;A;-2
+2020;26/01/2021;Atletico MG;Santos;2;0;H;2
+2020;26/01/2021;Palmeiras;Vasco;1;1;D;0
+2020;28/01/2021;Bahia;Corinthians;2;1;H;1
+2020;28/01/2021;Gremio;Flamengo;2;4;A;-2
+2020;31/01/2021;Atletico GO;Sao Paulo;2;1;H;1
+2020;31/01/2021;Ceara;Athletico PR;0;2;A;-2
+2020;31/01/2021;Coritiba;Gremio;1;1;D;0
+2020;31/01/2021;Vasco;Bahia;0;0;D;0
+2020;31/01/2021;Atletico MG;Fortaleza;2;0;H;2
+2020;31/01/2021;Internacional;Bragantino;2;1;H;1
+2020;31/01/2021;Fluminense;Goias;3;0;H;3
+2020;01/02/2021;Sport;Flamengo;0;3;A;-3
+2020;02/02/2021;Palmeiras;Botafogo;1;1;D;0
+2020;03/02/2021;Gremio;Santos;3;3;D;0
+2020;03/02/2021;Bragantino;Atletico GO;2;0;H;2
+2020;04/02/2021;Bahia;Fluminense;0;1;A;-1
+2020;04/02/2021;Corinthians;Ceara;2;1;H;1
+2020;04/02/2021;Goias;Atletico MG;1;0;H;1
+2020;04/02/2021;Fortaleza;Coritiba;3;1;H;2
+2020;05/02/2021;Athletico PR;Internacional;0;0;D;0
+2020;05/02/2021;Flamengo;Vasco;2;0;H;2
+2020;05/02/2021;Botafogo;Sport;0;1;A;-1
+2020;06/02/2021;Bahia;Goias;3;3;D;0
+2020;07/02/2021;Atletico GO;Santos;1;1;D;0
+2020;07/02/2021;Bragantino;Flamengo;1;1;D;0
+2020;08/02/2021;Botafogo;Gremio;2;5;A;-3
+2020;10/02/2021;Internacional;Sport;1;2;A;-1
+2020;10/02/2021;Fortaleza;Vasco;3;0;H;3
+2020;11/02/2021;Sao Paulo;Ceara;1;1;D;0
+2020;11/02/2021;Corinthians;Athletico PR;3;3;D;0
+2020;11/02/2021;Fluminense;Atletico MG;0;0;D;0
+2020;13/02/2021;Goias;Botafogo;2;0;H;2
+2020;13/02/2021;Atletico MG;Bahia;1;1;D;0
+2020;13/02/2021;Santos;Coritiba;2;0;H;2
+2020;14/02/2021;Flamengo;Corinthians;2;1;H;1
+2020;14/02/2021;Vasco;Internacional;0;2;A;-2
+2020;14/02/2021;Athletico PR;Atletico GO;2;1;H;1
+2020;14/02/2021;Palmeiras;Fortaleza;3;0;H;3
+2020;14/02/2021;Gremio;Sao Paulo;1;2;A;-1
+2020;15/02/2021;Ceara;Fluminense;1;3;A;-2
+2020;15/02/2021;Sport;Bragantino;0;0;D;0
+2020;17/02/2021;Santos;Corinthians;1;0;H;1
+2020;17/02/2021;Coritiba;Palmeiras;1;0;H;1
+2020;20/02/2021;Sao Paulo;Palmeiras;1;1;D;0
+2020;20/02/2021;Coritiba;Ceara;0;2;A;-2
+2020;21/02/2021;Fortaleza;Bahia;0;4;A;-4
+2020;21/02/2021;Corinthians;Vasco;0;0;D;0
+2020;21/02/2021;Flamengo;Internacional;2;1;H;1
+2020;21/02/2021;Sport;Atletico MG;2;3;A;-1
+2020;21/02/2021;Gremio;Athletico PR;1;0;H;1
+2020;21/02/2021;Santos;Fluminense;1;1;D;0
+2020;21/02/2021;Goias;Bragantino;0;0;D;0
+2020;22/02/2021;Palmeiras;Atletico GO;1;1;D;0
+2020;22/02/2021;Botafogo;Sao Paulo;1;0;H;1
+2020;26/02/2021;Athletico PR;Sport;2;0;H;2
+2020;26/02/2021;Atletico GO;Coritiba;3;1;H;2
+2020;26/02/2021;Atletico MG;Palmeiras;2;0;H;2
+2020;26/02/2021;Bahia;Santos;2;0;H;2
+2020;26/02/2021;Bragantino;Gremio;1;0;H;1
+2020;26/02/2021;Ceara;Botafogo;2;1;H;1
+2020;26/02/2021;Fluminense;Fortaleza;2;0;H;2
+2020;26/02/2021;Internacional;Corinthians;0;0;D;0
+2020;26/02/2021;Sao Paulo;Flamengo;2;1;H;1
+2020;26/02/2021;Vasco;Goias;3;2;H;1
+2021;29/05/2021;Cuiaba;Juventude;2;2;D;0
+2021;30/05/2021;Bahia;Santos;3;0;H;3
+2021;30/05/2021;Sao Paulo;Fluminense;0;0;D;0
+2021;30/05/2021;Atletico MG;Fortaleza;1;2;A;-1
+2021;30/05/2021;Ceara;Gremio;3;2;H;1
+2021;30/05/2021;Flamengo;Palmeiras;1;0;H;1
+2021;30/05/2021;Athletico PR;America MG;1;0;H;1
+2021;30/05/2021;Chapecoense;Bragantino;0;3;A;-3
+2021;30/05/2021;Corinthians;Atletico GO;0;1;A;-1
+2021;31/05/2021;Internacional;Sport;2;2;D;0
+2021;05/06/2021;Atletico GO;Sao Paulo;2;0;H;2
+2021;06/06/2021;Bragantino;Bahia;3;3;D;0
+2021;06/06/2021;Santos;Ceara;3;1;H;2
+2021;06/06/2021;Fluminense;Cuiaba;1;0;H;1
+2021;06/06/2021;America MG;Corinthians;0;1;A;-1
+2021;06/06/2021;Fortaleza;Internacional;5;1;H;4
+2021;06/06/2021;Juventude;Athletico PR;0;3;A;-3
+2021;06/06/2021;Palmeiras;Chapecoense;3;1;H;2
+2021;07/06/2021;Sport;Atletico MG;0;1;A;-1
+2021;12/06/2021;Palmeiras;Corinthians;1;1;D;0
+2021;12/06/2021;Santos;Juventude;0;0;D;0
+2021;13/06/2021;Atletico MG;Sao Paulo;1;0;H;1
+2021;13/06/2021;Flamengo;America MG;2;0;H;2
+2021;13/06/2021;Gremio;Athletico PR;0;1;A;-1
+2021;14/06/2021;Bahia;Internacional;0;1;A;-1
+2021;14/06/2021;Bragantino;Fluminense;2;2;D;0
+2021;14/06/2021;Chapecoense;Ceara;0;0;D;0
+2021;14/06/2021;Fortaleza;Sport;1;0;H;1
+2021;16/06/2021;Internacional;Atletico MG;0;1;A;-1
+2021;16/06/2021;Sao Paulo;Chapecoense;1;1;D;0
+2021;17/06/2021;Corinthians;Bragantino;1;2;A;-1
+2021;17/06/2021;Juventude;Palmeiras;0;3;A;-3
+2021;17/06/2021;America MG;Cuiaba;0;0;D;0
+2021;17/06/2021;Ceara;Bahia;1;2;A;-1
+2021;17/06/2021;Atletico GO;Fortaleza;0;0;D;0
+2021;17/06/2021;Fluminense;Santos;1;0;H;1
+2021;17/06/2021;Sport;Gremio;1;0;H;1
+2021;20/06/2021;Flamengo;Bragantino;2;3;A;-1
+2021;20/06/2021;Palmeiras;America MG;2;1;H;1
+2021;20/06/2021;Bahia;Corinthians;0;0;D;0
+2021;20/06/2021;Internacional;Ceara;1;1;D;0
+2021;20/06/2021;Athletico PR;Atletico GO;2;1;H;1
+2021;20/06/2021;Fortaleza;Fluminense;1;1;D;0
+2021;20/06/2021;Santos;Sao Paulo;2;0;H;2
+2021;21/06/2021;Juventude;Sport;1;0;H;1
+2021;22/06/2021;Atletico MG;Chapecoense;1;1;D;0
+2021;23/06/2021;Atletico GO;Fluminense;1;0;H;1
+2021;23/06/2021;Bragantino;Palmeiras;3;1;H;2
+2021;23/06/2021;Flamengo;Fortaleza;2;1;H;1
+2021;23/06/2021;Sao Paulo;Cuiaba;2;2;D;0
+2021;24/06/2021;America MG;Juventude;1;1;D;0
+2021;24/06/2021;Ceara;Atletico MG;2;1;H;1
+2021;24/06/2021;Chapecoense;Internacional;1;2;A;-1
+2021;24/06/2021;Corinthians;Sport;2;1;H;1
+2021;25/06/2021;Bahia;Athletico PR;2;1;H;1
+2021;25/06/2021;Gremio;Santos;2;2;D;0
+2021;27/06/2021;Juventude;Flamengo;1;0;H;1
+2021;27/06/2021;Fluminense;Corinthians;1;1;D;0
+2021;28/06/2021;Athletico PR;Chapecoense;2;2;D;0
+2021;28/06/2021;Gremio;Fortaleza;0;0;D;0
+2021;28/06/2021;Palmeiras;Bahia;3;2;H;1
+2021;28/06/2021;America MG;Internacional;1;1;D;0
+2021;28/06/2021;Ceara;Sao Paulo;1;1;D;0
+2021;28/06/2021;Santos;Atletico MG;2;0;H;2
+2021;28/06/2021;Sport;Cuiaba;0;0;D;0
+2021;29/06/2021;Atletico GO;Bragantino;0;1;A;-1
+2021;30/06/2021;Fluminense;Athletico PR;1;4;A;-3
+2021;30/06/2021;Fortaleza;Chapecoense;3;2;H;1
+2021;30/06/2021;Bahia;America MG;3;4;A;-1
+2021;30/06/2021;Internacional;Palmeiras;1;2;A;-1
+2021;01/07/2021;Santos;Sport;0;0;D;0
+2021;01/07/2021;Corinthians;Sao Paulo;0;0;D;0
+2021;01/07/2021;Juventude;Gremio;2;0;H;2
+2021;01/07/2021;Bragantino;Ceara;0;0;D;0
+2021;01/07/2021;Atletico MG;Atletico GO;4;1;H;3
+2021;02/07/2021;Cuiaba;Flamengo;0;2;A;-2
+2021;03/07/2021;America MG;Santos;2;0;H;2
+2021;03/07/2021;Athletico PR;Fortaleza;2;1;H;1
+2021;04/07/2021;Corinthians;Internacional;1;1;D;0
+2021;04/07/2021;Chapecoense;Bahia;0;2;A;-2
+2021;04/07/2021;Flamengo;Fluminense;0;1;A;-1
+2021;04/07/2021;Sport;Palmeiras;0;1;A;-1
+2021;04/07/2021;Ceara;Juventude;2;0;H;2
+2021;04/07/2021;Cuiaba;Atletico MG;0;1;A;-1
+2021;04/07/2021;Sao Paulo;Bragantino;1;2;A;-1
+2021;05/07/2021;Gremio;Atletico GO;0;1;A;-1
+2021;06/07/2021;Santos;Athletico PR;2;1;H;1
+2021;07/07/2021;Bahia;Juventude;1;0;H;1
+2021;07/07/2021;Bragantino;Cuiaba;1;1;D;0
+2021;07/07/2021;Fortaleza;America MG;4;0;H;4
+2021;07/07/2021;Atletico MG;Flamengo;2;1;H;1
+2021;07/07/2021;Palmeiras;Gremio;2;0;H;2
+2021;07/07/2021;Atletico GO;Sport;1;1;D;0
+2021;08/07/2021;Fluminense;Ceara;0;0;D;0
+2021;08/07/2021;Internacional;Sao Paulo;0;2;A;-2
+2021;09/07/2021;Chapecoense;Corinthians;0;1;A;-1
+2021;10/07/2021;Gremio;Internacional;0;0;D;0
+2021;10/07/2021;Palmeiras;Santos;3;2;H;1
+2021;10/07/2021;Athletico PR;Bragantino;2;2;D;0
+2021;10/07/2021;America MG;Atletico MG;0;1;A;-1
+2021;10/07/2021;Sao Paulo;Bahia;1;0;H;1
+2021;10/07/2021;Sport;Fluminense;1;2;A;-1
+2021;11/07/2021;Juventude;Atletico GO;1;1;D;0
+2021;11/07/2021;Cuiaba;Ceara;2;2;D;0
+2021;11/07/2021;Flamengo;Chapecoense;2;1;H;1
+2021;12/07/2021;Fortaleza;Corinthians;1;0;H;1
+2021;17/07/2021;Ceara;Athletico PR;1;0;H;1
+2021;17/07/2021;Sao Paulo;Fortaleza;0;1;A;-1
+2021;17/07/2021;Corinthians;Atletico MG;1;2;A;-1
+2021;18/07/2021;Fluminense;Gremio;0;1;A;-1
+2021;18/07/2021;Chapecoense;Cuiaba;2;3;A;-1
+2021;18/07/2021;Atletico GO;Palmeiras;0;3;A;-3
+2021;18/07/2021;Bahia;Flamengo;0;5;A;-5
+2021;19/07/2021;Bragantino;Santos;2;2;D;0
+2021;19/07/2021;Internacional;Juventude;1;0;H;1
+2021;20/07/2021;America MG;Sport;0;1;A;-1
+2021;21/07/2021;Cuiaba;Atletico GO;2;1;H;1
+2021;24/07/2021;Gremio;America MG;1;1;D;0
+2021;24/07/2021;Palmeiras;Fluminense;1;0;H;1
+2021;25/07/2021;Atletico MG;Bahia;3;0;H;3
+2021;25/07/2021;Flamengo;Sao Paulo;5;1;H;4
+2021;25/07/2021;Fortaleza;Bragantino;1;0;H;1
+2021;25/07/2021;Athletico PR;Internacional;2;1;H;1
+2021;25/07/2021;Santos;Atletico GO;0;1;A;-1
+2021;26/07/2021;Sport;Ceara;0;0;D;0
+2021;26/07/2021;Juventude;Chapecoense;1;0;H;1
+2021;27/07/2021;Cuiaba;Corinthians;1;2;A;-1
+2021;31/07/2021;Sao Paulo;Palmeiras;0;0;D;0
+2021;01/08/2021;Internacional;Cuiaba;0;0;D;0
+2021;01/08/2021;Bragantino;Gremio;1;0;H;1
+2021;01/08/2021;Atletico MG;Athletico PR;2;0;H;2
+2021;01/08/2021;Corinthians;Flamengo;1;3;A;-2
+2021;01/08/2021;Bahia;Sport;0;1;A;-1
+2021;01/08/2021;Chapecoense;Santos;0;1;A;-1
+2021;02/08/2021;Atletico GO;America MG;1;1;D;0
+2021;02/08/2021;Ceara;Fortaleza;3;1;H;2
+2021;06/08/2021;Sport;Bragantino;0;0;D;0
+2021;07/08/2021;Athletico PR;Sao Paulo;1;2;A;-1
+2021;08/08/2021;Cuiaba;Bahia;1;1;D;0
+2021;08/08/2021;Palmeiras;Fortaleza;2;3;A;-1
+2021;08/08/2021;America MG;Fluminense;1;0;H;1
+2021;08/08/2021;Juventude;Atletico MG;1;2;A;-1
+2021;08/08/2021;Santos;Corinthians;0;0;D;0
+2021;08/08/2021;Ceara;Atletico GO;0;0;D;0
+2021;08/08/2021;Flamengo;Internacional;0;4;A;-4
+2021;10/08/2021;Gremio;Chapecoense;2;1;H;1
+2021;14/08/2021;Bragantino;Juventude;1;2;A;-1
+2021;14/08/2021;Atletico MG;Palmeiras;2;0;H;2
+2021;15/08/2021;Sao Paulo;Gremio;2;1;H;1
+2021;15/08/2021;Corinthians;Ceara;3;1;H;2
+2021;15/08/2021;Flamengo;Sport;2;0;H;2
+2021;15/08/2021;Bahia;Atletico GO;1;2;A;-1
+2021;15/08/2021;Cuiaba;Athletico PR;1;0;H;1
+2021;15/08/2021;Fortaleza;Santos;1;1;D;0
+2021;16/08/2021;Internacional;Fluminense;4;2;H;2
+2021;17/08/2021;Chapecoense;America MG;1;1;D;0
+2021;18/08/2021;Cuiaba;Gremio;0;1;A;-1
+2021;21/08/2021;Atletico GO;Chapecoense;1;1;D;0
+2021;21/08/2021;Gremio;Bahia;2;0;H;2
+2021;22/08/2021;Juventude;Fortaleza;1;1;D;0
+2021;22/08/2021;Palmeiras;Cuiaba;0;2;A;-2
+2021;22/08/2021;Athletico PR;Corinthians;0;1;A;-1
+2021;22/08/2021;Ceara;Flamengo;1;1;D;0
+2021;22/08/2021;Santos;Internacional;2;2;D;0
+2021;23/08/2021;Sport;Sao Paulo;0;1;A;-1
+2021;24/08/2021;America MG;Bragantino;0;2;A;-2
+2021;24/08/2021;Fluminense;Atletico MG;1;1;D;0
+2021;28/08/2021;Sport;Chapecoense;0;0;D;0
+2021;28/08/2021;Santos;Flamengo;0;4;A;-4
+2021;29/08/2021;Gremio;Corinthians;0;1;A;-1
+2021;29/08/2021;Palmeiras;Athletico PR;2;1;H;1
+2021;29/08/2021;America MG;Ceara;2;0;H;2
+2021;29/08/2021;Juventude;Sao Paulo;1;1;D;0
+2021;29/08/2021;Atletico GO;Internacional;0;0;D;0
+2021;30/08/2021;Bragantino;Atletico MG;1;1;D;0
+2021;30/08/2021;Fluminense;Bahia;2;0;H;2
+2021;31/08/2021;Fortaleza;Cuiaba;0;0;D;0
+2021;02/09/2021;Fluminense;Juventude;1;1;D;0
+2021;05/09/2021;Bahia;Fortaleza;4;2;H;2
+2021;05/09/2021;Cuiaba;Santos;2;1;H;1
+2021;05/09/2021;Athletico PR;Sport;0;0;D;0
+2021;08/09/2021;Chapecoense;Fluminense;1;2;A;-1
+2021;08/09/2021;Corinthians;Juventude;1;1;D;0
+2021;11/09/2021;America MG;Athletico PR;2;0;H;2
+2021;11/09/2021;Juventude;Cuiaba;1;2;A;-1
+2021;11/09/2021;Bragantino;Chapecoense;1;2;A;-1
+2021;12/09/2021;Santos;Bahia;0;0;D;0
+2021;12/09/2021;Gremio;Ceara;2;0;H;2
+2021;12/09/2021;Fortaleza;Atletico MG;0;2;A;-2
+2021;12/09/2021;Palmeiras;Flamengo;1;3;A;-2
+2021;12/09/2021;Atletico GO;Corinthians;1;1;D;0
+2021;13/09/2021;Fluminense;Sao Paulo;2;1;H;1
+2021;14/09/2021;Sport;Internacional;0;1;A;-1
+2021;18/09/2021;Chapecoense;Palmeiras;0;2;A;-2
+2021;18/09/2021;Athletico PR;Juventude;2;1;H;1
+2021;18/09/2021;Atletico MG;Sport;3;0;H;3
+2021;19/09/2021;Bahia;Bragantino;1;1;D;0
+2021;19/09/2021;Ceara;Santos;0;0;D;0
+2021;19/09/2021;Internacional;Fortaleza;1;0;H;1
+2021;19/09/2021;Sao Paulo;Atletico GO;2;1;H;1
+2021;19/09/2021;Corinthians;America MG;1;1;D;0
+2021;20/09/2021;Flamengo;Gremio;0;1;A;-1
+2021;21/09/2021;Cuiaba;Fluminense;2;2;D;0
+2021;23/09/2021;Sao Paulo;America MG;0;0;D;0
+2021;25/09/2021;Ceara;Chapecoense;1;0;H;1
+2021;25/09/2021;Corinthians;Palmeiras;2;1;H;1
+2021;26/09/2021;Sao Paulo;Atletico MG;0;0;D;0
+2021;26/09/2021;America MG;Flamengo;1;1;D;0
+2021;26/09/2021;Fluminense;Bragantino;2;1;H;1
+2021;26/09/2021;Internacional;Bahia;2;0;H;2
+2021;26/09/2021;Juventude;Santos;3;0;H;3
+2021;26/09/2021;Athletico PR;Gremio;4;2;H;2
+2021;26/09/2021;Sport;Fortaleza;0;1;A;-1
+2021;27/09/2021;Atletico GO;Cuiaba;0;0;D;0
+2021;02/10/2021;Cuiaba;America MG;0;2;A;-2
+2021;02/10/2021;Fortaleza;Atletico GO;0;3;A;-3
+2021;02/10/2021;Bragantino;Corinthians;2;2;D;0
+2021;03/10/2021;Atletico MG;Internacional;1;0;H;1
+2021;03/10/2021;Chapecoense;Sao Paulo;1;1;D;0
+2021;03/10/2021;Flamengo;Athletico PR;3;0;H;3
+2021;03/10/2021;Palmeiras;Juventude;1;1;D;0
+2021;04/10/2021;Gremio;Sport;1;2;A;-1
+2021;06/10/2021;Corinthians;Bahia;3;1;H;2
+2021;06/10/2021;Atletico GO;Athletico PR;0;2;A;-2
+2021;06/10/2021;Ceara;Internacional;0;0;D;0
+2021;06/10/2021;Chapecoense;Atletico MG;2;2;D;0
+2021;06/10/2021;Sport;Juventude;3;1;H;2
+2021;07/10/2021;Bragantino;Flamengo;1;1;D;0
+2021;07/10/2021;America MG;Palmeiras;2;1;H;1
+2021;07/10/2021;Fluminense;Fortaleza;0;2;A;-2
+2021;07/10/2021;Gremio;Cuiaba;2;2;D;0
+2021;07/10/2021;Sao Paulo;Santos;1;1;D;0
+2021;09/10/2021;Atletico MG;Ceara;3;1;H;2
+2021;09/10/2021;Fluminense;Atletico GO;0;0;D;0
+2021;09/10/2021;Sport;Corinthians;1;0;H;1
+2021;09/10/2021;Athletico PR;Bahia;0;2;A;-2
+2021;09/10/2021;Fortaleza;Flamengo;0;3;A;-3
+2021;10/10/2021;Juventude;America MG;1;1;D;0
+2021;10/10/2021;Palmeiras;Bragantino;2;4;A;-2
+2021;10/10/2021;Internacional;Chapecoense;5;2;H;3
+2021;10/10/2021;Santos;Gremio;1;0;H;1
+2021;12/10/2021;Cuiaba;Sao Paulo;0;0;D;0
+2021;12/10/2021;Bragantino;Atletico GO;1;0;H;1
+2021;13/10/2021;Bahia;Palmeiras;0;0;D;0
+2021;13/10/2021;Atletico MG;Santos;3;1;H;2
+2021;13/10/2021;Chapecoense;Athletico PR;1;1;D;0
+2021;13/10/2021;Flamengo;Juventude;3;1;H;2
+2021;14/10/2021;Fortaleza;Gremio;1;0;H;1
+2021;14/10/2021;Corinthians;Fluminense;1;0;H;1
+2021;14/10/2021;Internacional;America MG;3;1;H;2
+2021;14/10/2021;Cuiaba;Sport;1;0;H;1
+2021;14/10/2021;Sao Paulo;Ceara;1;1;D;0
+2021;16/10/2021;Chapecoense;Fortaleza;1;2;A;-1
+2021;17/10/2021;America MG;Bahia;0;0;D;0
+2021;17/10/2021;Athletico PR;Fluminense;0;1;A;-1
+2021;17/10/2021;Palmeiras;Internacional;1;0;H;1
+2021;17/10/2021;Atletico GO;Atletico MG;2;1;H;1
+2021;17/10/2021;Ceara;Bragantino;2;2;D;0
+2021;17/10/2021;Gremio;Juventude;3;2;H;1
+2021;18/10/2021;Flamengo;Cuiaba;0;0;D;0
+2021;18/10/2021;Sport;Santos;0;0;D;0
+2021;19/10/2021;Sao Paulo;Corinthians;1;0;H;1
+2021;20/10/2021;Ceara;Palmeiras;1;2;A;-1
+2021;22/10/2021;Internacional;Bragantino;1;1;D;0
+2021;23/10/2021;Juventude;Ceara;0;0;D;0
+2021;23/10/2021;Santos;America MG;0;2;A;-2
+2021;23/10/2021;Fluminense;Flamengo;3;1;H;2
+2021;23/10/2021;Fortaleza;Athletico PR;3;0;H;3
+2021;24/10/2021;Atletico MG;Cuiaba;2;1;H;1
+2021;24/10/2021;Internacional;Corinthians;2;2;D;0
+2021;24/10/2021;Bragantino;Sao Paulo;1;0;H;1
+2021;25/10/2021;Bahia;Chapecoense;3;0;H;3
+2021;26/10/2021;Atletico GO;Gremio;2;0;H;2
+2021;26/10/2021;Palmeiras;Sport;2;1;H;1
+2021;27/10/2021;Bahia;Ceara;1;1;D;0
+2021;27/10/2021;Santos;Fluminense;2;0;H;2
+2021;28/10/2021;Bragantino;Sport;3;0;H;3
+2021;30/10/2021;Athletico PR;Santos;0;1;A;-1
+2021;30/10/2021;Flamengo;Atletico MG;1;0;H;1
+2021;30/10/2021;Juventude;Bahia;0;0;D;0
+2021;31/10/2021;America MG;Fortaleza;2;1;H;1
+2021;31/10/2021;Ceara;Fluminense;1;0;H;1
+2021;31/10/2021;Gremio;Palmeiras;1;3;A;-2
+2021;31/10/2021;Sao Paulo;Internacional;1;0;H;1
+2021;31/10/2021;Sport;Atletico GO;2;0;H;2
+2021;01/11/2021;Cuiaba;Bragantino;1;0;H;1
+2021;02/11/2021;Corinthians;Chapecoense;1;0;H;1
+2021;02/11/2021;Athletico PR;Flamengo;2;2;D;0
+2021;04/11/2021;Atletico MG;Gremio;2;1;H;1
+2021;05/11/2021;Cuiaba;Chapecoense;0;0;D;0
+2021;06/11/2021;Flamengo;Atletico GO;2;0;H;2
+2021;06/11/2021;Corinthians;Fortaleza;1;0;H;1
+2021;06/11/2021;Internacional;Gremio;1;0;H;1
+2021;07/11/2021;Fluminense;Sport;1;0;H;1
+2021;07/11/2021;Atletico MG;America MG;1;0;H;1
+2021;07/11/2021;Bragantino;Athletico PR;0;2;A;-2
+2021;07/11/2021;Santos;Palmeiras;0;2;A;-2
+2021;07/11/2021;Bahia;Sao Paulo;1;0;H;1
+2021;07/11/2021;Ceara;Cuiaba;1;0;H;1
+2021;08/11/2021;Chapecoense;Flamengo;2;2;D;0
+2021;10/11/2021;Gremio;Fluminense;1;0;H;1
+2021;10/11/2021;Athletico PR;Ceara;2;1;H;1
+2021;10/11/2021;Atletico MG;Corinthians;3;0;H;3
+2021;10/11/2021;Santos;Bragantino;2;0;H;2
+2021;10/11/2021;Palmeiras;Atletico GO;4;0;H;4
+2021;11/11/2021;Fortaleza;Sao Paulo;1;1;D;0
+2021;11/11/2021;Juventude;Internacional;2;1;H;1
+2021;11/11/2021;Sport;America MG;2;3;A;-1
+2021;11/11/2021;Flamengo;Bahia;3;0;H;3
+2021;13/11/2021;Atletico GO;Santos;0;0;D;0
+2021;13/11/2021;America MG;Gremio;3;1;H;2
+2021;13/11/2021;Bragantino;Fortaleza;3;0;H;3
+2021;13/11/2021;Internacional;Athletico PR;2;1;H;1
+2021;14/11/2021;Corinthians;Cuiaba;3;2;H;1
+2021;14/11/2021;Sao Paulo;Flamengo;0;4;A;-4
+2021;14/11/2021;Fluminense;Palmeiras;2;1;H;1
+2021;14/11/2021;Ceara;Sport;2;1;H;1
+2021;14/11/2021;Chapecoense;Juventude;0;2;A;-2
+2021;16/11/2021;Athletico PR;Atletico MG;0;1;A;-1
+2021;16/11/2021;Gremio;Bragantino;3;0;H;3
+2021;17/11/2021;America MG;Atletico GO;0;0;D;0
+2021;17/11/2021;Cuiaba;Internacional;1;0;H;1
+2021;17/11/2021;Santos;Chapecoense;2;0;H;2
+2021;17/11/2021;Fortaleza;Ceara;0;4;A;-4
+2021;17/11/2021;Juventude;Fluminense;1;0;H;1
+2021;17/11/2021;Palmeiras;Sao Paulo;0;2;A;-2
+2021;18/11/2021;Flamengo;Corinthians;1;0;H;1
+2021;19/11/2021;Sport;Bahia;1;0;H;1
+2021;20/11/2021;Atletico MG;Juventude;2;0;H;2
+2021;20/11/2021;Chapecoense;Gremio;1;3;A;-2
+2021;20/11/2021;Fortaleza;Palmeiras;1;0;H;1
+2021;21/11/2021;Atletico GO;Ceara;1;1;D;0
+2021;21/11/2021;Internacional;Flamengo;1;2;A;-1
+2021;21/11/2021;Corinthians;Santos;2;0;H;2
+2021;21/11/2021;Fluminense;America MG;2;0;H;2
+2021;21/11/2021;Bahia;Cuiaba;0;0;D;0
+2021;23/11/2021;Atletico GO;Juventude;1;1;D;0
+2021;24/11/2021;Gremio;Flamengo;2;2;D;0
+2021;24/11/2021;Palmeiras;Atletico MG;2;2;D;0
+2021;25/11/2021;Fluminense;Internacional;1;0;H;1
+2021;25/11/2021;Sao Paulo;Athletico PR;0;0;D;0
+2021;25/11/2021;Santos;Fortaleza;2;0;H;2
+2021;25/11/2021;Ceara;Corinthians;2;1;H;1
+2021;26/11/2021;Bahia;Gremio;3;1;H;2
+2021;27/11/2021;Bragantino;America MG;1;1;D;0
+2021;28/11/2021;Sao Paulo;Sport;2;0;H;2
+2021;28/11/2021;Atletico MG;Fluminense;2;1;H;1
+2021;28/11/2021;Corinthians;Athletico PR;1;0;H;1
+2021;28/11/2021;Internacional;Santos;1;1;D;0
+2021;29/11/2021;Atletico GO;Bahia;2;1;H;1
+2021;30/11/2021;Juventude;Bragantino;1;0;H;1
+2021;30/11/2021;Flamengo;Ceara;2;1;H;1
+2021;01/12/2021;America MG;Chapecoense;3;0;H;3
+2021;01/12/2021;Cuiaba;Palmeiras;1;3;A;-2
+2021;02/12/2021;Bahia;Atletico MG;2;3;A;-1
+2021;02/12/2021;Gremio;Sao Paulo;3;0;H;3
+2021;03/12/2021;Athletico PR;Cuiaba;1;0;H;1
+2021;03/12/2021;Chapecoense;Atletico GO;0;1;A;-1
+2021;03/12/2021;Sport;Flamengo;1;1;D;0
+2021;04/12/2021;Fortaleza;Juventude;1;0;H;1
+2021;05/12/2021;Atletico MG;Bragantino;4;3;H;1
+2021;05/12/2021;Bahia;Fluminense;2;0;H;2
+2021;05/12/2021;Corinthians;Gremio;1;1;D;0
+2021;05/12/2021;Ceara;America MG;0;0;D;0
+2021;06/12/2021;Athletico PR;Palmeiras;0;0;D;0
+2021;06/12/2021;Sao Paulo;Juventude;3;1;H;2
+2021;06/12/2021;Cuiaba;Fortaleza;1;0;H;1
+2021;06/12/2021;Flamengo;Santos;0;1;A;-1
+2021;06/12/2021;Internacional;Atletico GO;1;2;A;-1
+2021;07/12/2021;Chapecoense;Sport;0;1;A;-1
+2021;10/12/2021;America MG;Sao Paulo;2;0;H;2
+2021;10/12/2021;Atletico GO;Flamengo;2;0;H;2
+2021;10/12/2021;Bragantino;Internacional;1;0;H;1
+2021;10/12/2021;Fluminense;Chapecoense;3;0;H;3
+2021;10/12/2021;Fortaleza;Bahia;2;1;H;1
+2021;10/12/2021;Gremio;Atletico MG;4;3;H;1
+2021;10/12/2021;Juventude;Corinthians;1;0;H;1
+2021;10/12/2021;Palmeiras;Ceara;1;0;H;1
+2021;10/12/2021;Santos;Cuiaba;1;1;D;0
+2021;10/12/2021;Sport;Athletico PR;1;1;D;0
+2022;09/04/2022;Fluminense;Santos;0;0;D;0
+2022;09/04/2022;Atletico GO;Flamengo RJ;1;1;D;0
+2022;10/04/2022;Palmeiras;Ceara;2;3;A;-1
+2022;10/04/2022;Coritiba;Goias;3;0;H;3
+2022;10/04/2022;Atletico-MG;Internacional;2;0;H;2
+2022;10/04/2022;Botafogo RJ;Corinthians;1;3;A;-2
+2022;10/04/2022;Fortaleza;Cuiaba;0;1;A;-1
+2022;10/04/2022;Avai;America MG;1;0;H;1
+2022;10/04/2022;Sao Paulo;Athletico-PR;4;0;H;4
+2022;12/04/2022;Juventude;Bragantino;2;2;D;0
+2022;16/04/2022;Goias;Palmeiras;1;1;D;0
+2022;16/04/2022;America MG;Juventude;4;1;H;3
+2022;16/04/2022;Corinthians;Avai;3;0;H;3
+2022;17/04/2022;Cuiaba;Fluminense;0;1;A;-1
+2022;17/04/2022;Santos;Coritiba;2;1;H;1
+2022;17/04/2022;Flamengo RJ;Sao Paulo;3;1;H;2
+2022;17/04/2022;Athletico-PR;Atletico-MG;0;1;A;-1
+2022;17/04/2022;Bragantino;Atletico GO;4;0;H;4
+2022;17/04/2022;Internacional;Fortaleza;2;1;H;1
+2022;17/04/2022;Ceara;Botafogo RJ;1;3;A;-2
+2022;20/04/2022;Flamengo RJ;Palmeiras;0;0;D;0
+2022;23/04/2022;Athletico-PR;Flamengo RJ;1;0;H;1
+2022;23/04/2022;Bragantino;Sao Paulo;1;1;D;0
+2022;23/04/2022;Fluminense;Internacional;0;1;A;-1
+2022;23/04/2022;Palmeiras;Corinthians;3;0;H;3
+2022;24/04/2022;Atletico-MG;Coritiba;2;2;D;0
+2022;24/04/2022;Santos;America MG;3;0;H;3
+2022;24/04/2022;Juventude;Cuiaba;0;1;A;-1
+2022;24/04/2022;Atletico GO;Botafogo RJ;1;1;D;0
+2022;26/04/2022;Avai;Goias;3;2;H;1
+2022;30/04/2022;America MG;Athletico-PR;1;0;H;1
+2022;30/04/2022;Ceara;Bragantino;0;1;A;-1
+2022;30/04/2022;Goias;Atletico-MG;2;2;D;0
+2022;30/04/2022;Cuiaba;Atletico GO;1;1;D;0
+2022;01/05/2022;Botafogo RJ;Juventude;1;1;D;0
+2022;01/05/2022;Corinthians;Fortaleza;1;0;H;1
+2022;01/05/2022;Coritiba;Fluminense;3;2;H;1
+2022;01/05/2022;Internacional;Avai;0;0;D;0
+2022;03/05/2022;Sao Paulo;Santos;2;1;H;1
+2022;07/05/2022;Atletico-MG;America MG;1;2;A;-1
+2022;08/05/2022;Athletico-PR;Ceara;1;0;H;1
+2022;08/05/2022;Flamengo RJ;Botafogo RJ;0;1;A;-1
+2022;08/05/2022;Atletico GO;Goias;0;1;A;-1
+2022;08/05/2022;Palmeiras;Fluminense;1;1;D;0
+2022;08/05/2022;Bragantino;Corinthians;0;1;A;-1
+2022;08/05/2022;Santos;Cuiaba;4;1;H;3
+2022;08/05/2022;Fortaleza;Sao Paulo;1;1;D;0
+2022;08/05/2022;Juventude;Internacional;1;1;D;0
+2022;10/05/2022;Avai;Coritiba;2;1;H;1
+2022;12/05/2022;Bragantino;Atletico-MG;1;1;D;0
+2022;14/05/2022;Ceara;Flamengo RJ;2;2;D;0
+2022;14/05/2022;Palmeiras;Bragantino;2;0;H;2
+2022;14/05/2022;Atletico-MG;Atletico GO;2;0;H;2
+2022;14/05/2022;Internacional;Corinthians;2;2;D;0
+2022;15/05/2022;Fluminense;Athletico-PR;2;1;H;1
+2022;15/05/2022;Sao Paulo;Cuiaba;2;1;H;1
+2022;15/05/2022;Coritiba;America MG;1;0;H;1
+2022;15/05/2022;Avai;Juventude;1;2;A;-1
+2022;15/05/2022;Botafogo RJ;Fortaleza;3;1;H;2
+2022;15/05/2022;Goias;Santos;1;0;H;1
+2022;21/05/2022;Atletico GO;Coritiba;2;0;H;2
+2022;21/05/2022;Flamengo RJ;Goias;1;0;H;1
+2022;21/05/2022;Santos;Ceara;0;0;D;0
+2022;21/05/2022;Juventude;Palmeiras;0;3;A;-3
+2022;22/05/2022;America MG;Botafogo RJ;1;1;D;0
+2022;22/05/2022;Cuiaba;Internacional;1;1;D;0
+2022;22/05/2022;Corinthians;Sao Paulo;1;1;D;0
+2022;22/05/2022;Fortaleza;Fluminense;0;1;A;-1
+2022;22/05/2022;Athletico-PR;Avai;2;1;H;1
+2022;28/05/2022;Goias;Bragantino;1;1;D;0
+2022;28/05/2022;Sao Paulo;Ceara;2;2;D;0
+2022;29/05/2022;Fortaleza;Juventude;1;1;D;0
+2022;29/05/2022;Coritiba;Botafogo RJ;1;0;H;1
+2022;29/05/2022;Santos;Palmeiras;0;1;A;-1
+2022;29/05/2022;Corinthians;America MG;1;1;D;0
+2022;29/05/2022;Cuiaba;Athletico-PR;0;1;A;-1
+2022;29/05/2022;Fluminense;Flamengo RJ;1;2;A;-1
+2022;29/05/2022;Atletico-MG;Avai;2;1;H;1
+2022;31/05/2022;Internacional;Atletico GO;1;1;D;0
+2022;02/06/2022;Fortaleza;Ceara;0;1;A;-1
+2022;04/06/2022;America MG;Cuiaba;2;1;H;1
+2022;04/06/2022;Athletico-PR;Santos;2;2;D;0
+2022;04/06/2022;Avai;Sao Paulo;1;1;D;0
+2022;04/06/2022;Ceara;Coritiba;1;1;D;0
+2022;05/06/2022;Atletico GO;Corinthians;0;1;A;-1
+2022;05/06/2022;Juventude;Fluminense;1;0;H;1
+2022;05/06/2022;Flamengo RJ;Fortaleza;1;2;A;-1
+2022;05/06/2022;Palmeiras;Atletico-MG;0;0;D;0
+2022;05/06/2022;Bragantino;Internacional;0;2;A;-2
+2022;07/06/2022;Botafogo RJ;Goias;1;2;A;-1
+2022;08/06/2022;Cuiaba;Corinthians;1;0;H;1
+2022;08/06/2022;America MG;Ceara;0;2;A;-2
+2022;08/06/2022;Juventude;Athletico-PR;1;3;A;-2
+2022;09/06/2022;Atletico GO;Avai;2;1;H;1
+2022;09/06/2022;Bragantino;Flamengo RJ;1;0;H;1
+2022;09/06/2022;Fluminense;Atletico-MG;5;3;H;2
+2022;09/06/2022;Santos;Internacional;1;1;D;0
+2022;09/06/2022;Palmeiras;Botafogo RJ;4;0;H;4
+2022;10/06/2022;Coritiba;Sao Paulo;1;1;D;0
+2022;10/06/2022;Fortaleza;Goias;1;1;D;0
+2022;11/06/2022;Corinthians;Juventude;2;0;H;2
+2022;11/06/2022;Atletico-MG;Santos;1;1;D;0
+2022;11/06/2022;Cuiaba;Bragantino;1;1;D;0
+2022;11/06/2022;Fluminense;Atletico GO;0;2;A;-2
+2022;12/06/2022;Internacional;Flamengo RJ;3;1;H;2
+2022;12/06/2022;Goias;Ceara;1;1;D;0
+2022;12/06/2022;Sao Paulo;America MG;1;0;H;1
+2022;12/06/2022;Coritiba;Palmeiras;0;2;A;-2
+2022;12/06/2022;Fortaleza;Athletico-PR;0;0;D;0
+2022;13/06/2022;Botafogo RJ;Avai;0;1;A;-1
+2022;15/06/2022;Juventude;Santos;1;2;A;-1
+2022;15/06/2022;Bragantino;Coritiba;4;2;H;2
+2022;15/06/2022;Ceara;Atletico-MG;0;0;D;0
+2022;16/06/2022;Flamengo RJ;Cuiaba;2;0;H;2
+2022;16/06/2022;Goias;Internacional;1;2;A;-1
+2022;16/06/2022;America MG;Fluminense;0;0;D;0
+2022;16/06/2022;Athletico-PR;Corinthians;1;1;D;0
+2022;16/06/2022;Botafogo RJ;Sao Paulo;1;0;H;1
+2022;16/06/2022;Palmeiras;Atletico GO;4;2;H;2
+2022;16/06/2022;Avai;Fortaleza;3;2;H;1
+2022;18/06/2022;Cuiaba;Ceara;0;0;D;0
+2022;19/06/2022;Santos;Bragantino;2;2;D;0
+2022;19/06/2022;Atletico-MG;Flamengo RJ;2;0;H;2
+2022;19/06/2022;Corinthians;Goias;1;0;H;1
+2022;19/06/2022;Coritiba;Athletico-PR;0;1;A;-1
+2022;19/06/2022;Atletico GO;Juventude;3;1;H;2
+2022;19/06/2022;Fortaleza;America MG;1;0;H;1
+2022;19/06/2022;Internacional;Botafogo RJ;2;3;A;-1
+2022;19/06/2022;Fluminense;Avai;2;0;H;2
+2022;21/06/2022;Sao Paulo;Palmeiras;1;2;A;-1
+2022;25/06/2022;Internacional;Coritiba;3;0;H;3
+2022;25/06/2022;Athletico-PR;Bragantino;4;2;H;2
+2022;25/06/2022;Corinthians;Santos;0;0;D;0
+2022;25/06/2022;Flamengo RJ;America MG;3;0;H;3
+2022;26/06/2022;Atletico-MG;Fortaleza;3;2;H;1
+2022;26/06/2022;Avai;Palmeiras;2;2;D;0
+2022;26/06/2022;Botafogo RJ;Fluminense;0;1;A;-1
+2022;26/06/2022;Ceara;Atletico GO;1;1;D;0
+2022;26/06/2022;Goias;Cuiaba;1;0;H;1
+2022;26/06/2022;Sao Paulo;Juventude;0;0;D;0
+2022;02/07/2022;Fluminense;Corinthians;4;0;H;4
+2022;02/07/2022;Juventude;Atletico-MG;1;2;A;-1
+2022;02/07/2022;Ceara;Internacional;1;1;D;0
+2022;02/07/2022;Santos;Flamengo RJ;1;2;A;-1
+2022;03/07/2022;Palmeiras;Athletico-PR;0;2;A;-2
+2022;03/07/2022;Avai;Cuiaba;1;2;A;-1
+2022;03/07/2022;Atletico GO;Sao Paulo;1;2;A;-1
+2022;03/07/2022;America MG;Goias;1;0;H;1
+2022;03/07/2022;Coritiba;Fortaleza;2;1;H;1
+2022;05/07/2022;Bragantino;Botafogo RJ;0;1;A;-1
+2022;09/07/2022;Bragantino;Avai;4;0;H;4
+2022;09/07/2022;Fluminense;Ceara;2;1;H;1
+2022;10/07/2022;Goias;Athletico-PR;2;1;H;1
+2022;10/07/2022;Coritiba;Juventude;2;2;D;0
+2022;10/07/2022;Corinthians;Flamengo RJ;1;0;H;1
+2022;10/07/2022;Atletico-MG;Sao Paulo;0;0;D;0
+2022;10/07/2022;Fortaleza;Palmeiras;0;0;D;0
+2022;10/07/2022;Santos;Atletico GO;1;0;H;1
+2022;10/07/2022;Cuiaba;Botafogo RJ;2;0;H;2
+2022;12/07/2022;Internacional;America MG;1;0;H;1
+2022;16/07/2022;Athletico-PR;Internacional;0;0;D;0
+2022;16/07/2022;Avai;Santos;1;0;H;1
+2022;16/07/2022;Flamengo RJ;Coritiba;2;0;H;2
+2022;17/07/2022;Ceara;Corinthians;3;1;H;2
+2022;17/07/2022;Juventude;Goias;0;0;D;0
+2022;17/07/2022;Sao Paulo;Fluminense;2;2;D;0
+2022;17/07/2022;Atletico GO;Fortaleza;0;1;A;-1
+2022;17/07/2022;Botafogo RJ;Atletico-MG;0;1;A;-1
+2022;17/07/2022;America MG;Bragantino;0;3;A;-3
+2022;19/07/2022;Palmeiras;Cuiaba;1;0;H;1
+2022;20/07/2022;Ceara;Avai;1;0;H;1
+2022;20/07/2022;Bragantino;Fortaleza;2;1;H;1
+2022;20/07/2022;Goias;Fluminense;2;3;A;-1
+2022;20/07/2022;Athletico-PR;Atletico GO;4;1;H;3
+2022;21/07/2022;Flamengo RJ;Juventude;4;0;H;4
+2022;21/07/2022;Internacional;Sao Paulo;3;3;D;0
+2022;21/07/2022;Corinthians;Coritiba;3;1;H;2
+2022;21/07/2022;Santos;Botafogo RJ;2;0;H;2
+2022;21/07/2022;Cuiaba;Atletico-MG;1;1;D;0
+2022;22/07/2022;America MG;Palmeiras;0;1;A;-1
+2022;23/07/2022;Sao Paulo;Goias;3;3;D;0
+2022;24/07/2022;Botafogo RJ;Athletico-PR;2;0;H;2
+2022;24/07/2022;Avai;Flamengo RJ;1;2;A;-1
+2022;24/07/2022;Fluminense;Bragantino;2;1;H;1
+2022;24/07/2022;Juventude;Ceara;1;0;H;1
+2022;24/07/2022;Palmeiras;Internacional;2;1;H;1
+2022;24/07/2022;Atletico GO;America MG;0;1;A;-1
+2022;24/07/2022;Atletico-MG;Corinthians;1;2;A;-1
+2022;24/07/2022;Fortaleza;Santos;0;0;D;0
+2022;26/07/2022;Coritiba;Cuiaba;1;0;H;1
+2022;30/07/2022;Ceara;Palmeiras;1;2;A;-1
+2022;30/07/2022;Goias;Coritiba;1;0;H;1
+2022;30/07/2022;Corinthians;Botafogo RJ;1;0;H;1
+2022;31/07/2022;Flamengo RJ;Atletico GO;4;1;H;3
+2022;31/07/2022;Athletico-PR;Sao Paulo;1;0;H;1
+2022;31/07/2022;Internacional;Atletico-MG;3;0;H;3
+2022;31/07/2022;America MG;Avai;3;1;H;2
+2022;31/07/2022;Cuiaba;Fortaleza;0;1;A;-1
+2022;31/07/2022;Bragantino;Juventude;1;0;H;1
+2022;02/08/2022;Santos;Fluminense;2;2;D;0
+2022;06/08/2022;Botafogo RJ;Ceara;1;1;D;0
+2022;06/08/2022;Juventude;America MG;0;1;A;-1
+2022;06/08/2022;Atletico GO;Bragantino;2;1;H;1
+2022;06/08/2022;Avai;Corinthians;1;1;D;0
+2022;07/08/2022;Sao Paulo;Flamengo RJ;0;2;A;-2
+2022;07/08/2022;Fluminense;Cuiaba;1;0;H;1
+2022;07/08/2022;Palmeiras;Goias;3;0;H;3
+2022;07/08/2022;Fortaleza;Internacional;3;0;H;3
+2022;07/08/2022;Atletico-MG;Athletico-PR;2;3;A;-1
+2022;09/08/2022;Coritiba;Santos;1;2;A;-1
+2022;13/08/2022;Goias;Avai;1;1;D;0
+2022;13/08/2022;Corinthians;Palmeiras;0;1;A;-1
+2022;14/08/2022;Cuiaba;Juventude;1;0;H;1
+2022;14/08/2022;Botafogo RJ;Atletico GO;0;0;D;0
+2022;14/08/2022;Coritiba;Atletico-MG;0;1;A;-1
+2022;14/08/2022;Ceara;Fortaleza;0;1;A;-1
+2022;14/08/2022;Flamengo RJ;Athletico-PR;5;0;H;5
+2022;14/08/2022;Sao Paulo;Bragantino;3;0;H;3
+2022;14/08/2022;America MG;Santos;1;0;H;1
+2022;14/08/2022;Internacional;Fluminense;3;0;H;3
+2022;20/08/2022;Atletico-MG;Goias;0;1;A;-1
+2022;20/08/2022;Fluminense;Coritiba;5;2;H;3
+2022;21/08/2022;Juventude;Botafogo RJ;2;2;D;0
+2022;21/08/2022;Palmeiras;Flamengo RJ;1;1;D;0
+2022;21/08/2022;Athletico-PR;America MG;1;1;D;0
+2022;21/08/2022;Atletico GO;Cuiaba;1;1;D;0
+2022;21/08/2022;Bragantino;Ceara;1;1;D;0
+2022;21/08/2022;Fortaleza;Corinthians;1;0;H;1
+2022;21/08/2022;Santos;Sao Paulo;1;0;H;1
+2022;23/08/2022;Avai;Internacional;0;1;A;-1
+2022;27/08/2022;Coritiba;Avai;1;0;H;1
+2022;27/08/2022;Goias;Atletico GO;2;1;H;1
+2022;27/08/2022;Fluminense;Palmeiras;1;1;D;0
+2022;28/08/2022;Ceara;Athletico-PR;0;0;D;0
+2022;28/08/2022;America MG;Atletico-MG;1;1;D;0
+2022;28/08/2022;Sao Paulo;Fortaleza;0;1;A;-1
+2022;28/08/2022;Botafogo RJ;Flamengo RJ;0;1;A;-1
+2022;28/08/2022;Cuiaba;Santos;0;0;D;0
+2022;30/08/2022;Internacional;Juventude;4;0;H;4
+2022;30/08/2022;Corinthians;Bragantino;1;0;H;1
+2022;03/09/2022;Juventude;Avai;1;1;D;0
+2022;03/09/2022;Athletico-PR;Fluminense;1;0;H;1
+2022;03/09/2022;Bragantino;Palmeiras;2;2;D;0
+2022;04/09/2022;America MG;Coritiba;2;0;H;2
+2022;04/09/2022;Flamengo RJ;Ceara;1;1;D;0
+2022;04/09/2022;Corinthians;Internacional;2;2;D;0
+2022;04/09/2022;Fortaleza;Botafogo RJ;1;3;A;-2
+2022;04/09/2022;Atletico GO;Atletico-MG;0;2;A;-2
+2022;04/09/2022;Cuiaba;Sao Paulo;1;1;D;0
+2022;06/09/2022;Santos;Goias;1;2;A;-1
+2022;07/09/2022;Atletico-MG;Bragantino;1;1;D;0
+2022;10/09/2022;Ceara;Santos;2;1;H;1
+2022;10/09/2022;Internacional;Cuiaba;1;0;H;1
+2022;10/09/2022;Fluminense;Fortaleza;2;1;H;1
+2022;11/09/2022;Palmeiras;Juventude;2;1;H;1
+2022;11/09/2022;Avai;Athletico-PR;1;1;D;0
+2022;11/09/2022;Botafogo RJ;America MG;0;0;D;0
+2022;11/09/2022;Coritiba;Atletico GO;2;0;H;2
+2022;11/09/2022;Sao Paulo;Corinthians;1;1;D;0
+2022;11/09/2022;Goias;Flamengo RJ;1;1;D;0
+2022;17/09/2022;Avai;Atletico-MG;1;0;H;1
+2022;17/09/2022;Botafogo RJ;Coritiba;2;0;H;2
+2022;18/09/2022;Bragantino;Goias;1;1;D;0
+2022;18/09/2022;Ceara;Sao Paulo;0;2;A;-2
+2022;18/09/2022;Flamengo RJ;Fluminense;1;2;A;-1
+2022;18/09/2022;America MG;Corinthians;1;0;H;1
+2022;18/09/2022;Juventude;Fortaleza;1;1;D;0
+2022;18/09/2022;Palmeiras;Santos;1;0;H;1
+2022;18/09/2022;Athletico-PR;Cuiaba;2;2;D;0
+2022;20/09/2022;Atletico GO;Internacional;1;2;A;-1
+2022;26/09/2022;Sao Paulo;Avai;4;0;H;4
+2022;28/09/2022;Santos;Athletico-PR;2;0;H;2
+2022;28/09/2022;Corinthians;Atletico GO;2;1;H;1
+2022;28/09/2022;Coritiba;Ceara;1;0;H;1
+2022;28/09/2022;Fluminense;Juventude;4;0;H;4
+2022;28/09/2022;Fortaleza;Flamengo RJ;3;2;H;1
+2022;29/09/2022;Cuiaba;America MG;2;1;H;1
+2022;29/09/2022;Atletico-MG;Palmeiras;0;1;A;-1
+2022;29/09/2022;Goias;Botafogo RJ;0;1;A;-1
+2022;29/09/2022;Internacional;Bragantino;0;0;D;0
+2022;01/10/2022;Atletico-MG;Fluminense;2;0;H;2
+2022;01/10/2022;Ceara;America MG;1;2;A;-1
+2022;01/10/2022;Internacional;Santos;1;0;H;1
+2022;01/10/2022;Athletico-PR;Juventude;2;0;H;2
+2022;01/10/2022;Avai;Atletico GO;1;2;A;-1
+2022;01/10/2022;Flamengo RJ;Bragantino;4;1;H;3
+2022;01/10/2022;Goias;Fortaleza;0;1;A;-1
+2022;02/10/2022;Corinthians;Cuiaba;2;0;H;2
+2022;04/10/2022;Botafogo RJ;Palmeiras;1;3;A;-2
+2022;05/10/2022;Juventude;Corinthians;2;2;D;0
+2022;05/10/2022;Atletico GO;Fluminense;3;2;H;1
+2022;05/10/2022;Bragantino;Cuiaba;2;1;H;1
+2022;05/10/2022;Ceara;Goias;1;1;D;0
+2022;05/10/2022;Athletico-PR;Fortaleza;1;1;D;0
+2022;06/10/2022;Flamengo RJ;Internacional;0;0;D;0
+2022;06/10/2022;Santos;Atletico-MG;1;2;A;-1
+2022;06/10/2022;Palmeiras;Coritiba;4;0;H;4
+2022;07/10/2022;America MG;Sao Paulo;1;2;A;-1
+2022;07/10/2022;Avai;Botafogo RJ;1;2;A;-1
+2022;08/10/2022;Cuiaba;Flamengo RJ;1;2;A;-1
+2022;09/10/2022;Corinthians;Athletico-PR;2;1;H;1
+2022;09/10/2022;Internacional;Goias;4;2;H;2
+2022;09/10/2022;Fortaleza;Avai;2;0;H;2
+2022;09/10/2022;Sao Paulo;Botafogo RJ;0;1;A;-1
+2022;09/10/2022;Atletico-MG;Ceara;0;0;D;0
+2022;09/10/2022;Coritiba;Bragantino;2;1;H;1
+2022;09/10/2022;Fluminense;America MG;0;2;A;-2
+2022;10/10/2022;Atletico GO;Palmeiras;1;1;D;0
+2022;11/10/2022;Santos;Juventude;4;1;H;3
+2022;16/10/2022;Flamengo RJ;Atletico-MG;1;0;H;1
+2022;16/10/2022;America MG;Fortaleza;1;2;A;-1
+2022;16/10/2022;Ceara;Cuiaba;1;1;D;0
+2022;16/10/2022;Palmeiras;Sao Paulo;0;0;D;0
+2022;16/10/2022;Juventude;Atletico GO;1;1;D;0
+2022;16/10/2022;Botafogo RJ;Internacional;0;1;A;-1
+2022;16/10/2022;Athletico-PR;Coritiba;1;0;H;1
+2022;16/10/2022;Avai;Fluminense;0;3;A;-3
+2022;18/10/2022;Bragantino;Santos;0;2;A;-2
+2022;21/10/2022;Sao Paulo;Coritiba;3;1;H;2
+2022;22/10/2022;Bragantino;Athletico-PR;4;2;H;2
+2022;22/10/2022;America MG;Flamengo RJ;1;2;A;-1
+2022;22/10/2022;Santos;Corinthians;0;1;A;-1
+2022;23/10/2022;Palmeiras;Avai;3;0;H;3
+2022;23/10/2022;Fluminense;Botafogo RJ;2;2;D;0
+2022;23/10/2022;Juventude;Sao Paulo;1;2;A;-1
+2022;23/10/2022;Atletico GO;Ceara;1;0;H;1
+2022;23/10/2022;Coritiba;Internacional;1;1;D;0
+2022;23/10/2022;Cuiaba;Goias;1;2;A;-1
+2022;25/10/2022;Fortaleza;Atletico-MG;0;0;D;0
+2022;26/10/2022;Athletico-PR;Palmeiras;1;3;A;-2
+2022;26/10/2022;Flamengo RJ;Santos;3;2;H;1
+2022;26/10/2022;Botafogo RJ;Bragantino;2;1;H;1
+2022;27/10/2022;Corinthians;Fluminense;0;2;A;-2
+2022;27/10/2022;Goias;America MG;2;2;D;0
+2022;27/10/2022;Internacional;Ceara;2;1;H;1
+2022;27/10/2022;Fortaleza;Coritiba;3;1;H;2
+2022;27/10/2022;Sao Paulo;Atletico GO;2;1;H;1
+2022;27/10/2022;Atletico-MG;Juventude;1;0;H;1
+2022;28/10/2022;Cuiaba;Avai;1;0;H;1
+2022;29/10/2022;Goias;Corinthians;0;0;D;0
+2022;31/10/2022;Ceara;Fluminense;0;1;A;-1
+2022;01/11/2022;Botafogo RJ;Cuiaba;0;2;A;-2
+2022;02/11/2022;Sao Paulo;Atletico-MG;2;2;D;0
+2022;02/11/2022;America MG;Internacional;1;0;H;1
+2022;02/11/2022;Athletico-PR;Goias;3;2;H;1
+2022;02/11/2022;Atletico GO;Santos;2;3;A;-1
+2022;02/11/2022;Avai;Bragantino;1;2;A;-1
+2022;02/11/2022;Juventude;Coritiba;0;1;A;-1
+2022;03/11/2022;Flamengo RJ;Corinthians;1;2;A;-1
+2022;03/11/2022;Palmeiras;Fortaleza;4;0;H;4
+2022;05/11/2022;Fluminense;Sao Paulo;3;1;H;2
+2022;05/11/2022;Santos;Avai;1;1;D;0
+2022;05/11/2022;Bragantino;America MG;1;4;A;-3
+2022;05/11/2022;Goias;Juventude;1;0;H;1
+2022;05/11/2022;Corinthians;Ceara;1;0;H;1
+2022;06/11/2022;Internacional;Athletico-PR;2;0;H;2
+2022;06/11/2022;Coritiba;Flamengo RJ;1;0;H;1
+2022;06/11/2022;Fortaleza;Atletico GO;1;1;D;0
+2022;06/11/2022;Cuiaba;Palmeiras;1;1;D;0
+2022;07/11/2022;Atletico-MG;Botafogo RJ;0;2;A;-2
+2022;09/11/2022;Sao Paulo;Internacional;0;1;A;-1
+2022;09/11/2022;Avai;Ceara;2;0;H;2
+2022;09/11/2022;Coritiba;Corinthians;2;2;D;0
+2022;09/11/2022;Fluminense;Goias;3;0;H;3
+2022;09/11/2022;Fortaleza;Bragantino;6;0;H;6
+2022;10/11/2022;Atletico GO;Athletico-PR;1;1;D;0
+2022;10/11/2022;Juventude;Flamengo RJ;2;2;D;0
+2022;10/11/2022;Palmeiras;America MG;2;1;H;1
+2022;10/11/2022;Atletico-MG;Cuiaba;3;0;H;3
+2022;10/11/2022;Botafogo RJ;Santos;3;0;H;3
+2022;12/11/2022;Flamengo RJ;Avai;1;2;A;-1
+2022;13/11/2022;America MG;Atletico GO;1;1;D;0
+2022;13/11/2022;Athletico-PR;Botafogo RJ;3;0;H;3
+2022;13/11/2022;Bragantino;Fluminense;0;1;A;-1
+2022;13/11/2022;Ceara;Juventude;4;1;H;3
+2022;13/11/2022;Corinthians;Atletico-MG;0;1;A;-1
+2022;13/11/2022;Cuiaba;Coritiba;2;1;H;1
+2022;13/11/2022;Goias;Sao Paulo;0;4;A;-4
+2022;13/11/2022;Internacional;Palmeiras;3;0;H;3
+2022;13/11/2022;Santos;Fortaleza;0;2;A;-2
