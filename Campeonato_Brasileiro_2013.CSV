@@ -1,4 +1,4 @@
-Date;Season;Home;Away;HG;AG;Res;PH;PD;PA
+Data;Rodada;Mandante;Visitante;Gols_M;Gols_V;Resultado;Odds_M;Odds_E;Odds_V
 25/05/2013;1;Vasco;Portuguesa;1;0;H;2,06;3,47;3,96
 25/05/2013;1;Vitoria;Internacional;2;2;D;2,72;3,37;2,77
 26/05/2013;1;Corinthians;Botafogo;1;1;D;1,88;3,6;4,66
