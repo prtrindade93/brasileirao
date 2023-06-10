@@ -1,4 +1,4 @@
-Date;Season;Home;Away;HG;AG;Res;PH;PD;PA
+Data;Rodada;Mandante;Visitante;Gols_M;Gols_V;Resultado;Odds_M;Odds_E;Odds_V
 14/05/2016;1;Flamengo;Sport;1;0;H;1,6;4,15;6,33
 14/05/2016;1;Palmeiras;Athletico PR;4;0;H;1,81;3,72;4,94
 14/05/2016;1;Atletico MG;Santos;1;0;H;3,17;3,25;2,49
