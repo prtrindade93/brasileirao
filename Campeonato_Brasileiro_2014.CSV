@@ -1,4 +1,4 @@
-Date;Season;Home;Away;HG;AG;Res;PH;PD;PA
+Data;Rodada;Mandante;Visitante;Gols_M;Gols_V;Resultado;Odds_M;Odds_E;Odds_V
 19/04/2014;1;Fluminense;Figueirense;3;0;H;1,55;4,23;7,02
 19/04/2014;1;Internacional;Vitoria;1;0;H;1,51;4,41;7,41
 20/04/2014;1;Chapecoense;Coritiba;0;0;D;2,48;3,3;3,15
