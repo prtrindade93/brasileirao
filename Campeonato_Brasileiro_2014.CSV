@@ -1,0 +1,381 @@
+Date;Season;Home;Away;HG;AG;Res;PH;PD;PA
+19/04/2014;1;Fluminense;Figueirense;3;0;H;1,55;4,23;7,02
+19/04/2014;1;Internacional;Vitoria;1;0;H;1,51;4,41;7,41
+20/04/2014;1;Chapecoense;Coritiba;0;0;D;2,48;3,3;3,15
+20/04/2014;1;Atletico MG;Corinthians;0;0;D;2,48;3,19;3,24
+20/04/2014;1;Athletico PR;Gremio;1;0;H;3,53;3,4;2,23
+20/04/2014;1;Bahia;Cruzeiro;1;2;A;2,58;3,43;2,89
+20/04/2014;1;Sao Paulo;Botafogo;3;0;H;1,79;3,69;5,06
+20/04/2014;1;Criciuma;Palmeiras;1;2;A;3,13;3,33;2,47
+20/04/2014;1;Flamengo;Goias;0;0;D;2,28;3,33;3,49
+20/04/2014;1;Santos;Sport;1;1;D;1,37;5,12;9,68
+26/04/2014;2;Coritiba;Santos;0;0;D;2,46;3,34;3,14
+27/04/2014;2;Palmeiras;Fluminense;0;1;A;2,42;3,33;3,2
+27/04/2014;2;Botafogo;Internacional;2;2;D;2,77;3,31;2,76
+27/04/2014;2;Corinthians;Flamengo;2;0;H;1,94;3,31;4,79
+27/04/2014;2;Cruzeiro;Sao Paulo;1;1;D;2,21;3,4;3,58
+27/04/2014;2;Vitoria;Athletico PR;2;2;D;2,15;3,48;3,72
+27/04/2014;2;Figueirense;Bahia;0;2;A;3,24;3,38;2,38
+27/04/2014;2;Goias;Criciuma;1;0;H;1,85;3,53;5
+27/04/2014;2;Gremio;Atletico MG;2;1;H;2,45;3,32;3,16
+27/04/2014;2;Sport;Chapecoense;2;1;H;1,85;3,61;4,85
+03/05/2014;3;Athletico PR;Cruzeiro;2;3;A;3,03;3,46;2,46
+03/05/2014;3;Santos;Gremio;0;0;D;2,17;3,3;3,82
+03/05/2014;3;Sao Paulo;Coritiba;2;2;D;1,68;3,88;5,77
+04/05/2014;3;Fluminense;Vitoria;1;2;A;1,38;5,01;10,01
+04/05/2014;3;Bahia;Botafogo;1;0;H;2,32;3,3;3,42
+04/05/2014;3;Criciuma;Figueirense;1;0;H;1,88;3,66;4,53
+04/05/2014;3;Flamengo;Palmeiras;4;2;H;2,29;3,39;3,41
+04/05/2014;3;Internacional;Sport;2;1;H;1,36;5,2;10,55
+04/05/2014;3;Atletico MG;Goias;0;1;A;1,93;3,56;4,46
+04/05/2014;3;Chapecoense;Corinthians;0;1;A;3,84;3,11;2,26
+10/05/2014;4;Internacional;Athletico PR;2;1;H;1,56;4,27;6,67
+10/05/2014;4;Palmeiras;Goias;2;0;H;2,04;3,39;4,15
+11/05/2014;4;Botafogo;Criciuma;6;0;H;1,61;3,95;6,68
+11/05/2014;4;Atletico MG;Cruzeiro;2;1;H;2,19;3,38;3,67
+11/05/2014;4;Chapecoense;Gremio;1;2;A;3,91;3,14;2,23
+11/05/2014;4;Fluminense;Flamengo;2;0;H;2,14;3,39;3,78
+11/05/2014;4;Sao Paulo;Corinthians;1;1;D;2,81;3,08;2,9
+11/05/2014;4;Bahia;Vitoria;1;1;D;2,41;3,29;3,27
+11/05/2014;4;Coritiba;Sport;0;1;A;1,55;4,48;6,33
+11/05/2014;4;Figueirense;Santos;0;2;A;5,72;3,98;1,67
+15/05/2014;5;Goias;Botafogo;2;0;H;3,86;3,39;2,13
+17/05/2014;5;Cruzeiro;Coritiba;3;2;H;1,46;4,65;7,92
+18/05/2014;5;Athletico PR;Chapecoense;1;1;D;1,71;3,85;5,52
+18/05/2014;5;Corinthians;Figueirense;0;1;A;1,32;5,38;12,7
+18/05/2014;5;Flamengo;Sao Paulo;0;2;A;2,48;3,33;3,11
+18/05/2014;5;Gremio;Fluminense;1;0;H;2,09;3,24;4,24
+18/05/2014;5;Criciuma;Internacional;0;0;D;3,42;3,41;2,27
+18/05/2014;5;Santos;Atletico MG;1;2;A;2,49;3,42;3,03
+18/05/2014;5;Vitoria;Palmeiras;0;1;A;2,28;3,37;3,44
+21/05/2014;6;Coritiba;Internacional;1;1;D;2,43;3,45;3,08
+21/05/2014;6;Flamengo;Bahia;1;1;D;1,88;3,76;4,4
+22/05/2014;6;Criciuma;Chapecoense;1;0;H;2,1;3,59;3,69
+22/05/2014;6;Cruzeiro;Sport;2;0;H;1,31;5,92;10,62
+22/05/2014;6;Corinthians;Athletico PR;1;1;D;1,64;3,85;6,4
+22/05/2014;6;Fluminense;Sao Paulo;5;2;H;2,4;3,34;3,23
+22/05/2014;6;Gremio;Botafogo;2;1;H;1,88;3,71;4,49
+22/05/2014;6;Goias;Santos;2;2;D;1,99;3,51;4,22
+22/05/2014;6;Palmeiras;Figueirense;1;0;H;1,58;4,08;6,76
+23/05/2014;6;Vitoria;Atletico MG;2;3;A;2,43;3,37;3,15
+24/05/2014;7;Bahia;Fluminense;0;1;A;4,66;3,5;1,91
+25/05/2014;7;Sao Paulo;Gremio;1;0;H;2,08;3,48;3,95
+25/05/2014;7;Athletico PR;Coritiba;2;0;H;2,94;3,33;2,6
+25/05/2014;7;Figueirense;Goias;0;1;A;2,76;3,29;2,77
+25/05/2014;7;Santos;Flamengo;0;0;D;2,22;3,21;3,75
+25/05/2014;7;Sport;Corinthians;1;4;A;2,92;3,08;2,79
+25/05/2014;7;Atletico MG;Criciuma;0;0;D;1,65;4;5,96
+25/05/2014;7;Botafogo;Vitoria;1;1;D;1,86;3,95;4,25
+25/05/2014;7;Chapecoense;Palmeiras;2;0;H;2,49;3,27;3,15
+25/05/2014;7;Internacional;Cruzeiro;1;3;A;2,52;3,42;2,97
+28/05/2014;8;Criciuma;Coritiba;1;0;H;2,42;3,33;3,21
+28/05/2014;8;Palmeiras;Botafogo;0;2;A;2,41;3,28;3,27
+28/05/2014;8;Sport;Gremio;0;0;D;3,86;3,47;2,09
+29/05/2014;8;Goias;Vitoria;0;0;D;1,95;3,68;4,14
+29/05/2014;8;Internacional;Chapecoense;2;0;H;1,63;3,87;6,43
+29/05/2014;8;Atletico MG;Fluminense;2;0;H;2,54;3,37;2,63
+29/05/2014;8;Athletico PR;Sao Paulo;2;2;D;2,94;3,44;2,53
+29/05/2014;8;Corinthians;Cruzeiro;1;0;H;2,38;3,37;3,25
+29/05/2014;8;Flamengo;Figueirense;1;1;D;1,76;3,64;5,52
+30/05/2014;8;Bahia;Santos;0;2;A;2,35;3,12;3,59
+31/05/2014;9;Coritiba;Goias;3;0;H;2,13;3,38;3,88
+31/05/2014;9;Sao Paulo;Atletico MG;2;1;H;1,73;4,06;5
+01/06/2014;9;Vitoria;Sport;0;1;A;1,71;3,85;5,57
+01/06/2014;9;Chapecoense;Bahia;2;1;H;2,07;3,29;4,11
+01/06/2014;9;Corinthians;Botafogo;1;1;D;1,69;3,74;5,79
+01/06/2014;9;Cruzeiro;Flamengo;3;0;H;1,83;3,89;4,54
+01/06/2014;9;Gremio;Palmeiras;0;0;D;1,91;3,36;4,89
+01/06/2014;9;Figueirense;Athletico PR;1;3;A;3,04;3,37;2,5
+01/06/2014;9;Fluminense;Internacional;1;1;D;2,05;3,33;4,23
+01/06/2014;9;Santos;Criciuma;2;0;H;2,12;3,42;3,84
+04/06/2014;5;Sport;Bahia;1;0;H;2,45;3,27;3,2
+16/07/2014;10;Coritiba;Figueirense;0;2;A;1,51;4,03;8,75
+16/07/2014;10;Gremio;Goias;0;0;D;1,56;3,79;8,21
+16/07/2014;10;Sport;Botafogo;1;0;H;2,24;3,51;3,39
+17/07/2014;10;Bahia;Sao Paulo;0;2;A;3,45;3,31;2,31
+17/07/2014;10;Criciuma;Fluminense;3;2;H;3,65;3,34;2,21
+17/07/2014;10;Flamengo;Athletico PR;1;2;A;2,24;3,45;3,47
+17/07/2014;10;Corinthians;Internacional;2;1;H;1,97;3,33;4,62
+17/07/2014;10;Santos;Palmeiras;2;0;H;1,99;3,48;4,25
+18/07/2014;10;Cruzeiro;Vitoria;3;1;H;1,36;5,3;9,7
+19/07/2014;11;Atletico MG;Bahia;1;1;D;1,72;3,83;5,44
+19/07/2014;11;Figueirense;Gremio;0;1;A;3,72;3,27;2,17
+19/07/2014;11;Sao Paulo;Chapecoense;0;1;A;1,4;4,98;9,17
+20/07/2014;11;Botafogo;Coritiba;1;0;H;2,18;3,4;3,68
+20/07/2014;11;Internacional;Flamengo;4;0;H;1,62;3,94;6,49
+20/07/2014;11;Palmeiras;Cruzeiro;1;2;A;3,84;3,36;2,15
+20/07/2014;11;Vitoria;Corinthians;0;0;D;3,02;3,17;2,65
+20/07/2014;11;Athletico PR;Criciuma;2;0;H;1,75;3,8;5,27
+20/07/2014;11;Fluminense;Santos;1;0;H;2,04;3,37;4,17
+20/07/2014;11;Goias;Sport;0;0;D;1,75;3,62;5,67
+26/07/2014;12;Criciuma;Vitoria;1;3;A;2,11;3,32;4,05
+26/07/2014;12;Cruzeiro;Figueirense;5;0;H;1,24;6,3;16,8
+26/07/2014;12;Santos;Chapecoense;3;0;H;1,59;3,99;6,84
+27/07/2014;12;Bahia;Internacional;0;1;A;3,71;3,33;2,19
+27/07/2014;12;Athletico PR;Fluminense;0;3;A;2,74;3,25;2,84
+27/07/2014;12;Corinthians;Palmeiras;2;0;H;1,83;3,49;5,2
+27/07/2014;12;Goias;Sao Paulo;2;1;H;2,84;3,25;2,74
+27/07/2014;12;Sport;Atletico MG;2;1;H;3,4;3,4;2,29
+27/07/2014;12;Flamengo;Botafogo;1;0;H;2,85;3,3;2,7
+27/07/2014;12;Gremio;Coritiba;2;3;A;1,71;3,67;5,95
+02/08/2014;13;Botafogo;Cruzeiro;1;1;D;3,11;3,46;2,42
+02/08/2014;13;Sao Paulo;Criciuma;1;1;D;1,39;5,13;9,08
+03/08/2014;13;Vitoria;Gremio;2;1;H;2,71;3,24;2,88
+03/08/2014;13;Chapecoense;Flamengo;1;0;H;2,14;3,23;4,06
+03/08/2014;13;Coritiba;Corinthians;0;0;D;2,83;2,99;2,96
+03/08/2014;13;Figueirense;Sport;3;0;H;2,25;3,27;3,63
+03/08/2014;13;Palmeiras;Bahia;1;1;D;1,83;3,51;5,13
+03/08/2014;13;Atletico MG;Athletico PR;3;1;H;1,55;4,36;6,61
+03/08/2014;13;Fluminense;Goias;2;0;H;1,66;3,87;6,04
+03/08/2014;13;Internacional;Santos;1;0;H;1,82;3,53;5,18
+06/08/2014;10;Chapecoense;Atletico MG;1;1;D;2,89;3,28;2,67
+09/08/2014;14;Bahia;Goias;1;0;H;2,24;3,2;3,74
+09/08/2014;14;Criciuma;Cruzeiro;0;0;D;4,63;3,97;1,79
+10/08/2014;14;Fluminense;Coritiba;1;1;D;1,83;3,86;4,59
+10/08/2014;14;Athletico PR;Botafogo;2;0;H;2,31;3,43;3,32
+10/08/2014;14;Flamengo;Sport;1;0;H;1,71;3,85;5,48
+10/08/2014;14;Internacional;Gremio;2;0;H;2,1;3,27;4,11
+10/08/2014;14;Santos;Corinthians;0;1;A;2,74;3,05;2,99
+10/08/2014;14;Atletico MG;Palmeiras;2;1;H;1,67;4,1;5,5
+10/08/2014;14;Chapecoense;Figueirense;0;1;A;2,02;3,34;4,32
+10/08/2014;14;Sao Paulo;Vitoria;3;1;H;1,55;4,28;6,82
+16/08/2014;15;Goias;Internacional;0;1;A;2,77;3,26;2,8
+17/08/2014;15;Corinthians;Bahia;1;1;D;1,51;3,93;9,13
+17/08/2014;15;Coritiba;Flamengo;0;1;A;1,88;3,42;5,02
+17/08/2014;15;Cruzeiro;Santos;3;0;H;1,52;4,36;7,31
+17/08/2014;15;Gremio;Criciuma;2;0;H;1,58;3,91;7,3
+17/08/2014;15;Palmeiras;Sao Paulo;1;2;A;2,54;3,35;2,99
+17/08/2014;15;Vitoria;Chapecoense;0;0;D;1,81;3,52;5,3
+17/08/2014;15;Botafogo;Fluminense;2;0;H;4,01;3,53;2,03
+17/08/2014;15;Figueirense;Atletico MG;2;2;D;3,29;3,45;2,32
+17/08/2014;15;Sport;Athletico PR;1;1;D;2,36;3,35;3,3
+20/08/2014;16;Figueirense;Botafogo;1;0;H;2,4;3,39;3,2
+20/08/2014;16;Santos;Athletico PR;2;0;H;1,7;3,72;5,94
+20/08/2014;16;Sport;Palmeiras;2;1;H;2,28;3,41;3,41
+21/08/2014;16;Bahia;Criciuma;0;0;D;1,94;3,4;4,63
+21/08/2014;16;Coritiba;Vitoria;2;0;H;1,85;3,65;4,76
+21/08/2014;16;Chapecoense;Fluminense;1;0;H;3,01;3,2;2,63
+21/08/2014;16;Flamengo;Atletico MG;2;1;H;2,8;3,17;2,84
+21/08/2014;16;Internacional;Sao Paulo;0;1;A;1,94;3,48;4,49
+21/08/2014;16;Corinthians;Goias;5;2;H;1,56;3,97;7,65
+22/08/2014;16;Cruzeiro;Gremio;1;0;H;1,72;3,72;5,65
+23/08/2014;17;Atletico MG;Internacional;1;0;H;2,14;3,32;3,9
+23/08/2014;17;Botafogo;Chapecoense;1;0;H;1,82;3,56;5,11
+24/08/2014;17;Palmeiras;Coritiba;1;0;H;2,03;3,41;4,18
+24/08/2014;17;Criciuma;Flamengo;0;2;A;2,19;3,27;3,8
+24/08/2014;17;Fluminense;Sport;4;0;H;1,53;4,32;7,17
+24/08/2014;17;Gremio;Corinthians;2;1;H;2,28;3,16;3,69
+24/08/2014;17;Sao Paulo;Santos;2;1;H;1,91;3,39;4,85
+24/08/2014;17;Vitoria;Figueirense;0;1;A;1,93;3,73;4,2
+24/08/2014;17;Athletico PR;Bahia;0;0;D;1,89;3,56;4,61
+24/08/2014;17;Goias;Cruzeiro;0;1;A;4,06;3,38;2,07
+30/08/2014;18;Cruzeiro;Chapecoense;4;2;H;1,33;5,5;10,9
+30/08/2014;18;Palmeiras;Internacional;0;1;A;3,04;3,08;2,69
+31/08/2014;18;Botafogo;Santos;1;0;H;2,6;3,26;3
+31/08/2014;18;Corinthians;Fluminense;1;1;D;1,73;3,66;5,75
+31/08/2014;18;Coritiba;Atletico MG;0;0;D;2,44;3,5;3,04
+31/08/2014;18;Figueirense;Sao Paulo;1;1;D;2,99;3,26;2,61
+31/08/2014;18;Sport;Criciuma;2;0;H;1,78;3,7;5,16
+31/08/2014;18;Goias;Athletico PR;3;1;H;2,24;3,27;3,66
+31/08/2014;18;Gremio;Bahia;1;0;H;1,55;3,96;7,74
+31/08/2014;18;Vitoria;Flamengo;1;2;A;2,39;3,28;3,32
+06/09/2014;19;Flamengo;Gremio;0;1;A;2,35;3,14;3,55
+06/09/2014;19;Santos;Vitoria;3;1;H;1,51;4,32;7,64
+07/09/2014;19;Chapecoense;Goias;0;0;D;2,27;3,13;3,78
+07/09/2014;19;Atletico MG;Botafogo;1;0;H;1,64;4,05;5,94
+07/09/2014;19;Criciuma;Corinthians;0;0;D;3,65;3,21;2,28
+07/09/2014;19;Fluminense;Cruzeiro;3;3;D;2,72;3,34;2,79
+07/09/2014;19;Sao Paulo;Sport;2;0;H;1,47;4,54;7,91
+07/09/2014;19;Athletico PR;Palmeiras;1;1;D;2,12;3,52;3,7
+07/09/2014;19;Bahia;Coritiba;0;0;D;2,48;3,08;3,37
+07/09/2014;19;Internacional;Figueirense;2;3;A;1,44;4,45;9,34
+10/09/2014;20;Figueirense;Fluminense;1;1;D;3,03;3,52;2,43
+10/09/2014;20;Gremio;Athletico PR;1;0;H;1,5;4,35;7,75
+10/09/2014;20;Palmeiras;Criciuma;1;0;H;1,88;3,53;4,79
+11/09/2014;20;Coritiba;Chapecoense;3;0;H;1,75;3,43;6,1
+11/09/2014;20;Sport;Santos;3;1;H;2,68;3,36;2,81
+11/09/2014;20;Botafogo;Sao Paulo;2;4;A;5,84;4,17;1,63
+11/09/2014;20;Goias;Flamengo;1;0;H;3,32;3,3;2,38
+11/09/2014;20;Vitoria;Internacional;2;0;H;3,12;3,32;2,47
+11/09/2014;20;Corinthians;Atletico MG;1;0;H;2,12;3,2;4,14
+12/09/2014;20;Cruzeiro;Bahia;2;1;H;1,35;5,18;11,2
+13/09/2014;21;Chapecoense;Sport;3;1;H;1,99;3,25;4,65
+13/09/2014;21;Fluminense;Palmeiras;3;0;H;1,6;4,26;5,99
+14/09/2014;21;Santos;Coritiba;2;1;H;1,93;3,62;4,31
+14/09/2014;21;Bahia;Figueirense;3;0;H;2,13;3,3;3,97
+14/09/2014;21;Flamengo;Corinthians;1;0;H;3,07;3,11;2,65
+14/09/2014;21;Internacional;Botafogo;2;0;H;1,57;4,1;6,89
+14/09/2014;21;Sao Paulo;Cruzeiro;2;0;H;2,2;3,39;3,64
+14/09/2014;21;Atletico MG;Gremio;0;0;D;2,08;3,23;4,26
+14/09/2014;21;Athletico PR;Vitoria;2;0;H;1,82;3,68;4,93
+14/09/2014;21;Criciuma;Goias;1;0;H;2,39;3,17;3,43
+17/09/2014;22;Cruzeiro;Athletico PR;2;0;H;1,44;4,86;8,03
+17/09/2014;22;Vitoria;Fluminense;3;1;H;3,18;3,39;2,39
+18/09/2014;22;Figueirense;Criciuma;1;1;D;2,14;3,25;3,96
+18/09/2014;22;Sport;Internacional;0;0;D;2,85;3,35;2,67
+18/09/2014;22;Botafogo;Bahia;2;3;A;1,78;3,57;5,5
+18/09/2014;22;Coritiba;Sao Paulo;3;1;H;2,26;3,47;3,4
+18/09/2014;22;Palmeiras;Flamengo;2;2;D;2,59;3,14;3,11
+18/09/2014;22;Corinthians;Chapecoense;1;1;D;1,54;4,2;7,32
+18/09/2014;22;Goias;Atletico MG;2;3;A;2,57;3,11;3,19
+19/09/2014;22;Gremio;Santos;0;0;D;1,93;3,43;4,68
+20/09/2014;23;Athletico PR;Internacional;0;1;A;2,71;3,36;2,8
+21/09/2014;23;Criciuma;Botafogo;1;1;D;2,03;3,44;4,16
+21/09/2014;23;Corinthians;Sao Paulo;3;2;H;2,29;3,23;3,58
+21/09/2014;23;Cruzeiro;Atletico MG;2;3;A;1,72;3,84;5,46
+21/09/2014;23;Flamengo;Fluminense;1;1;D;2,54;3,35;3
+21/09/2014;23;Sport;Coritiba;1;0;H;2,31;3,22;3,55
+21/09/2014;23;Vitoria;Bahia;2;1;H;2,83;3,25;2,75
+21/09/2014;23;Goias;Palmeiras;6;0;H;2,11;3,42;3,92
+21/09/2014;23;Gremio;Chapecoense;1;0;H;1,65;3,78;6,47
+21/09/2014;23;Santos;Figueirense;3;1;H;1,62;3,99;6,43
+24/09/2014;24;Coritiba;Cruzeiro;1;2;A;2,95;3,37;2,56
+24/09/2014;24;Internacional;Criciuma;3;0;H;1,45;4,48;8,97
+25/09/2014;24;Bahia;Sport;1;0;H;1,96;3,47;4,39
+25/09/2014;24;Chapecoense;Athletico PR;3;0;H;2,38;3,17;3,46
+25/09/2014;24;Figueirense;Corinthians;1;0;H;3,7;3,12;2,3
+25/09/2014;24;Fluminense;Gremio;0;0;D;2,49;3,18;3,23
+25/09/2014;24;Sao Paulo;Flamengo;2;2;D;1,78;3,88;4,88
+25/09/2014;24;Botafogo;Goias;1;0;H;1,92;3,48;4,65
+25/09/2014;24;Palmeiras;Vitoria;2;0;H;1,85;3,6;4,8
+26/09/2014;24;Atletico MG;Santos;3;2;H;1,86;3,66;4,67
+27/09/2014;25;Chapecoense;Criciuma;1;1;D;1,86;3,39;5,15
+27/09/2014;25;Sport;Cruzeiro;0;0;D;4,12;3,7;1,95
+28/09/2014;25;Sao Paulo;Fluminense;1;3;A;1,76;4,06;4,76
+28/09/2014;25;Atletico MG;Vitoria;2;0;H;1,48;4,48;8,07
+28/09/2014;25;Athletico PR;Corinthians;1;0;H;2,67;3,1;3,05
+28/09/2014;25;Bahia;Flamengo;2;1;H;2,4;3,17;3,44
+28/09/2014;25;Botafogo;Gremio;0;2;A;3,06;3,11;2,65
+28/09/2014;25;Figueirense;Palmeiras;3;1;H;2,12;3,38;3,89
+28/09/2014;25;Internacional;Coritiba;4;2;H;1,64;3,97;6,12
+28/09/2014;25;Santos;Goias;2;0;H;1,79;3,8;4,89
+02/10/2014;26;Palmeiras;Chapecoense;4;2;H;1,88;3,54;4,73
+04/10/2014;26;Coritiba;Athletico PR;1;0;H;1,9;3,47;4,75
+04/10/2014;26;Flamengo;Santos;0;1;A;2;3,39;4,35
+04/10/2014;26;Fluminense;Bahia;1;1;D;1,94;3,43;4,59
+04/10/2014;26;Gremio;Sao Paulo;0;1;A;1,74;3,5;6,11
+04/10/2014;26;Vitoria;Botafogo;2;1;H;1,68;3,89;5,76
+04/10/2014;26;Corinthians;Sport;3;0;H;1,43;4,35;10,53
+04/10/2014;26;Criciuma;Atletico MG;3;1;H;3,26;3,42;2,34
+04/10/2014;26;Cruzeiro;Internacional;2;1;H;1,75;3,79;5,3
+05/10/2014;26;Goias;Figueirense;1;0;H;1,76;3,58;5,64
+08/10/2014;27;Botafogo;Palmeiras;0;1;A;2,5;3,59;2,9
+08/10/2014;27;Coritiba;Criciuma;1;0;H;1,54;4,25;7,1
+08/10/2014;27;Sao Paulo;Athletico PR;1;0;H;1,69;3,93;5,58
+09/10/2014;27;Vitoria;Goias;2;2;D;2,16;3,48;3,64
+09/10/2014;27;Cruzeiro;Corinthians;0;1;A;1,66;3,69;6,6
+09/10/2014;27;Figueirense;Flamengo;1;2;A;2,9;3,09;2,81
+09/10/2014;27;Gremio;Sport;2;0;H;1,5;4,28;7,97
+09/10/2014;27;Fluminense;Atletico MG;0;0;D;2,04;3,62;3,88
+09/10/2014;27;Santos;Bahia;1;0;H;1,65;3,78;6,57
+10/10/2014;27;Chapecoense;Internacional;5;0;H;3,44;3,22;2,36
+11/10/2014;28;Botafogo;Corinthians;1;0;H;4,74;3,45;1,91
+11/10/2014;28;Goias;Coritiba;3;0;H;2,28;3,17;3,68
+12/10/2014;28;Palmeiras;Gremio;2;1;H;2,41;3,24;3,32
+12/10/2014;28;Atletico MG;Sao Paulo;1;0;H;2,05;3,54;3,92
+12/10/2014;28;Bahia;Chapecoense;0;1;A;1,93;3,52;4,5
+12/10/2014;28;Flamengo;Cruzeiro;3;0;H;2,72;3,26;2,85
+12/10/2014;28;Internacional;Fluminense;2;1;H;1,97;3,64;4,07
+12/10/2014;28;Athletico PR;Figueirense;3;0;H;1,54;4,04;7,7
+12/10/2014;28;Criciuma;Santos;3;0;H;2,4;3,5;3,13
+12/10/2014;28;Sport;Vitoria;1;2;A;2,08;3,58;3,77
+18/10/2014;29;Fluminense;Criciuma;4;2;H;1,53;4,37;7,09
+18/10/2014;29;Goias;Gremio;0;0;D;2,41;3,08;3,5
+18/10/2014;29;Sao Paulo;Bahia;2;1;H;1,42;4,66;9,12
+19/10/2014;29;Atletico MG;Chapecoense;1;0;H;1,54;4,28;7,06
+19/10/2014;29;Athletico PR;Flamengo;2;1;H;2,1;3,38;3,98
+19/10/2014;29;Figueirense;Coritiba;4;0;H;3,28;3,33;2,37
+19/10/2014;29;Internacional;Corinthians;1;2;A;1,94;3,36;4,71
+19/10/2014;29;Palmeiras;Santos;1;3;A;2,36;3,41;3,22
+19/10/2014;29;Botafogo;Sport;1;1;D;2,04;3,5;3,98
+19/10/2014;29;Vitoria;Cruzeiro;0;1;A;3,74;3,51;2,12
+22/10/2014;30;Bahia;Atletico MG;1;1;D;2,91;3,36;2,6
+22/10/2014;30;Corinthians;Vitoria;2;1;H;1,92;3,43;4,7
+22/10/2014;30;Criciuma;Athletico PR;0;1;A;2,43;3,47;3,08
+22/10/2014;30;Cruzeiro;Palmeiras;1;1;D;1,34;5,45;10,66
+22/10/2014;30;Flamengo;Internacional;2;0;H;2,08;3,44;3,95
+23/10/2014;30;Coritiba;Botafogo;2;0;H;1,64;4,13;5,83
+23/10/2014;30;Gremio;Figueirense;1;0;H;1,48;4,44;8,07
+23/10/2014;30;Chapecoense;Sao Paulo;0;0;D;2,79;3,34;2,73
+23/10/2014;30;Santos;Fluminense;0;1;A;1,74;3,91;5,21
+23/10/2014;30;Sport;Goias;0;1;A;2;3,37;4,39
+25/10/2014;31;Figueirense;Cruzeiro;1;1;D;4,71;3,58;1,88
+25/10/2014;31;Fluminense;Athletico PR;2;1;H;1,75;3,77;5,33
+25/10/2014;31;Palmeiras;Corinthians;1;1;D;3;3,11;2,71
+25/10/2014;31;Atletico MG;Sport;3;2;H;1,69;3,9;5,67
+25/10/2014;31;Chapecoense;Santos;1;1;D;2,12;3,29;3,95
+25/10/2014;31;Coritiba;Gremio;1;1;D;2,31;3,09;3,72
+25/10/2014;31;Vitoria;Criciuma;3;1;H;2,07;3,49;3,9
+26/10/2014;31;Botafogo;Flamengo;2;1;H;2,87;3,33;2,66
+26/10/2014;31;Internacional;Bahia;2;0;H;1,45;4,62;8,35
+27/10/2014;31;Sao Paulo;Goias;3;0;H;1,61;3,94;6,68
+01/11/2014;32;Goias;Fluminense;0;2;A;2,63;3,25;2,97
+01/11/2014;32;Gremio;Vitoria;1;0;H;1,47;4,41;8,42
+01/11/2014;32;Corinthians;Coritiba;2;2;D;1,85;3,56;4,88
+02/11/2014;32;Criciuma;Sao Paulo;1;2;A;2,95;3,51;2,49
+02/11/2014;32;Cruzeiro;Botafogo;2;1;H;1,32;5,56;11,37
+02/11/2014;32;Santos;Internacional;1;2;A;2,33;3,48;3,24
+02/11/2014;32;Sport;Figueirense;1;0;H;1,82;3,52;5,2
+02/11/2014;32;Athletico PR;Atletico MG;1;0;H;2,11;3,47;3,76
+02/11/2014;32;Flamengo;Chapecoense;3;0;H;2,02;3,36;4,3
+02/11/2014;32;Bahia;Palmeiras;0;1;A;2,36;3,29;3,35
+08/11/2014;33;Coritiba;Fluminense;1;0;H;2,27;3,48;3,38
+08/11/2014;33;Palmeiras;Atletico MG;0;2;A;1,76;3,84;5,08
+08/11/2014;33;Botafogo;Athletico PR;0;2;A;2,26;3,35;3,54
+09/11/2014;33;Figueirense;Chapecoense;1;0;H;2,27;3,14;3,75
+09/11/2014;33;Gremio;Internacional;4;1;H;2,07;3,32;4,14
+09/11/2014;33;Sport;Flamengo;2;2;D;2,21;3,23;3,79
+09/11/2014;33;Vitoria;Sao Paulo;1;2;A;2,71;3,47;2,71
+09/11/2014;33;Corinthians;Santos;1;0;H;1,88;3,61;4,57
+09/11/2014;33;Cruzeiro;Criciuma;3;1;H;1,28;6,02;13,31
+09/11/2014;33;Goias;Bahia;3;0;H;2,07;3,38;4,06
+12/11/2014;35;Sao Paulo;Internacional;1;1;D;1,66;4,04;5,69
+15/11/2014;34;Criciuma;Gremio;0;3;A;3,39;3,32;2,33
+15/11/2014;34;Fluminense;Botafogo;1;0;H;1,74;3,94;5,08
+16/11/2014;34;Athletico PR;Sport;0;1;A;1,69;3,93;5,49
+16/11/2014;34;Bahia;Corinthians;1;2;A;3;3,12;2,69
+16/11/2014;34;Flamengo;Coritiba;3;2;H;2,11;3,41;3,89
+16/11/2014;34;Internacional;Goias;1;0;H;1,52;4,34;7,3
+16/11/2014;34;Santos;Cruzeiro;0;1;A;2,56;3,53;2,84
+16/11/2014;34;Atletico MG;Figueirense;1;1;D;1,56;4,13;7,06
+16/11/2014;34;Chapecoense;Vitoria;0;1;A;1,95;3,4;4,56
+16/11/2014;34;Sao Paulo;Palmeiras;2;0;H;1,74;3,82;5,34
+19/11/2014;35;Athletico PR;Santos;1;1;D;2,21;3,51;3,51
+19/11/2014;35;Botafogo;Figueirense;0;1;A;2,04;3,48;4,04
+19/11/2014;35;Criciuma;Bahia;0;1;A;2,15;3,68;3,47
+19/11/2014;35;Goias;Corinthians;0;1;A;4,2;3,34;2,04
+19/11/2014;35;Vitoria;Coritiba;1;1;D;2,47;3,27;3,18
+20/11/2014;35;Atletico MG;Flamengo;4;0;H;1,59;4,22;6,3
+20/11/2014;35;Palmeiras;Sport;0;2;A;1,65;4,04;5,89
+20/11/2014;35;Fluminense;Chapecoense;1;4;A;1,52;4,23;7,53
+20/11/2014;35;Gremio;Cruzeiro;1;2;A;2,13;3,28;4,01
+22/11/2014;36;Internacional;Atletico MG;2;1;H;1,76;3,99;4,86
+22/11/2014;36;Bahia;Athletico PR;1;2;A;1,76;3,77;5,19
+23/11/2014;36;Cruzeiro;Goias;2;1;H;1,34;5,26;11,37
+23/11/2014;36;Figueirense;Vitoria;2;0;H;2,2;3,34;3,62
+23/11/2014;36;Flamengo;Criciuma;1;1;D;1,52;4,49;6,95
+23/11/2014;36;Santos;Sao Paulo;0;1;A;2,47;3,59;2,93
+23/11/2014;36;Sport;Fluminense;2;2;D;2,44;3,53;3,01
+23/11/2014;36;Chapecoense;Botafogo;2;0;H;1,91;3,58;4,49
+23/11/2014;36;Corinthians;Gremio;1;0;H;1,94;3,26;4,77
+23/11/2014;36;Coritiba;Palmeiras;2;0;H;1,77;3,69;5,31
+29/11/2014;37;Criciuma;Sport;2;2;D;2,73;3,37;2,76
+29/11/2014;37;Internacional;Palmeiras;3;1;H;1,54;4,43;6,73
+29/11/2014;37;Flamengo;Vitoria;4;0;H;2,78;3,45;2,66
+30/11/2014;37;Chapecoense;Cruzeiro;1;1;D;2,5;3,49;2,95
+30/11/2014;37;Fluminense;Corinthians;5;2;H;3,24;3,32;2,4
+30/11/2014;37;Santos;Botafogo;2;0;H;1,67;4,2;5,35
+30/11/2014;37;Sao Paulo;Figueirense;1;1;D;1,42;4,47;10,22
+30/11/2014;37;Atletico MG;Coritiba;1;2;A;1,72;3,82;5,5
+30/11/2014;37;Athletico PR;Goias;1;0;H;1,84;3,62;4,85
+30/11/2014;37;Bahia;Gremio;1;0;H;3,12;3,41;2,43
+06/12/2014;38;Corinthians;Criciuma;2;1;H;1,24;6,25;16,65
+06/12/2014;38;Figueirense;Internacional;1;2;A;3,83;3,57;2,04
+07/12/2014;38;Botafogo;Atletico MG;0;0;D;4;3,84;1,94
+07/12/2014;38;Coritiba;Bahia;3;2;H;2,06;3,63;3,76
+07/12/2014;38;Cruzeiro;Fluminense;2;1;H;1,68;4,07;5,28
+07/12/2014;38;Goias;Chapecoense;4;2;H;2,07;3,39;3,97
+07/12/2014;38;Gremio;Flamengo;1;1;D;1,5;4,34;7,91
+07/12/2014;38;Palmeiras;Athletico PR;1;1;D;1,44;4,64;8,37
+07/12/2014;38;Sport;Sao Paulo;1;0;H;2,46;3,52;2,94
+07/12/2014;38;Vitoria;Santos;0;1;A;1,79;3,83;4,92
