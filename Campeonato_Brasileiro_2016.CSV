@@ -1,0 +1,380 @@
+Date;Season;Home;Away;HG;AG;Res;PH;PD;PA
+14/05/2016;1;Flamengo;Sport;1;0;H;1,6;4,15;6,33
+14/05/2016;1;Palmeiras;Athletico PR;4;0;H;1,81;3,72;4,94
+14/05/2016;1;Atletico MG;Santos;1;0;H;3,17;3,25;2,49
+15/05/2016;1;Coritiba;Cruzeiro;1;0;H;2,68;3,25;2,91
+15/05/2016;1;Botafogo;Sao Paulo;0;1;A;1,95;3,46;4,45
+15/05/2016;1;Santa Cruz;Vitoria;4;1;H;1,83;3,62;4,9
+15/05/2016;1;America MG;Fluminense;0;1;A;2,63;3,33;2,91
+15/05/2016;1;Corinthians;Gremio;0;0;D;1,85;3,44;5,2
+15/05/2016;1;Figueirense;Ponte Preta;0;0;D;2,33;3,19;3,53
+15/05/2016;1;Internacional;Chapecoense;0;0;D;1,67;3,7;6,41
+21/05/2016;2;Ponte Preta;Palmeiras;2;1;H;2,64;3,25;2,95
+21/05/2016;2;Fluminense;Santa Cruz;2;2;D;1,63;3,9;5,2
+22/05/2016;2;Cruzeiro;Figueirense;2;2;D;1,41;4,48;10,69
+22/05/2016;2;Athletico PR;Atletico MG;1;1;D;2,27;3,45;3,4
+22/05/2016;2;Santos;Coritiba;2;1;H;1,57;4,03;7,06
+22/05/2016;2;Chapecoense;America MG;3;1;H;1,66;3,78;6,31
+22/05/2016;2;Gremio;Flamengo;1;0;H;2,17;3,39;3,71
+22/05/2016;2;Sao Paulo;Internacional;1;2;A;2;3,39;4,34
+22/05/2016;2;Vitoria;Corinthians;3;2;H;2,88;3,28;2,44
+22/05/2016;2;Sport;Botafogo;1;1;D;1,88;3,61;4,67
+25/05/2016;3;Botafogo;Athletico PR;2;1;H;2,21;3,38;3,62
+25/05/2016;3;Figueirense;Santos;2;2;D;2,53;3,16;3,19
+26/05/2016;3;America MG;Vitoria;1;1;D;2,18;3,44;3,62
+26/05/2016;3;Flamengo;Chapecoense;2;2;D;1,68;3,75;6,11
+26/05/2016;3;Coritiba;Sao Paulo;1;1;D;2,27;3,25;3,61
+26/05/2016;3;Palmeiras;Fluminense;2;0;H;1,95;3,56;4,31
+26/05/2016;3;Santa Cruz;Cruzeiro;4;1;H;2,54;3,31;3,03
+26/05/2016;3;Corinthians;Ponte Preta;3;0;H;1,6;4,12;6,46
+26/05/2016;3;Internacional;Sport;1;0;H;1,6;3,92;6,83
+27/05/2016;3;Atletico MG;Gremio;0;3;A;2,39;3,27;3,34
+28/05/2016;4;Cruzeiro;America MG;1;1;D;1,57;4,08;7,02
+28/05/2016;4;Athletico PR;Figueirense;2;1;H;1,75;3,75;5,4
+29/05/2016;4;Chapecoense;Santa Cruz;1;1;D;2;3,46;4,22
+29/05/2016;4;Ponte Preta;Flamengo;1;2;A;2,55;3,24;3,08
+29/05/2016;4;Sport;Corinthians;0;2;A;2,99;3,19;2,65
+29/05/2016;4;Fluminense;Botafogo;1;0;H;2,05;3,53;3,95
+29/05/2016;4;Sao Paulo;Palmeiras;1;0;H;2,26;3,3;3,56
+29/05/2016;4;Vitoria;Atletico MG;1;1;D;2,41;3,3;3,26
+29/05/2016;4;Gremio;Coritiba;2;0;H;1,6;3,99;6,74
+29/05/2016;4;Santos;Internacional;0;1;A;2,22;3,33;3,65
+01/06/2016;5;Internacional;Athletico PR;1;0;H;1,57;4;7,14
+02/06/2016;5;Corinthians;Santos;1;0;H;1,57;3,93;7,48
+02/06/2016;5;Coritiba;Chapecoense;3;4;A;2,33;3,11;3,21
+02/06/2016;5;Santa Cruz;Sport;0;1;A;2,14;3,34;3,86
+02/06/2016;5;Atletico MG;Fluminense;1;1;D;1,92;3,52;4,55
+02/06/2016;5;Botafogo;Cruzeiro;0;1;A;5,11;3,55;1,83
+02/06/2016;5;Figueirense;Sao Paulo;1;0;H;2,69;3,15;2,98
+02/06/2016;5;America MG;Ponte Preta;1;2;A;2,34;3,25;3,06
+03/06/2016;5;Flamengo;Vitoria;1;0;H;1,46;4,58;8,35
+03/06/2016;5;Palmeiras;Gremio;4;3;H;2;3,45;4,26
+04/06/2016;6;Athletico PR;Santa Cruz;1;0;H;1,55;4,17;7,07
+05/06/2016;6;Chapecoense;Fluminense;0;0;D;2,63;3,31;2,92
+05/06/2016;6;Corinthians;Coritiba;2;1;H;1,47;4,34;8,55
+05/06/2016;6;America MG;Figueirense;1;0;H;2,3;3,29;3,49
+05/06/2016;6;Santos;Botafogo;3;0;H;1,78;3,66;5,3
+05/06/2016;6;Flamengo;Palmeiras;1;2;A;2,49;3,34;3,08
+05/06/2016;6;Gremio;Ponte Preta;1;0;H;1,51;4,11;8,5
+05/06/2016;6;Sport;Atletico MG;4;4;D;2,23;3,44;3,5
+05/06/2016;6;Vitoria;Internacional;1;0;H;2,96;3,32;2,59
+05/06/2016;6;Cruzeiro;Sao Paulo;0;1;A;1,79;3,52;4,57
+11/06/2016;7;Internacional;America MG;3;1;H;1,47;4,39;8,68
+11/06/2016;7;Ponte Preta;Chapecoense;2;1;H;2,15;3,37;3,79
+11/06/2016;7;Fluminense;Gremio;1;1;D;2,26;3,13;3,81
+12/06/2016;7;Sao Paulo;Athletico PR;1;2;A;1,76;3,65;5,44
+12/06/2016;7;Botafogo;Vitoria;1;1;D;1,93;3,58;4,4
+12/06/2016;7;Coritiba;Sport;3;2;H;1,96;3,46;4,43
+12/06/2016;7;Atletico MG;Cruzeiro;2;3;A;2,01;3,55;4,06
+12/06/2016;7;Figueirense;Flamengo;1;0;H;2,85;3,23;2,75
+12/06/2016;7;Palmeiras;Corinthians;1;0;H;2,32;3,2;3,56
+12/06/2016;7;Santa Cruz;Santos;0;2;A;2,67;3,17;2,98
+15/06/2016;8;Chapecoense;Gremio;3;3;D;3;3,15;2,67
+15/06/2016;8;Ponte Preta;Athletico PR;3;2;H;2,08;3,42;3,98
+15/06/2016;8;Sao Paulo;Vitoria;2;0;H;1,44;4,61;8,63
+16/06/2016;8;Botafogo;America MG;3;1;H;1,83;3,59;4,97
+16/06/2016;8;Santa Cruz;Figueirense;1;0;H;1,92;3,5;4,61
+16/06/2016;8;Santos;Sport;2;0;H;1,57;4,23;6,61
+16/06/2016;8;Coritiba;Palmeiras;2;2;D;3,05;3,36;2,51
+16/06/2016;8;Cruzeiro;Flamengo;0;1;A;2,16;3,25;3,93
+16/06/2016;8;Internacional;Atletico MG;2;0;H;1,91;3,63;4,45
+17/06/2016;8;Fluminense;Corinthians;1;0;H;3,59;3,27;2,27
+18/06/2016;9;Palmeiras;Santa Cruz;3;1;H;1,42;4,63;7,16
+18/06/2016;9;Athletico PR;Santos;1;0;H;2,19;3,29;3,77
+19/06/2016;9;America MG;Coritiba;2;1;H;2,32;3,32;3,4
+19/06/2016;9;Atletico MG;Ponte Preta;3;0;H;1,52;4,44;7,14
+19/06/2016;9;Vitoria;Chapecoense;1;2;A;2,01;3,5;4,14
+19/06/2016;9;Corinthians;Botafogo;3;1;H;1,48;4,28;6,52
+19/06/2016;9;Figueirense;Internacional;3;2;H;3,46;3,16;2,38
+19/06/2016;9;Flamengo;Sao Paulo;2;2;D;2,66;3,07;3,09
+19/06/2016;9;Sport;Fluminense;2;1;H;2,28;3,37;3,46
+19/06/2016;9;Gremio;Cruzeiro;2;0;H;1,75;3,75;5,39
+22/06/2016;10;Palmeiras;America MG;2;0;H;1,3;5,72;11,91
+22/06/2016;10;Ponte Preta;Cruzeiro;0;4;A;2,68;3,27;2,89
+23/06/2016;10;Botafogo;Figueirense;0;0;D;1,93;3,48;3,89
+23/06/2016;10;Santa Cruz;Flamengo;0;1;A;3;3,31;2,55
+23/06/2016;10;Atletico MG;Corinthians;2;1;H;1,9;3,64;4,45
+23/06/2016;10;Fluminense;Santos;2;4;A;2,63;3,24;2,98
+23/06/2016;10;Chapecoense;Athletico PR;0;0;D;2,05;3,17;4,59
+23/06/2016;10;Gremio;Vitoria;1;2;A;1,33;5,2;12,51
+24/06/2016;10;Sao Paulo;Sport;0;0;D;1,41;4,76;9,41
+24/06/2016;10;Coritiba;Internacional;1;1;D;3,14;3,33;2,46
+25/06/2016;11;Cruzeiro;Palmeiras;2;1;H;2,18;3,52;3,55
+26/06/2016;11;Corinthians;Santa Cruz;2;1;H;1,46;4,55;8,36
+26/06/2016;11;America MG;Atletico MG;0;1;A;6,41;4,32;1,57
+26/06/2016;11;Athletico PR;Gremio;2;0;H;2,44;3,29;3,21
+26/06/2016;11;Flamengo;Fluminense;1;2;A;2,15;3,22;4,01
+26/06/2016;11;Internacional;Botafogo;2;3;A;1,71;3,86;5,49
+26/06/2016;11;Santos;Sao Paulo;3;0;H;2,14;3,43;3,74
+26/06/2016;11;Vitoria;Ponte Preta;1;1;D;2,1;3,48;3,81
+26/06/2016;11;Figueirense;Coritiba;0;0;D;2,35;3,23;3,45
+26/06/2016;11;Sport;Chapecoense;5;1;H;1,83;3,65;4,87
+29/06/2016;12;Flamengo;Internacional;1;0;H;2,16;3,35;3,79
+29/06/2016;12;Gremio;Santos;3;2;H;2,27;3,2;3,68
+29/06/2016;12;Vitoria;Sport;3;2;H;2,45;3,28;3,2
+30/06/2016;12;Chapecoense;Cruzeiro;3;2;H;2,86;3,28;2,69
+30/06/2016;12;Coritiba;Athletico PR;1;0;H;2,44;3,23;3,27
+30/06/2016;12;America MG;Corinthians;0;2;A;3,96;3,35;2,11
+30/06/2016;12;Sao Paulo;Fluminense;2;1;H;1,92;3,41;4,73
+30/06/2016;12;Palmeiras;Figueirense;4;0;H;1,43;4,8;8,46
+30/06/2016;12;Santa Cruz;Ponte Preta;0;3;A;2,29;3,25;3,55
+01/07/2016;12;Atletico MG;Botafogo;5;3;H;1,61;4,12;6,28
+02/07/2016;13;Fluminense;Coritiba;0;0;D;1,97;3,46;4,36
+02/07/2016;13;Athletico PR;America MG;1;0;H;1,51;4,43;7,39
+03/07/2016;13;Cruzeiro;Vitoria;2;2;D;1,48;4,56;7,78
+03/07/2016;13;Internacional;Gremio;0;1;A;2,48;3,27;3,17
+03/07/2016;13;Botafogo;Santa Cruz;2;1;H;1,56;4,05;7,21
+03/07/2016;13;Corinthians;Flamengo;4;0;H;2,06;3,39;3,55
+03/07/2016;13;Ponte Preta;Sao Paulo;1;0;H;2,35;3,38;3,3
+03/07/2016;13;Santos;Chapecoense;3;0;H;1,44;4,68;8,68
+03/07/2016;13;Figueirense;Atletico MG;1;1;D;3,36;3,48;2,28
+05/07/2016;13;Sport;Palmeiras;1;3;A;2,87;3,4;2,61
+09/07/2016;14;Chapecoense;Corinthians;0;2;A;3,16;3,28;2,47
+09/07/2016;14;Coritiba;Botafogo;0;0;D;1,96;3,51;4,35
+10/07/2016;14;Ponte Preta;Sport;2;1;H;1,88;3,55;4,68
+10/07/2016;14;Flamengo;Atletico MG;2;0;H;2,69;3,24;2,91
+10/07/2016;14;Gremio;Figueirense;2;1;H;1,35;5,11;11,02
+10/07/2016;14;Santa Cruz;Internacional;1;0;H;2,78;3,26;2,79
+10/07/2016;14;Sao Paulo;America MG;3;0;H;1,58;4,08;6,69
+10/07/2016;14;Vitoria;Fluminense;0;0;D;2,12;3,55;3,7
+12/07/2016;14;Cruzeiro;Athletico PR;0;3;A;1,75;3,83;5,22
+13/07/2016;14;Palmeiras;Santos;1;1;D;2,2;3,47;3,54
+16/07/2016;15;Botafogo;Flamengo;3;3;D;3,04;3,43;2,26
+16/07/2016;15;Santos;Ponte Preta;3;1;H;1,45;4,69;8,08
+17/07/2016;15;America MG;Santa Cruz;0;3;A;2,21;3,3;3,71
+17/07/2016;15;Athletico PR;Vitoria;1;1;D;1,59;4,04;6,78
+17/07/2016;15;Corinthians;Sao Paulo;1;1;D;1,64;3,86;6,4
+17/07/2016;15;Figueirense;Chapecoense;1;1;D;2,27;3,25;3,6
+17/07/2016;15;Fluminense;Cruzeiro;2;0;H;2,48;3,27;3,16
+17/07/2016;15;Internacional;Palmeiras;0;1;A;2,33;3,33;3,37
+17/07/2016;15;Sport;Gremio;4;2;H;2,73;3,3;2,81
+19/07/2016;15;Atletico MG;Coritiba;2;1;H;1,72;3,92;5,24
+23/07/2016;16;Corinthians;Figueirense;1;1;D;1,28;5,6;15,4
+23/07/2016;16;Santa Cruz;Coritiba;0;1;A;2,45;3,25;3,23
+24/07/2016;16;Palmeiras;Atletico MG;0;1;A;1,78;4,07;4,57
+24/07/2016;16;Ponte Preta;Internacional;2;2;D;2,45;3,16;3,33
+24/07/2016;16;Athletico PR;Fluminense;1;0;H;2,29;3,28;3,52
+24/07/2016;16;Chapecoense;Botafogo;2;1;H;2,09;3,48;3,92
+24/07/2016;16;Cruzeiro;Sport;1;2;A;1,57;4,27;6,41
+24/07/2016;16;Gremio;Sao Paulo;1;0;H;2,04;3,48;4,03
+24/07/2016;16;Vitoria;Santos;2;3;A;2,38;3,47;3,15
+26/07/2016;16;Flamengo;America MG;2;1;H;1,38;5,07;9,57
+30/07/2016;17;Figueirense;Vitoria;1;0;H;2,55;3,36;2,98
+30/07/2016;17;Sport;Athletico PR;2;0;H;1,69;3,77;5,91
+31/07/2016;17;Atletico MG;Santa Cruz;3;0;H;1,41;5,03;8,55
+31/07/2016;17;Fluminense;Ponte Preta;3;0;H;2;3,47;4,21
+31/07/2016;17;Sao Paulo;Chapecoense;2;2;D;1,61;3,8;7,18
+31/07/2016;17;Coritiba;Flamengo;0;2;A;2,59;3,07;3,19
+31/07/2016;17;Internacional;Corinthians;0;1;A;2,62;3,09;3,12
+31/07/2016;17;Santos;Cruzeiro;2;0;H;1,93;3,51;4,51
+31/07/2016;17;America MG;Gremio;0;0;D;4,53;3,67;1,88
+31/07/2016;17;Botafogo;Palmeiras;3;1;H;2,64;3,52;2,77
+03/08/2016;18;Sport;America MG;1;1;D;1,52;4,22;7,64
+03/08/2016;18;Vitoria;Coritiba;3;1;H;2,09;3,34;4,05
+04/08/2016;18;Athletico PR;Corinthians;2;0;H;3,19;3,23;2,49
+04/08/2016;18;Santos;Flamengo;0;0;D;4,15;3,22;2,1
+04/08/2016;18;Ponte Preta;Botafogo;2;0;H;2,06;3,47;3,96
+04/08/2016;18;Gremio;Santa Cruz;0;0;D;1,53;4,55;6,66
+04/08/2016;18;Sao Paulo;Atletico MG;1;2;A;2,29;3,56;3,25
+05/08/2016;18;Cruzeiro;Internacional;4;2;H;1,72;3,82;5,5
+05/08/2016;18;Chapecoense;Palmeiras;1;1;D;2,88;3,3;2,67
+06/08/2016;19;Flamengo;Athletico PR;1;0;H;1,78;3,58;5,47
+07/08/2016;19;America MG;Santos;1;0;H;3,18;3,28;2,46
+07/08/2016;19;Coritiba;Ponte Preta;3;1;H;1,97;3,36;4,54
+07/08/2016;19;Palmeiras;Vitoria;2;1;H;1,46;4,71;7,87
+07/08/2016;19;Internacional;Fluminense;2;2;D;2,22;3,41;3,55
+07/08/2016;19;Santa Cruz;Sao Paulo;1;2;A;2,56;3,23;3,06
+07/08/2016;19;Figueirense;Sport;1;1;D;2,39;3,32;3,27
+09/08/2016;19;Atletico MG;Chapecoense;3;1;H;1,47;4,61;7,76
+09/08/2016;19;Corinthians;Cruzeiro;1;1;D;1,69;3,91;5,64
+13/08/2016;20;Sport;Flamengo;1;0;H;2,91;3,3;2,63
+13/08/2016;20;Ponte Preta;Figueirense;2;0;H;1,61;4,02;6,42
+14/08/2016;20;Fluminense;America MG;1;0;H;1,51;4,31;7,77
+14/08/2016;20;Gremio;Corinthians;3;0;H;2,21;3,24;3,78
+14/08/2016;20;Cruzeiro;Coritiba;2;2;D;1,53;4,18;7,57
+14/08/2016;20;Santos;Atletico MG;3;0;H;2,24;3,42;3,51
+14/08/2016;20;Vitoria;Santa Cruz;2;2;D;1,82;3,7;4,85
+14/08/2016;20;Sao Paulo;Botafogo;0;1;A;1,61;3,99;6,46
+14/08/2016;20;Athletico PR;Palmeiras;0;1;A;2,65;3,23;2,95
+16/08/2016;20;Chapecoense;Internacional;1;0;H;2,42;3,15;3,39
+20/08/2016;21;America MG;Chapecoense;1;2;A;2,2;3,26;3,79
+21/08/2016;21;Botafogo;Sport;3;0;H;1,94;3,49;4,49
+21/08/2016;21;Atletico MG;Athletico PR;1;0;H;1,44;4,76;8,33
+21/08/2016;21;Flamengo;Gremio;2;1;H;2,05;3,45;4,03
+21/08/2016;21;Internacional;Sao Paulo;1;1;D;2,09;3,34;4,04
+21/08/2016;21;Palmeiras;Ponte Preta;2;2;D;1,69;3,93;5,59
+21/08/2016;21;Santa Cruz;Fluminense;0;1;A;2,51;3,31;3,08
+21/08/2016;21;Coritiba;Santos;2;1;H;2,57;3,15;3,15
+21/08/2016;21;Figueirense;Cruzeiro;1;2;A;3,41;3,3;2,33
+23/08/2016;21;Corinthians;Vitoria;2;1;H;1,42;5,02;8,23
+27/08/2016;22;Ponte Preta;Corinthians;2;0;H;2,77;3,27;2,79
+28/08/2016;22;Cruzeiro;Santa Cruz;2;0;H;1,41;4,87;8,95
+28/08/2016;22;Santos;Figueirense;0;1;A;1,43;4,58;9,48
+28/08/2016;22;Chapecoense;Flamengo;1;3;A;2,91;3,25;2,67
+28/08/2016;22;Fluminense;Palmeiras;0;2;A;3,25;3,37;2,35
+28/08/2016;22;Gremio;Atletico MG;1;1;D;1,77;3,83;5,02
+28/08/2016;22;Sao Paulo;Coritiba;0;0;D;1,76;3,69;5,35
+28/08/2016;22;Sport;Internacional;1;1;D;2,52;3,22;3,14
+28/08/2016;22;Vitoria;America MG;2;1;H;1,72;3,89;5,36
+30/08/2016;22;Athletico PR;Botafogo;1;0;H;2,29;3,35;3,45
+03/09/2016;18;Fluminense;Figueirense;3;2;H;1,46;4,4;9,01
+04/09/2016;19;Botafogo;Gremio;2;1;H;2,46;3,46;3,04
+07/09/2016;23;Botafogo;Fluminense;1;0;H;2,47;3,14;3,31
+07/09/2016;23;Figueirense;Athletico PR;1;0;H;2,43;3,14;3,37
+07/09/2016;23;Santa Cruz;Chapecoense;2;2;D;2,19;3,27;3,82
+07/09/2016;23;Atletico MG;Vitoria;2;1;H;1,43;5,02;7,79
+08/09/2016;23;Coritiba;Gremio;4;0;H;2,52;3,11;3,25
+08/09/2016;23;Flamengo;Ponte Preta;2;1;H;1,71;3,86;5,46
+08/09/2016;23;Palmeiras;Sao Paulo;2;1;H;1,74;3,75;5,44
+08/09/2016;23;Corinthians;Sport;3;0;H;1,53;4,34;7,16
+09/09/2016;23;America MG;Cruzeiro;0;2;A;4,72;3,66;1,85
+09/09/2016;23;Internacional;Santos;2;1;H;2,12;3,39;3,88
+10/09/2016;24;Vitoria;Flamengo;1;2;A;3,15;3,69;2,29
+11/09/2016;24;Chapecoense;Coritiba;1;0;H;2,02;3,45;4,16
+11/09/2016;24;Sao Paulo;Figueirense;3;1;H;1,46;4,45;8,69
+11/09/2016;24;Athletico PR;Internacional;2;1;H;2,58;3,17;3,06
+11/09/2016;24;Cruzeiro;Botafogo;0;2;A;1,52;4,43;7,17
+11/09/2016;24;Santos;Corinthians;2;1;H;2,33;3,29;3,43
+11/09/2016;24;Sport;Santa Cruz;5;3;H;2,08;3,46;3,91
+11/09/2016;24;Gremio;Palmeiras;0;0;D;2,16;3,53;3,58
+11/09/2016;24;Ponte Preta;America MG;1;1;D;1,48;4,32;8,5
+13/09/2016;24;Fluminense;Atletico MG;4;2;H;2,27;3,61;3,25
+14/09/2016;25;Botafogo;Santos;0;1;A;2,74;3,3;2,81
+14/09/2016;25;Figueirense;America MG;2;2;D;2,31;3,15;3,64
+15/09/2016;25;Ponte Preta;Gremio;3;0;H;2,39;3,22;3,37
+15/09/2016;25;Santa Cruz;Athletico PR;1;0;H;2,01;3,51;4,11
+15/09/2016;25;Coritiba;Corinthians;1;1;D;2,49;3,29;3,13
+15/09/2016;25;Palmeiras;Flamengo;1;1;D;1,97;3,61;4,16
+15/09/2016;25;Atletico MG;Sport;1;0;H;1,47;4,8;7,44
+15/09/2016;25;Fluminense;Chapecoense;1;2;A;1,68;3,72;6,16
+16/09/2016;25;Internacional;Vitoria;0;1;A;1,53;4,28;7,16
+16/09/2016;25;Sao Paulo;Cruzeiro;1;0;H;1,98;3,48;4,31
+17/09/2016;26;Corinthians;Palmeiras;0;2;A;2,35;3,32;3,37
+18/09/2016;26;Flamengo;Figueirense;2;0;H;1,33;5,36;11,76
+18/09/2016;26;Athletico PR;Sao Paulo;1;0;H;2,95;3,09;2,76
+18/09/2016;26;Chapecoense;Ponte Preta;2;2;D;2,66;3,09;3,07
+18/09/2016;26;Cruzeiro;Atletico MG;1;1;D;1,98;3,71;4,01
+18/09/2016;26;Gremio;Fluminense;0;1;A;1,78;3,63;5,34
+18/09/2016;26;Sport;Coritiba;0;1;A;1,89;3,56;4,64
+18/09/2016;26;Santos;Santa Cruz;3;2;H;1,53;4,42;6,83
+18/09/2016;26;Vitoria;Botafogo;0;1;A;2;3,53;4,13
+20/09/2016;26;America MG;Internacional;1;0;H;3,07;3,25;2,55
+24/09/2016;27;Palmeiras;Coritiba;2;1;H;1,44;4,56;9,05
+24/09/2016;27;Sport;Santos;1;0;H;2,36;3,29;3,35
+25/09/2016;27;America MG;Botafogo;1;0;H;2,53;3,17;3,12
+25/09/2016;27;Athletico PR;Ponte Preta;3;0;H;2,42;3,06;3,5
+25/09/2016;27;Figueirense;Santa Cruz;3;1;H;2,59;3,12;3,14
+25/09/2016;27;Corinthians;Fluminense;0;1;A;1,79;3,39;5,87
+25/09/2016;27;Flamengo;Cruzeiro;2;1;H;1,9;3,69;4,37
+25/09/2016;27;Gremio;Chapecoense;1;0;H;1,61;3,85;7,04
+25/09/2016;27;Vitoria;Sao Paulo;2;0;H;2,47;3,29;3,16
+25/09/2016;27;Atletico MG;Internacional;3;1;H;1,76;3,63;5,56
+01/10/2016;28;Fluminense;Sport;3;1;H;1,75;3,66;5,5
+01/10/2016;28;Chapecoense;Vitoria;1;4;A;1,95;3,45;4,5
+01/10/2016;28;Santos;Athletico PR;2;0;H;1,56;3,88;7,99
+01/10/2016;28;Sao Paulo;Flamengo;0;0;D;2,49;3,33;3,1
+01/10/2016;28;Botafogo;Corinthians;2;0;H;2,35;3,22;3,46
+01/10/2016;28;Ponte Preta;Atletico MG;1;2;A;2,25;3,41;3,48
+01/10/2016;28;Cruzeiro;Gremio;1;0;H;1,67;3,97;5,73
+02/10/2016;28;Internacional;Figueirense;1;0;H;1,43;4,58;9,29
+04/10/2016;28;Santa Cruz;Palmeiras;2;3;A;3,2;3,26;2,47
+04/10/2016;28;Coritiba;America MG;3;0;H;1,54;4,1;7,66
+05/10/2016;29;Athletico PR;Chapecoense;3;1;H;1,99;3,26;4,65
+05/10/2016;29;Vitoria;Gremio;0;1;A;2,13;3,43;3,79
+06/10/2016;29;Corinthians;Atletico MG;0;0;D;2,03;3,63;3,89
+06/10/2016;29;Santos;Fluminense;2;1;H;2,03;3,49;4,08
+06/10/2016;29;Sport;Sao Paulo;1;1;D;2,21;3,28;3,74
+06/10/2016;29;Internacional;Coritiba;1;0;H;1,83;3,45;5,33
+09/10/2016;29;Cruzeiro;Ponte Preta;2;0;H;1,7;3,79;5,79
+09/10/2016;29;America MG;Palmeiras;0;2;A;9;4,64;1,43
+09/10/2016;29;Figueirense;Botafogo;0;1;A;2,71;3,19;2,93
+09/10/2016;29;Flamengo;Santa Cruz;3;0;H;1,38;5,19;9,19
+12/10/2016;30;Chapecoense;Sport;3;0;H;1,99;3,41;4,35
+12/10/2016;30;Coritiba;Figueirense;0;0;D;1,53;4,12;7,82
+13/10/2016;30;Botafogo;Internacional;1;0;H;2,01;3,37;4,51
+13/10/2016;30;Santa Cruz;Corinthians;2;4;A;4,53;3,62;1,89
+13/10/2016;30;Atletico MG;America MG;3;0;H;1,34;5,39;10,77
+13/10/2016;30;Palmeiras;Cruzeiro;0;0;D;1,75;3,79;5,31
+13/10/2016;30;Ponte Preta;Vitoria;2;0;H;1,72;3,76;5,62
+14/10/2016;30;Fluminense;Flamengo;1;2;A;3,33;3,31;2,37
+14/10/2016;30;Gremio;Athletico PR;1;0;H;1,56;3,89;7,88
+14/10/2016;30;Sao Paulo;Santos;0;1;A;2,54;3,19;3,15
+16/10/2016;31;Athletico PR;Coritiba;2;0;H;3,12;3,08;2,63
+16/10/2016;31;Botafogo;Atletico MG;3;2;H;2,59;3,26;3,01
+16/10/2016;31;Cruzeiro;Chapecoense;0;0;D;1,46;4,34;9,23
+16/10/2016;31;Figueirense;Palmeiras;1;2;A;5,02;3,68;1,81
+16/10/2016;31;Internacional;Flamengo;2;1;H;2,63;3,19;3,01
+16/10/2016;31;Corinthians;America MG;2;0;H;1,36;5,13;10,46
+16/10/2016;31;Ponte Preta;Santa Cruz;3;0;H;1,6;4,17;6,27
+16/10/2016;31;Santos;Gremio;1;1;D;1,62;4;6,33
+16/10/2016;31;Sport;Vitoria;1;0;H;1,83;3,76;4,73
+17/10/2016;31;Fluminense;Sao Paulo;1;2;A;1,99;3,43;4,34
+20/10/2016;32;Santa Cruz;Botafogo;0;1;A;2,9;3,29;2,64
+22/10/2016;32;Sao Paulo;Ponte Preta;2;0;H;1,93;3,46;4,57
+23/10/2016;32;Flamengo;Corinthians;2;2;D;1,67;3,93;5,86
+23/10/2016;32;Gremio;Internacional;0;0;D;2,18;3,23;3,89
+23/10/2016;32;Palmeiras;Sport;2;1;H;1,37;5,12;10,13
+23/10/2016;32;Vitoria;Cruzeiro;0;1;A;2,66;3,26;2,88
+23/10/2016;32;Coritiba;Fluminense;1;1;D;2,22;3,33;3,66
+23/10/2016;32;Atletico MG;Figueirense;3;0;H;1,31;5,61;12,02
+23/10/2016;32;Chapecoense;Santos;0;1;A;2,81;3,37;2,69
+24/10/2016;32;America MG;Athletico PR;1;0;H;2,7;3,09;3,02
+27/10/2016;33;Sport;Ponte Preta;1;0;H;2,06;3,4;4,07
+28/10/2016;33;Fluminense;Vitoria;2;2;D;1,61;4,3;5,84
+29/10/2016;33;Atletico MG;Flamengo;2;2;D;2,3;3,65;3,15
+29/10/2016;33;Athletico PR;Cruzeiro;1;0;H;2,19;3,26;3,83
+29/10/2016;33;Corinthians;Chapecoense;1;1;D;1,58;4,17;6,62
+29/10/2016;33;Botafogo;Coritiba;0;0;D;1,75;3,69;5,45
+29/10/2016;33;Internacional;Santa Cruz;1;1;D;1,37;5;10,4
+29/10/2016;33;Figueirense;Gremio;0;0;D;2,5;3,18;3,21
+29/10/2016;33;Santos;Palmeiras;1;0;H;2,34;3,43;3,26
+31/10/2016;33;America MG;Sao Paulo;1;0;H;4,43;3,37;1,99
+05/11/2016;34;Flamengo;Botafogo;0;0;D;1,67;3,9;5,92
+05/11/2016;34;Sao Paulo;Corinthians;4;0;H;2,11;3,25;4,1
+06/11/2016;34;Ponte Preta;Santos;1;2;A;2,46;3,26;3,2
+06/11/2016;34;Cruzeiro;Fluminense;4;2;H;1,87;3,52;4,87
+06/11/2016;34;Palmeiras;Internacional;1;0;H;1,61;3,97;6,57
+06/11/2016;34;Santa Cruz;America MG;1;0;H;1,83;3,72;4,8
+06/11/2016;34;Vitoria;Athletico PR;3;2;H;1,81;3,53;5,23
+06/11/2016;34;Chapecoense;Figueirense;1;0;H;1,86;3,55;4,84
+06/11/2016;34;Coritiba;Atletico MG;2;0;H;2,52;3,37;3,01
+07/11/2016;34;Gremio;Sport;0;3;A;1,88;3,48;4,88
+15/11/2016;35;Fluminense;Athletico PR;1;1;D;1,69;3,65;6,28
+16/11/2016;35;Botafogo;Chapecoense;0;2;A;1,61;3,9;6,86
+16/11/2016;35;Coritiba;Santa Cruz;1;0;H;1,45;4,69;8,23
+16/11/2016;35;America MG;Flamengo;0;1;A;7,63;4,44;1,5
+16/11/2016;35;Figueirense;Corinthians;1;1;D;2,91;3,3;2,61
+16/11/2016;35;Sport;Cruzeiro;0;1;A;2,24;3,19;3,77
+17/11/2016;35;Santos;Vitoria;3;2;H;1,43;4,91;8,09
+17/11/2016;35;Sao Paulo;Gremio;1;1;D;2,04;3,28;4,34
+17/11/2016;35;Atletico MG;Palmeiras;1;1;D;2,31;3,47;3,3
+17/11/2016;35;Internacional;Ponte Preta;1;1;D;1,56;4,04;7,25
+20/11/2016;36;Athletico PR;Sport;2;0;H;1,83;3,67;4,86
+20/11/2016;36;Cruzeiro;Santos;2;2;D;2,19;3,61;3,44
+20/11/2016;36;Gremio;America MG;3;0;H;1,53;4,27;7,24
+20/11/2016;36;Palmeiras;Botafogo;1;0;H;1,53;4,28;7,28
+20/11/2016;36;Ponte Preta;Fluminense;1;0;H;2,31;3,42;3,34
+20/11/2016;36;Vitoria;Figueirense;4;0;H;1,56;4,37;6,39
+20/11/2016;36;Chapecoense;Sao Paulo;2;0;H;2,69;3,21;2,93
+20/11/2016;36;Flamengo;Coritiba;2;2;D;1,4;4,83;9,52
+20/11/2016;36;Santa Cruz;Atletico MG;3;3;D;2,33;3,85;2,97
+21/11/2016;36;Corinthians;Internacional;1;0;H;2;3,4;4,31
+26/11/2016;37;America MG;Sport;2;2;D;3,57;3,38;2,23
+26/11/2016;37;Botafogo;Ponte Preta;1;1;D;1,75;3,68;5,47
+26/11/2016;37;Corinthians;Athletico PR;0;0;D;1,78;3,6;5,37
+27/11/2016;37;Atletico MG;Sao Paulo;1;2;A;2,81;3,5;2,61
+27/11/2016;37;Flamengo;Santos;2;0;H;1,88;3,76;4,43
+27/11/2016;37;Internacional;Cruzeiro;1;0;H;1,69;3,83;5,73
+27/11/2016;37;Palmeiras;Chapecoense;1;0;H;1,46;4,49;8,66
+27/11/2016;37;Figueirense;Fluminense;1;0;H;2,95;3,26;2,63
+27/11/2016;37;Santa Cruz;Gremio;5;1;H;2,46;3,6;2,93
+28/11/2016;37;Coritiba;Vitoria;0;1;A;2,37;3,3;3,34
+11/12/2016;38;Athletico PR;Flamengo;0;0;D;2,18;3,48;3,59
+11/12/2016;38;Cruzeiro;Corinthians;3;2;H;2,51;3,41;2,99
+11/12/2016;38;Fluminense;Internacional;1;1;D;4,06;3,87;1,92
+11/12/2016;38;Gremio;Botafogo;0;1;A;3,92;3,41;2,08
+11/12/2016;38;Ponte Preta;Coritiba;2;0;H;1,65;4,1;5,76
+11/12/2016;38;Santos;America MG;1;0;H;1,21;7,39;16,2
+11/12/2016;38;Sao Paulo;Santa Cruz;5;0;H;1,27;6,7;11
+11/12/2016;38;Sport;Figueirense;2;0;H;1,24;6,36;15,86
+11/12/2016;38;Vitoria;Palmeiras;1;2;A;1,92;3,65;4,33
